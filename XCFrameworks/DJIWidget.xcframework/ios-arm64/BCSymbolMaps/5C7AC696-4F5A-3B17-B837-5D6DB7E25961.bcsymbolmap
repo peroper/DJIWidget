@@ -1,0 +1,3703 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.5 (clang-1205.0.22.9)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
+iPhoneOS14.5.sdk
+/Users/jonasbromo/Library/Caches/org.carthage.CarthageKit/DerivedData/12.5_12E262/DJIWidget/a31e852eee053a37c0bfd353c47b63259cf42341/Build/Intermediates.noindex/ArchiveIntermediates/DJIWidget/IntermediateBuildFilesPath/DJIWidget.build/Release-iphoneos/DJIWidget.build/DerivedSources/DJIWidget_vers.c
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget
+-[DJIRTPlayerRenderView initWithDecoderType:encoderType:]
+-[DJIRTPlayerRenderView layoutSubviews]
+-[DJIRTPlayerRenderView dealloc]
+-[DJIRTPlayerRenderView setRotation:]
+-[DJIRTPlayerRenderView appDidEnterBackground:]
+-[DJIRTPlayerRenderView appWillEnterForeGround:]
+-[DJIRTPlayerRenderView setEncoderType:]
+-[DJIRTPlayerRenderView decodeH264CompleteFrameData:length:decodeOnly:]
+___71-[DJIRTPlayerRenderView decodeH264CompleteFrameData:length:decodeOnly:]_block_invoke
+___copy_helper_block_e8_32w
+___destroy_helper_block_e8_32w
+-[DJIRTPlayerRenderView decodeH264RawData:length:]
+___50-[DJIRTPlayerRenderView decodeH264RawData:length:]_block_invoke
+___copy_helper_block_e8_32r40w
+___destroy_helper_block_e8_32r40w
+-[DJIRTPlayerRenderView decodeFrame:]
+-[DJIRTPlayerRenderView snapshotPreview:]
+-[DJIRTPlayerRenderView videoProcessorEnabled]
+-[DJIRTPlayerRenderView decompressedFrame:frameInfo:]
+-[DJIRTPlayerRenderView videoProcessFrame:]
+-[DJIRTPlayerRenderView videoProcessFailedFrame]
+-[DJIRTPlayerRenderView reDraw]
+-[DJIRTPlayerRenderView reDrawWithGrayout:]
+-[DJIRTPlayerRenderView canRender]
+-[DJIRTPlayerRenderView rotation]
+-[DJIRTPlayerRenderView encoderType]
+-[DJIRTPlayerRenderView delegate]
+-[DJIRTPlayerRenderView setDelegate:]
+-[DJIRTPlayerRenderView decoderType]
+-[DJIRTPlayerRenderView setDecoderType:]
+-[DJIRTPlayerRenderView renderLock]
+-[DJIRTPlayerRenderView setRenderLock:]
+-[DJIRTPlayerRenderView glView]
+-[DJIRTPlayerRenderView setGlView:]
+-[DJIRTPlayerRenderView isBackGround]
+-[DJIRTPlayerRenderView setIsBackGround:]
+-[DJIRTPlayerRenderView framePushed]
+-[DJIRTPlayerRenderView setFramePushed:]
+-[DJIRTPlayerRenderView frameExtractor]
+-[DJIRTPlayerRenderView setFrameExtractor:]
+-[DJIRTPlayerRenderView hwDecoder]
+-[DJIRTPlayerRenderView setHwDecoder:]
+-[DJIRTPlayerRenderView softDecoder]
+-[DJIRTPlayerRenderView setSoftDecoder:]
+-[DJIRTPlayerRenderView .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_IVAR_$_DJIRTPlayerRenderView._decoderType
+_OBJC_IVAR_$_DJIRTPlayerRenderView._encoderType
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_IVAR_$_DJIRTPlayerRenderView._glView
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_CLASSLIST_REFERENCES_$_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_IVAR_$_DJIRTPlayerRenderView._frameExtractor
+_OBJC_CLASSLIST_REFERENCES_$_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_IVAR_$_DJIRTPlayerRenderView._softDecoder
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_CLASSLIST_REFERENCES_$_.20
+_OBJC_IVAR_$_DJIRTPlayerRenderView._hwDecoder
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_IVAR_$_DJIRTPlayerRenderView._rotation
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_IVAR_$_DJIRTPlayerRenderView._renderLock
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+___block_descriptor_41_e8_32w_e78_v16?0^{?=b8b24IQ{?=SSSCCSS(?={?=b1b1b1b1b1b1b2b8}I){?=b1b1b1b1b4CCI}II}[0C]}8l
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+___block_descriptor_48_e8_32r40w_e78_v16?0^{?=b8b24IQ{?=SSSCCSS(?={?=b1b1b1b1b1b1b2b8}I){?=b1b1b1b1b4CCI}II}[0C]}8l
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_IVAR_$_DJIRTPlayerRenderView._framePushed
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_IVAR_$_DJIRTPlayerRenderView._isBackGround
+_OBJC_IVAR_$_DJIRTPlayerRenderView._delegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_VideoFrameProcessor
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_VideoFrameProcessor
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_VideoFrameProcessor
+__OBJC_$_PROTOCOL_METHOD_TYPES_VideoFrameProcessor
+__OBJC_PROTOCOL_$_VideoFrameProcessor
+__OBJC_LABEL_PROTOCOL_$_VideoFrameProcessor
+__OBJC_$_PROTOCOL_REFS_H264DecoderOutput
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_H264DecoderOutput
+__OBJC_$_PROTOCOL_METHOD_TYPES_H264DecoderOutput
+__OBJC_PROTOCOL_$_H264DecoderOutput
+__OBJC_LABEL_PROTOCOL_$_H264DecoderOutput
+__OBJC_CLASS_PROTOCOLS_$_DJIRTPlayerRenderView
+__OBJC_METACLASS_RO_$_DJIRTPlayerRenderView
+__OBJC_$_INSTANCE_METHODS_DJIRTPlayerRenderView
+__OBJC_$_INSTANCE_VARIABLES_DJIRTPlayerRenderView
+__OBJC_$_PROP_LIST_DJIRTPlayerRenderView
+__OBJC_CLASS_RO_$_DJIRTPlayerRenderView
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoService/H1Camera/DJIRTPlayerRenderView.m
+DJIWidget/VideoService/H1Camera/DJIRTPlayerRenderView.m
+DJIWidget/VideoService/H1Camera/DJIRTPlayerRenderView.h
+__destroy_helper_block_e8_32r40w
+__copy_helper_block_e8_32r40w
+__50-[DJIRTPlayerRenderView decodeH264RawData:length:]_block_invoke
+__destroy_helper_block_e8_32w
+__copy_helper_block_e8_32w
+__71-[DJIRTPlayerRenderView decodeH264CompleteFrameData:length:decodeOnly:]_block_invoke
+-[DJICameraRemotePlayerView initWithPlayerLayer:]
+-[DJICameraRemotePlayerView layoutSubviews]
+-[DJICameraRemotePlayerView reDraw]
+-[DJICameraRemotePlayerView playerLayer]
+-[DJICameraRemotePlayerView setPlayerLayer:]
+-[DJICameraRemotePlayerView .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_IVAR_$_DJICameraRemotePlayerView._playerLayer
+__OBJC_METACLASS_RO_$_DJICameraRemotePlayerView
+__OBJC_$_INSTANCE_METHODS_DJICameraRemotePlayerView
+__OBJC_$_INSTANCE_VARIABLES_DJICameraRemotePlayerView
+__OBJC_$_PROP_LIST_DJICameraRemotePlayerView
+__OBJC_CLASS_RO_$_DJICameraRemotePlayerView
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoService/H1Camera/DJICameraRemotePlayerView.m
+DJIWidget/VideoService/H1Camera/DJICameraRemotePlayerView.m
+-[DJIImageCalibrationFrame initWithFrame:fastUpload:pixelCacheQueue:andMemCacheQueue:]
+-[DJIImageCalibrationFrame loadFrame:fastUpload:]
+-[DJIImageCalibrationFrame cacheInitWithFrameSize:andFrameType:]
+-[DJIImageCalibrationFrame init]
+-[DJIImageCalibrationFrame prepareBeforeUsing]
+-[DJIImageCalibrationFrame .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_IVAR_$_DJIImageCalibrationFrame._cacheSizes
+_OBJC_CLASSLIST_REFERENCES_$_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+__OBJC_METACLASS_RO_$_DJIImageCalibrationFrame
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrationFrame
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrationFrame
+__OBJC_CLASS_RO_$_DJIImageCalibrationFrame
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/DJIImageCalibrationFrame/DJIImageCalibrationFrame.m
+DJIWidget/VideoPreviewer/Helper/DJIImageCalibrationFrame/DJIImageCalibrationFrame.m
++[NSError(DJIVTH264CompressSession) videoToolboxErrorWithStatus:]
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+__OBJC_$_CATEGORY_CLASS_METHODS_NSError_$_DJIVTH264CompressSession
+__OBJC_$_CATEGORY_NSError_$_DJIVTH264CompressSession
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoService/VTH264Encoder/NSError+DJIVTH264CompressSession.m
+DJIWidget/VideoService/VTH264Encoder/NSError+DJIVTH264CompressSession.m
+DescriptionWithStatus
+-[DJILiveViewRenderFilter initWithContext:vertexShaderFromString:fragmentShaderFromString:]
+-[DJILiveViewRenderFilter initWithContext:fragmentShaderFromString:]
+-[DJILiveViewRenderFilter initWithContext:fragmentShaderFromFile:]
+-[DJILiveViewRenderFilter initWithContext:]
+-[DJILiveViewRenderFilter initializeAttributes]
+-[DJILiveViewRenderFilter setupFilterForSize:]
+-[DJILiveViewRenderFilter releaseResources]
+-[DJILiveViewRenderFilter dealloc]
+-[DJILiveViewRenderFilter newCGImageFromCurrentlyProcessedOutput]
+-[DJILiveViewRenderFilter sizeOfFBO]
++[DJILiveViewRenderFilter textureCoordinatesForRotation:]
+-[DJILiveViewRenderFilter renderToTextureWithVertices:textureCoordinates:]
+-[DJILiveViewRenderFilter informTargetsAboutNewFrameAtTime:]
+-[DJILiveViewRenderFilter outputFrameSize]
+-[DJILiveViewRenderFilter setBackgroundColorRed:green:blue:alpha:]
+-[DJILiveViewRenderFilter setInteger:forUniformName:]
+-[DJILiveViewRenderFilter setFloat:forUniformName:]
+-[DJILiveViewRenderFilter setSize:forUniformName:]
+-[DJILiveViewRenderFilter setPoint:forUniformName:]
+-[DJILiveViewRenderFilter setFloatVec3:forUniformName:]
+-[DJILiveViewRenderFilter setFloatVec4:forUniform:]
+-[DJILiveViewRenderFilter setFloatArray:length:forUniform:]
+-[DJILiveViewRenderFilter setMatrix3f:forUniform:program:]
+___58-[DJILiveViewRenderFilter setMatrix3f:forUniform:program:]_block_invoke
+-[DJILiveViewRenderFilter setMatrix4f:forUniform:program:]
+___58-[DJILiveViewRenderFilter setMatrix4f:forUniform:program:]_block_invoke
+-[DJILiveViewRenderFilter setFloat:forUniform:program:]
+___55-[DJILiveViewRenderFilter setFloat:forUniform:program:]_block_invoke
+-[DJILiveViewRenderFilter setPoint:forUniform:program:]
+___55-[DJILiveViewRenderFilter setPoint:forUniform:program:]_block_invoke
+-[DJILiveViewRenderFilter setSize:forUniform:program:]
+___54-[DJILiveViewRenderFilter setSize:forUniform:program:]_block_invoke
+-[DJILiveViewRenderFilter setVec3:forUniform:program:]
+___54-[DJILiveViewRenderFilter setVec3:forUniform:program:]_block_invoke
+-[DJILiveViewRenderFilter setVec4:forUniform:program:]
+___54-[DJILiveViewRenderFilter setVec4:forUniform:program:]_block_invoke
+-[DJILiveViewRenderFilter setFloatArray:length:forUniform:program:]
+___67-[DJILiveViewRenderFilter setFloatArray:length:forUniform:program:]_block_invoke
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+-[DJILiveViewRenderFilter setInteger:forUniform:program:]
+___57-[DJILiveViewRenderFilter setInteger:forUniform:program:]_block_invoke
+-[DJILiveViewRenderFilter setAndExecuteUniformStateCallbackAtIndex:forProgram:toBlock:]
+-[DJILiveViewRenderFilter setUniformsForProgramAtIndex:]
+___56-[DJILiveViewRenderFilter setUniformsForProgramAtIndex:]_block_invoke
+-[DJILiveViewRenderFilter newFrameReadyAtTime:atIndex:]
+-[DJILiveViewRenderFilter nextAvailableTextureIndex]
+-[DJILiveViewRenderFilter setInputFramebuffer:atIndex:]
+-[DJILiveViewRenderFilter rotatedSize:forIndex:]
+-[DJILiveViewRenderFilter rotatedPoint:forRotation:]
+-[DJILiveViewRenderFilter setInputSize:atIndex:]
+-[DJILiveViewRenderFilter setInputRotation:atIndex:]
+-[DJILiveViewRenderFilter forceProcessingAtSize:]
+-[DJILiveViewRenderFilter forceProcessingAtSizeRespectingAspectRatio:]
+-[DJILiveViewRenderFilter maximumOutputSize]
+-[DJILiveViewRenderFilter endProcessing]
+-[DJILiveViewRenderFilter preventRendering]
+-[DJILiveViewRenderFilter setPreventRendering:]
+-[DJILiveViewRenderFilter renderTarget]
+-[DJILiveViewRenderFilter needClear]
+-[DJILiveViewRenderFilter setNeedClear:]
+-[DJILiveViewRenderFilter .cxx_destruct]
+_OBJC_IVAR_$_DJILiveViewRenderFilter._preventRendering
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_CLASSLIST_REFERENCES_$_.46
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_CLASSLIST_REFERENCES_$_.53
+_g_yuvQuadTexCoordsNormal
+_g_yuvQuadTexCoords270CW
+_g_yuvQuadTexCoords90CW
+_g_yuvQuadTexCoords180CW
+_OBJC_CLASSLIST_REFERENCES_$_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+___block_descriptor_72_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.123
+___block_descriptor_100_e5_v8?0l
+___block_descriptor_40_e5_v8?0l
+___block_descriptor_52_e5_v8?0l
+___block_descriptor_48_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.128
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_SELECTOR_REFERENCES_.132
+___block_descriptor_48_e8_32s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_CLASSLIST_REFERENCES_$_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+___block_descriptor_32_e15_v32?0816^B24l
+___block_literal_global
+_OBJC_SELECTOR_REFERENCES_.142
+_newFrameReadyAtTime:atIndex:.imageVertices
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_IVAR_$_DJILiveViewRenderFilter._renderTarget
+_OBJC_IVAR_$_DJILiveViewRenderFilter._needClear
+__OBJC_$_CLASS_METHODS_DJILiveViewRenderFilter
+__OBJC_$_PROTOCOL_REFS_DJILiveViewRenderInput
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJILiveViewRenderInput
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJILiveViewRenderInput
+__OBJC_PROTOCOL_$_DJILiveViewRenderInput
+__OBJC_LABEL_PROTOCOL_$_DJILiveViewRenderInput
+__OBJC_CLASS_PROTOCOLS_$_DJILiveViewRenderFilter
+__OBJC_METACLASS_RO_$_DJILiveViewRenderFilter
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderFilter
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderFilter
+__OBJC_$_PROP_LIST_DJILiveViewRenderFilter
+__OBJC_CLASS_RO_$_DJILiveViewRenderFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderFilter.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderFilter.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderFilter.h
+__CGSizeEqualToSize
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+__56-[DJILiveViewRenderFilter setUniformsForProgramAtIndex:]_block_invoke
+__57-[DJILiveViewRenderFilter setInteger:forUniform:program:]_block_invoke
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__67-[DJILiveViewRenderFilter setFloatArray:length:forUniform:program:]_block_invoke
+__54-[DJILiveViewRenderFilter setVec4:forUniform:program:]_block_invoke
+__54-[DJILiveViewRenderFilter setVec3:forUniform:program:]_block_invoke
+__54-[DJILiveViewRenderFilter setSize:forUniform:program:]_block_invoke
+__55-[DJILiveViewRenderFilter setPoint:forUniform:program:]_block_invoke
+__55-[DJILiveViewRenderFilter setFloat:forUniform:program:]_block_invoke
+__58-[DJILiveViewRenderFilter setMatrix4f:forUniform:program:]_block_invoke
+__58-[DJILiveViewRenderFilter setMatrix3f:forUniform:program:]_block_invoke
+-[DJIVideoFeedCachingSession _init]
+-[DJIVideoFeedCachingSession initWithVideoPreviewer:]
+-[DJIVideoFeedCachingSession startSession]
+-[DJIVideoFeedCachingSession startRecording]
+-[DJIVideoFeedCachingSession stopSession]
+-[DJIVideoFeedCachingSession videoProcessorEnabled]
+-[DJIVideoFeedCachingSession videoProcessFrame:]
+___48-[DJIVideoFeedCachingSession videoProcessFrame:]_block_invoke
+___48-[DJIVideoFeedCachingSession videoProcessFrame:]_block_invoke.71
+-[DJIVideoFeedCachingSession vtH264Encoder:output:]
+-[DJIVideoFeedCachingSession currentTimeTag]
+-[DJIVideoFeedCachingSession recordingStatus]
+-[DJIVideoFeedCachingSession setRecordingStatus:]
+-[DJIVideoFeedCachingSession recordedTime]
+-[DJIVideoFeedCachingSession setRecordedTime:]
+-[DJIVideoFeedCachingSession writer]
+-[DJIVideoFeedCachingSession setWriter:]
+-[DJIVideoFeedCachingSession previewer]
+-[DJIVideoFeedCachingSession setPreviewer:]
+-[DJIVideoFeedCachingSession encoder]
+-[DJIVideoFeedCachingSession setEncoder:]
+-[DJIVideoFeedCachingSession streamInfo]
+-[DJIVideoFeedCachingSession setStreamInfo:]
+-[DJIVideoFeedCachingSession startUpdateRecordTime]
+-[DJIVideoFeedCachingSession setStartUpdateRecordTime:]
+-[DJIVideoFeedCachingSession recordFrameCounter]
+-[DJIVideoFeedCachingSession setRecordFrameCounter:]
+-[DJIVideoFeedCachingSession recordStartTime]
+-[DJIVideoFeedCachingSession setRecordStartTime:]
+-[DJIVideoFeedCachingSession .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_CLASSLIST_REFERENCES_$_.22
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_CLASSLIST_REFERENCES_$_.35
+___block_descriptor_40_e8_32w_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+___block_descriptor_48_e8_32w_e5_v8?0l
+__OBJC_$_PROTOCOL_REFS_DJIVTH264EncoderOutput
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJIVTH264EncoderOutput
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJIVTH264EncoderOutput
+__OBJC_PROTOCOL_$_DJIVTH264EncoderOutput
+__OBJC_LABEL_PROTOCOL_$_DJIVTH264EncoderOutput
+__OBJC_$_PROTOCOL_REFS_DJILiveViewDammyCameraSessionProtocol
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJILiveViewDammyCameraSessionProtocol
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_DJILiveViewDammyCameraSessionProtocol
+__OBJC_$_PROP_LIST_DJILiveViewDammyCameraSessionProtocol
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJILiveViewDammyCameraSessionProtocol
+__OBJC_PROTOCOL_$_DJILiveViewDammyCameraSessionProtocol
+__OBJC_LABEL_PROTOCOL_$_DJILiveViewDammyCameraSessionProtocol
+__OBJC_CLASS_PROTOCOLS_$_DJIVideoFeedCachingSession
+__OBJC_METACLASS_RO_$_DJIVideoFeedCachingSession
+__OBJC_$_INSTANCE_METHODS_DJIVideoFeedCachingSession
+_OBJC_IVAR_$_DJIVideoFeedCachingSession._startUpdateRecordTime
+_OBJC_IVAR_$_DJIVideoFeedCachingSession._recordingStatus
+_OBJC_IVAR_$_DJIVideoFeedCachingSession._recordedTime
+_OBJC_IVAR_$_DJIVideoFeedCachingSession._writer
+_OBJC_IVAR_$_DJIVideoFeedCachingSession._previewer
+_OBJC_IVAR_$_DJIVideoFeedCachingSession._encoder
+_OBJC_IVAR_$_DJIVideoFeedCachingSession._recordFrameCounter
+_OBJC_IVAR_$_DJIVideoFeedCachingSession._recordStartTime
+_OBJC_IVAR_$_DJIVideoFeedCachingSession._streamInfo
+__OBJC_$_INSTANCE_VARIABLES_DJIVideoFeedCachingSession
+__OBJC_$_PROP_LIST_DJIVideoFeedCachingSession
+__OBJC_CLASS_RO_$_DJIVideoFeedCachingSession
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoLiveCamera/RecordVideo/DJIVideoFeedCachingSession.m
+DJIWidget/VideoLiveCamera/RecordVideo/DJIVideoFeedCachingSession.m
+DJIWidget/VideoLiveCamera/RecordVideo/DJIVideoFeedCachingSession.h
+__48-[DJIVideoFeedCachingSession videoProcessFrame:]_block_invoke.71
+__48-[DJIVideoFeedCachingSession videoProcessFrame:]_block_invoke
+-[DJILiveViewRenderHighlightShadowFilter initWithContext:]
+-[DJILiveViewRenderHighlightShadowFilter setShadowsLighten:]
+-[DJILiveViewRenderHighlightShadowFilter setHighlightsDecrease:]
+-[DJILiveViewRenderHighlightShadowFilter shadowsLighten]
+-[DJILiveViewRenderHighlightShadowFilter highlightsDecrease]
+_OBJC_IVAR_$_DJILiveViewRenderHighlightShadowFilter._highlightsDecrease
+_OBJC_IVAR_$_DJILiveViewRenderHighlightShadowFilter._shadowsLighten
+__OBJC_METACLASS_RO_$_DJILiveViewRenderHighlightShadowFilter
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderHighlightShadowFilter
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderHighlightShadowFilter
+__OBJC_$_PROP_LIST_DJILiveViewRenderHighlightShadowFilter
+__OBJC_CLASS_RO_$_DJILiveViewRenderHighlightShadowFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/HighLightShadowFilter/DJILiveViewRenderHighlightShadowFilter.m
+DJIWidget/VideoPreviewer/Render/HighLightShadowFilter/DJILiveViewRenderHighlightShadowFilter.h
+DJIWidget/VideoPreviewer/Render/HighLightShadowFilter/DJILiveViewRenderHighlightShadowFilter.m
+-[DJIDecodeImageCalibrateDataBuffer init]
+-[DJIDecodeImageCalibrateDataBuffer initData]
+-[DJIDecodeImageCalibrateDataBuffer renderTarget]
+-[DJIDecodeImageCalibrateDataBuffer requestRGBAPixelBuffer]
+-[DJIDecodeImageCalibrateDataBuffer rgbaPixelBuffer]
+-[DJIDecodeImageCalibrateDataBuffer handlerRGBAData:]
+-[DJIDecodeImageCalibrateDataBuffer dataBufferHandler]
+-[DJIDecodeImageCalibrateDataBuffer setDataBufferHandler:]
+-[DJIDecodeImageCalibrateDataBuffer bufferFlag]
+-[DJIDecodeImageCalibrateDataBuffer setBufferFlag:]
+-[DJIDecodeImageCalibrateDataBuffer .cxx_destruct]
+_OBJC_IVAR_$_DJIDecodeImageCalibrateDataBuffer._bufferFlag
+_OBJC_IVAR_$_DJIDecodeImageCalibrateDataBuffer._pixelQueue
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_CLASSLIST_REFERENCES_$_.28
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_IVAR_$_DJIDecodeImageCalibrateDataBuffer._dataBufferHandler
+__OBJC_METACLASS_RO_$_DJIDecodeImageCalibrateDataBuffer
+__OBJC_$_INSTANCE_METHODS_DJIDecodeImageCalibrateDataBuffer
+__OBJC_$_INSTANCE_VARIABLES_DJIDecodeImageCalibrateDataBuffer
+__OBJC_$_PROP_LIST_DJIDecodeImageCalibrateDataBuffer
+__OBJC_CLASS_RO_$_DJIDecodeImageCalibrateDataBuffer
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIDecodeImageCalibrateDataBuffer.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIDecodeImageCalibrateDataBuffer.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIDecodeImageCalibrateDataBuffer.h
+-[DJIDecodeImageCalibrateDataSource configOutputBuffer]
+-[DJIDecodeImageCalibrateDataSource loadFrame:]
+_OBJC_IVAR_$_DJIDecodeImageCalibrateDataSource._inputSize
+__OBJC_METACLASS_RO_$_DJIDecodeImageCalibrateDataSource
+__OBJC_$_INSTANCE_METHODS_DJIDecodeImageCalibrateDataSource
+__OBJC_$_INSTANCE_VARIABLES_DJIDecodeImageCalibrateDataSource
+__OBJC_CLASS_RO_$_DJIDecodeImageCalibrateDataSource
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIDecodeImageCalibrateDataSource.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIDecodeImageCalibrateDataSource.m
+-[DJIImageCalibrationFrameQueue dealloc]
+-[DJIImageCalibrationFrameQueue initWithQueueCapacity:andThreadSafe:]
+-[DJIImageCalibrationFrameQueue init]
+-[DJIImageCalibrationFrameQueue push:]
+-[DJIImageCalibrationFrameQueue pull]
+-[DJIImageCalibrationFrameQueue .cxx_destruct]
+__OBJC_METACLASS_RO_$_DJIImageCalibrationFrameQueue
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrationFrameQueue
+_OBJC_IVAR_$_DJIImageCalibrationFrameQueue._capacity
+_OBJC_IVAR_$_DJIImageCalibrationFrameQueue._queueMutex
+_OBJC_IVAR_$_DJIImageCalibrationFrameQueue._head
+_OBJC_IVAR_$_DJIImageCalibrationFrameQueue._threadSafe
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrationFrameQueue
+__OBJC_CLASS_RO_$_DJIImageCalibrationFrameQueue
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/DJIImageCalibrationFrame/DJIImageCalibrationFrameQueue.m
+DJIWidget/VideoPreviewer/Helper/DJIImageCalibrationFrame/DJIImageCalibrationFrameQueue.m
+-[DJILiveViewRenderColorMatrixFilter initWithContext:]
+-[DJILiveViewRenderColorMatrixFilter setIntensity:]
+-[DJILiveViewRenderColorMatrixFilter setColorMatrix:]
+-[DJILiveViewRenderColorMatrixFilter intensity]
+-[DJILiveViewRenderColorMatrixFilter colorMatrix]
+_OBJC_IVAR_$_DJILiveViewRenderColorMatrixFilter._intensity
+_OBJC_IVAR_$_DJILiveViewRenderColorMatrixFilter._colorMatrix
+__OBJC_METACLASS_RO_$_DJILiveViewRenderColorMatrixFilter
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderColorMatrixFilter
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderColorMatrixFilter
+__OBJC_$_PROP_LIST_DJILiveViewRenderColorMatrixFilter
+__OBJC_CLASS_RO_$_DJILiveViewRenderColorMatrixFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/ColorMatrixFilter/DJILiveViewRenderColorMatrixFilter.m
+DJIWidget/VideoPreviewer/Render/ColorMatrixFilter/DJILiveViewRenderColorMatrixFilter.m
+-[DJICalibratePixelBufferProvider init]
+-[DJICalibratePixelBufferProvider dealloc]
+-[DJICalibratePixelBufferProvider enabled]
+-[DJICalibratePixelBufferProvider setInputSize:atIndex:]
+-[DJICalibratePixelBufferProvider newFrameReadyAtTime:atIndex:]
+-[DJICalibratePixelBufferProvider endProcessing]
+-[DJICalibratePixelBufferProvider updateFrameInfoWithFrameYUV:]
+-[DJICalibratePixelBufferProvider setInputFramebuffer:atIndex:]
+-[DJICalibratePixelBufferProvider providerEnabled]
+-[DJICalibratePixelBufferProvider setProviderEnabled:]
+-[DJICalibratePixelBufferProvider delegate]
+-[DJICalibratePixelBufferProvider setDelegate:]
+-[DJICalibratePixelBufferProvider .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_DJICalibratePixelBufferProvider
+__OBJC_METACLASS_RO_$_DJICalibratePixelBufferProvider
+__OBJC_$_INSTANCE_METHODS_DJICalibratePixelBufferProvider
+_OBJC_IVAR_$_DJICalibratePixelBufferProvider._updatedFrameInfo
+_OBJC_IVAR_$_DJICalibratePixelBufferProvider._lock
+_OBJC_IVAR_$_DJICalibratePixelBufferProvider._providerEnabled
+_OBJC_IVAR_$_DJICalibratePixelBufferProvider._delegate
+__OBJC_$_INSTANCE_VARIABLES_DJICalibratePixelBufferProvider
+__OBJC_$_PROP_LIST_DJICalibratePixelBufferProvider
+__OBJC_CLASS_RO_$_DJICalibratePixelBufferProvider
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/PixelBufferProvider/DJICalibratePixelBufferProvider.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/PixelBufferProvider/DJICalibratePixelBufferProvider.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/PixelBufferProvider/DJICalibratePixelBufferProvider.h
+-[DJIRtmpMuxer _init]
++[DJIRtmpMuxer sharedInstance]
+___30+[DJIRtmpMuxer sharedInstance]_block_invoke
+-[DJIRtmpMuxer setupVideoPreviewer:]
+-[DJIRtmpMuxer streamProcessorHandleFrame:size:]
+-[DJIRtmpMuxer setStatus:]
+-[DJIRtmpMuxer setAudioGainLevel:]
+-[DJIRtmpMuxer dealloc]
+-[DJIRtmpMuxer clearBuffer]
+-[DJIRtmpMuxer pushFrame:]
+-[DJIRtmpMuxer enqueueAudioFrame:size:]
+-[DJIRtmpMuxer pushAudioFrame:size:]
+-[DJIRtmpMuxer start]
+-[DJIRtmpMuxer stop]
+-[DJIRtmpMuxer setMuteAudio:]
+-[DJIRtmpMuxer observeValueForKeyPath:ofObject:change:context:]
+-[DJIRtmpMuxer frameRateChangeHandler]
+-[DJIRtmpMuxer streamProcessorEnabled]
+-[DJIRtmpMuxer streamProcessorInfoChanged:]
+-[DJIRtmpMuxer streamProcessorPause]
+-[DJIRtmpMuxer streamProcessorReset]
+-[DJIRtmpMuxer streamProcessorHandleFrameRaw:]
+-[DJIRtmpMuxer streamProcessorType]
+-[DJIRtmpMuxer videoProcessorEnabled]
+-[DJIRtmpMuxer videoProcessFrame:]
+-[DJIRtmpMuxer vtH264Encoder:output:]
+-[DJIRtmpMuxer rtmpWork]
+-[DJIRtmpMuxer frameCleanup:]
+-[DJIRtmpMuxer audio_queue_init]
+-[DJIRtmpMuxer audio_queue_start]
+-[DJIRtmpMuxer audio_queue_stop]
+-[DJIRtmpMuxer ffmpeg_init]
+-[DJIRtmpMuxer ffmpeg_shutdown]
+-[DJIRtmpMuxer ffmpeg_free]
+-[DJIRtmpMuxer ffmpeg_encodeAudioFrame:length:]
+-[DJIRtmpMuxer calcAudioGain:sampleCount:]
+-[DJIRtmpMuxer delegate]
+-[DJIRtmpMuxer setDelegate:]
+-[DJIRtmpMuxer enabled]
+-[DJIRtmpMuxer setEnabled:]
+-[DJIRtmpMuxer status]
+-[DJIRtmpMuxer serverURL]
+-[DJIRtmpMuxer setServerURL:]
+-[DJIRtmpMuxer enableAudio]
+-[DJIRtmpMuxer setEnableAudio:]
+-[DJIRtmpMuxer muteAudio]
+-[DJIRtmpMuxer retryCount]
+-[DJIRtmpMuxer setRetryCount:]
+-[DJIRtmpMuxer rotate]
+-[DJIRtmpMuxer setRotate:]
+-[DJIRtmpMuxer convertGDR]
+-[DJIRtmpMuxer setConvertGDR:]
+-[DJIRtmpMuxer smoothDelayTimeSeconds]
+-[DJIRtmpMuxer setSmoothDelayTimeSeconds:]
+-[DJIRtmpMuxer startedDuration]
+-[DJIRtmpMuxer setStartedDuration:]
+-[DJIRtmpMuxer outputFps]
+-[DJIRtmpMuxer setOutputFps:]
+-[DJIRtmpMuxer outputKbitPerSec]
+-[DJIRtmpMuxer setOutputKbitPerSec:]
+-[DJIRtmpMuxer outputAudioKbitPerSec]
+-[DJIRtmpMuxer setOutputAudioKbitPerSec:]
+-[DJIRtmpMuxer bufferCount]
+-[DJIRtmpMuxer setBufferCount:]
+-[DJIRtmpMuxer videoFrameNum]
+-[DJIRtmpMuxer setVideoFrameNum:]
+-[DJIRtmpMuxer audioFrameNum]
+-[DJIRtmpMuxer setAudioFrameNum:]
+-[DJIRtmpMuxer audioGainLevel]
+-[DJIRtmpMuxer encoder]
+-[DJIRtmpMuxer setEncoder:]
+-[DJIRtmpMuxer streamInfo]
+-[DJIRtmpMuxer setStreamInfo:]
+-[DJIRtmpMuxer iFrameProvider]
+-[DJIRtmpMuxer setIFrameProvider:]
+-[DJIRtmpMuxer smoothHelper]
+-[DJIRtmpMuxer setSmoothHelper:]
+-[DJIRtmpMuxer videoPreviewer]
+-[DJIRtmpMuxer setVideoPreviewer:]
+-[DJIRtmpMuxer .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_CLASSLIST_REFERENCES_$_.8
+_sharedInstance.logic
+_sharedInstance.onceToken
+___block_descriptor_32_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_CLASSLIST_REFERENCES_$_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_CLASSLIST_REFERENCES_$_.146
+_OBJC_CLASSLIST_REFERENCES_$_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_CLASSLIST_REFERENCES_$_.154
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_SELECTOR_REFERENCES_.202
+_OBJC_SELECTOR_REFERENCES_.204
+_rtmpWork.frame_count
+_rtmpWork.bits_count
+_OBJC_SELECTOR_REFERENCES_.208
+_rtmpWork.frame_count.211
+_rtmpWork.bits_count.212
+_OBJC_SELECTOR_REFERENCES_.214
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_SELECTOR_REFERENCES_.229
+_OBJC_SELECTOR_REFERENCES_.237
+_OBJC_SELECTOR_REFERENCES_.239
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_SELECTOR_REFERENCES_.271
+_OBJC_SELECTOR_REFERENCES_.273
+_OBJC_SELECTOR_REFERENCES_.275
+_OBJC_SELECTOR_REFERENCES_.277
+__OBJC_$_CLASS_METHODS_DJIRtmpMuxer
+__OBJC_$_PROTOCOL_REFS_VideoStreamProcessor
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_VideoStreamProcessor
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_VideoStreamProcessor
+__OBJC_$_PROTOCOL_METHOD_TYPES_VideoStreamProcessor
+__OBJC_PROTOCOL_$_VideoStreamProcessor
+__OBJC_LABEL_PROTOCOL_$_VideoStreamProcessor
+__OBJC_CLASS_PROTOCOLS_$_DJIRtmpMuxer
+__OBJC_METACLASS_RO_$_DJIRtmpMuxer
+__OBJC_$_INSTANCE_METHODS_DJIRtmpMuxer
+_OBJC_IVAR_$_DJIRtmpMuxer.videoCache
+_OBJC_IVAR_$_DJIRtmpMuxer.workThread
+_OBJC_IVAR_$_DJIRtmpMuxer.threadExitWait
+_OBJC_IVAR_$_DJIRtmpMuxer.fmt_context
+_OBJC_IVAR_$_DJIRtmpMuxer.i_fmt_context
+_OBJC_IVAR_$_DJIRtmpMuxer.video_stream
+_OBJC_IVAR_$_DJIRtmpMuxer.audio_stream
+_OBJC_IVAR_$_DJIRtmpMuxer.last_frame_pts
+_OBJC_IVAR_$_DJIRtmpMuxer.last_audio_pts
+_OBJC_IVAR_$_DJIRtmpMuxer.audio_samples_written
+_OBJC_IVAR_$_DJIRtmpMuxer.video_samples_written
+_OBJC_IVAR_$_DJIRtmpMuxer.videoIDRPushed
+_OBJC_IVAR_$_DJIRtmpMuxer.audioQueueCanUse
+_OBJC_IVAR_$_DJIRtmpMuxer.streamConfigDidChanged
+_OBJC_IVAR_$_DJIRtmpMuxer.dump_video_file
+_OBJC_IVAR_$_DJIRtmpMuxer.dump_audio_file
+_OBJC_IVAR_$_DJIRtmpMuxer.audioBuffer
+_OBJC_IVAR_$_DJIRtmpMuxer._enabled
+_OBJC_IVAR_$_DJIRtmpMuxer._enableAudio
+_OBJC_IVAR_$_DJIRtmpMuxer._muteAudio
+_OBJC_IVAR_$_DJIRtmpMuxer._convertGDR
+_OBJC_IVAR_$_DJIRtmpMuxer._outputKbitPerSec
+_OBJC_IVAR_$_DJIRtmpMuxer._outputAudioKbitPerSec
+_OBJC_IVAR_$_DJIRtmpMuxer._bufferCount
+_OBJC_IVAR_$_DJIRtmpMuxer._videoFrameNum
+_OBJC_IVAR_$_DJIRtmpMuxer._audioFrameNum
+_OBJC_IVAR_$_DJIRtmpMuxer._delegate
+_OBJC_IVAR_$_DJIRtmpMuxer._status
+_OBJC_IVAR_$_DJIRtmpMuxer._serverURL
+_OBJC_IVAR_$_DJIRtmpMuxer._retryCount
+_OBJC_IVAR_$_DJIRtmpMuxer._rotate
+_OBJC_IVAR_$_DJIRtmpMuxer._smoothDelayTimeSeconds
+_OBJC_IVAR_$_DJIRtmpMuxer._startedDuration
+_OBJC_IVAR_$_DJIRtmpMuxer._outputFps
+_OBJC_IVAR_$_DJIRtmpMuxer._audioGainLevel
+_OBJC_IVAR_$_DJIRtmpMuxer._encoder
+_OBJC_IVAR_$_DJIRtmpMuxer._iFrameProvider
+_OBJC_IVAR_$_DJIRtmpMuxer._smoothHelper
+_OBJC_IVAR_$_DJIRtmpMuxer._videoPreviewer
+_OBJC_IVAR_$_DJIRtmpMuxer._streamInfo
+__OBJC_$_INSTANCE_VARIABLES_DJIRtmpMuxer
+__OBJC_$_PROP_LIST_DJIRtmpMuxer
+__OBJC_CLASS_RO_$_DJIRtmpMuxer
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/RTMPProcessor/DJIRtmpMuxer.m
+DJIWidget/RTMPProcessor/DJIRtmpMuxer.m
+DJIWidget/RTMPProcessor/DJIRtmpMuxer.h
+__30+[DJIRtmpMuxer sharedInstance]_block_invoke
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/dispatch/once.h
+-[DJIMavic2ZoomCameraImageCalibrateFilterDataSource sensorType]
+-[DJIMavic2ZoomCameraImageCalibrateFilterDataSource fileNameFormatWithResolution:zoomIdx:focusIdx:splitIdx:andFileDiscriptionInfo:]
+__OBJC_METACLASS_RO_$_DJIMavic2ZoomCameraImageCalibrateFilterDataSource
+__OBJC_$_INSTANCE_METHODS_DJIMavic2ZoomCameraImageCalibrateFilterDataSource
+__OBJC_CLASS_RO_$_DJIMavic2ZoomCameraImageCalibrateFilterDataSource
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIMavic2ZoomCameraImageCalibrateFilterDataSource.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIMavic2ZoomCameraImageCalibrateFilterDataSource.m
+-[DJISoftwareDecodeProcessor initWithExtractor:]
+-[DJISoftwareDecodeProcessor dealloc]
+-[DJISoftwareDecodeProcessor streamProcessorHandleFrame:size:]
+-[DJISoftwareDecodeProcessor streamProcessorHandleFrameRaw:]
+___60-[DJISoftwareDecodeProcessor streamProcessorHandleFrameRaw:]_block_invoke
+___copy_helper_block_e8_32s40r48w
+___destroy_helper_block_e8_32s40r48w
+-[DJISoftwareDecodeProcessor streamProcessorInfoChanged:]
+-[DJISoftwareDecodeProcessor streamProcessorType]
+-[DJISoftwareDecodeProcessor streamProcessorEnabled]
+-[DJISoftwareDecodeProcessor frameProcessor]
+-[DJISoftwareDecodeProcessor setFrameProcessor:]
+-[DJISoftwareDecodeProcessor enabled]
+-[DJISoftwareDecodeProcessor setEnabled:]
+-[DJISoftwareDecodeProcessor extractor]
+-[DJISoftwareDecodeProcessor setExtractor:]
+-[DJISoftwareDecodeProcessor .cxx_destruct]
+___block_descriptor_56_e8_32s40r48w_e8_v12?0B8l
+__OBJC_CLASS_PROTOCOLS_$_DJISoftwareDecodeProcessor
+__OBJC_METACLASS_RO_$_DJISoftwareDecodeProcessor
+__OBJC_$_INSTANCE_METHODS_DJISoftwareDecodeProcessor
+_OBJC_IVAR_$_DJISoftwareDecodeProcessor._renderYUVFrame
+_OBJC_IVAR_$_DJISoftwareDecodeProcessor._decodeFrameIndex
+_OBJC_IVAR_$_DJISoftwareDecodeProcessor._enabled
+_OBJC_IVAR_$_DJISoftwareDecodeProcessor._frameProcessor
+_OBJC_IVAR_$_DJISoftwareDecodeProcessor._extractor
+__OBJC_$_INSTANCE_VARIABLES_DJISoftwareDecodeProcessor
+__OBJC_$_PROP_LIST_DJISoftwareDecodeProcessor
+__OBJC_CLASS_RO_$_DJISoftwareDecodeProcessor
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/DJISoftwareDecodeProcessor.m
+DJIWidget/VideoPreviewer/DJISoftwareDecodeProcessor.m
+DJIWidget/VideoPreviewer/DJISoftwareDecodeProcessor.h
+__destroy_helper_block_e8_32s40r48w
+__copy_helper_block_e8_32s40r48w
+__60-[DJISoftwareDecodeProcessor streamProcessorHandleFrameRaw:]_block_invoke
+-[DJIVideoPoolMp4Muxer initWithDstFile:streamInfo:]
+-[DJIVideoPoolMp4Muxer pushFrame:]
+-[DJIVideoPoolMp4Muxer pushAudio:]
+-[DJIVideoPoolMp4Muxer endFile]
+-[DJIVideoPoolMp4Muxer requiredFPS]
+-[DJIVideoPoolMp4Muxer dstFilePath]
+-[DJIVideoPoolMp4Muxer headWrited]
+-[DJIVideoPoolMp4Muxer muxerEnded]
+-[DJIVideoPoolMp4Muxer enableAACAudio]
+-[DJIVideoPoolMp4Muxer setEnableAACAudio:]
+-[DJIVideoPoolMp4Muxer skipPureAudio]
+-[DJIVideoPoolMp4Muxer setSkipPureAudio:]
+-[DJIVideoPoolMp4Muxer muxedAllFrameCount]
+-[DJIVideoPoolMp4Muxer muxedVideoFrameCount]
+-[DJIVideoPoolMp4Muxer muxedAudioFrameCount]
+-[DJIVideoPoolMp4Muxer audioSampleRate]
+-[DJIVideoPoolMp4Muxer setAudioSampleRate:]
+-[DJIVideoPoolMp4Muxer videoFrameInterval]
+-[DJIVideoPoolMp4Muxer setVideoFrameInterval:]
+-[DJIVideoPoolMp4Muxer audioFrameInterval]
+-[DJIVideoPoolMp4Muxer setAudioFrameInterval:]
+-[DJIVideoPoolMp4Muxer firstAudioFrameSyncOnVideoIndex]
+-[DJIVideoPoolMp4Muxer setFirstAudioFrameSyncOnVideoIndex:]
+-[DJIVideoPoolMp4Muxer videoPTS]
+-[DJIVideoPoolMp4Muxer setVideoPTS:]
+-[DJIVideoPoolMp4Muxer audioPTS]
+-[DJIVideoPoolMp4Muxer setAudioPTS:]
+-[DJIVideoPoolMp4Muxer .cxx_destruct]
+__OBJC_METACLASS_RO_$_DJIVideoPoolMp4Muxer
+__OBJC_$_INSTANCE_METHODS_DJIVideoPoolMp4Muxer
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer.muxer_handle
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer.cfg
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._headWrited
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._muxerEnded
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._enableAACAudio
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._skipPureAudio
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._muxedAllFrameCount
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._muxedVideoFrameCount
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._muxedAudioFrameCount
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._dstFilePath
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._audioSampleRate
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._videoFrameInterval
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._audioFrameInterval
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._firstAudioFrameSyncOnVideoIndex
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._videoPTS
+_OBJC_IVAR_$_DJIVideoPoolMp4Muxer._audioPTS
+__OBJC_$_INSTANCE_VARIABLES_DJIVideoPoolMp4Muxer
+__OBJC_$_PROP_LIST_DJIVideoPoolMp4Muxer
+__OBJC_CLASS_RO_$_DJIVideoPoolMp4Muxer
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/Muxer/DJIVideoPoolMp4Muxer.m
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/Muxer/DJIVideoPoolMp4Muxer.m
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/Muxer/DJIVideoPoolMp4Muxer.h
+-[DJILiveViewFrameBuffer pixelBuffer]
+-[DJILiveViewFrameBuffer init]
+-[DJILiveViewFrameBuffer initWithContext:size:textureOptions:onlyTexture:]
+-[DJILiveViewFrameBuffer initWithContext:size:overriddenTexture:]
+-[DJILiveViewFrameBuffer initWithContext:size:]
+-[DJILiveViewFrameBuffer dealloc]
+-[DJILiveViewFrameBuffer generateTexture]
+-[DJILiveViewFrameBuffer generateFramebuffer]
+-[DJILiveViewFrameBuffer destroyFramebuffer]
+-[DJILiveViewFrameBuffer activateFramebuffer]
+-[DJILiveViewFrameBuffer newCGImageFromFramebufferContents]
+-[DJILiveViewFrameBuffer restoreRenderTarget]
+-[DJILiveViewFrameBuffer lockForReading]
+-[DJILiveViewFrameBuffer unlockAfterReading]
+-[DJILiveViewFrameBuffer bytesPerRow]
+-[DJILiveViewFrameBuffer byteBuffer]
+-[DJILiveViewFrameBuffer texture]
+-[DJILiveViewFrameBuffer privateRenderTarget]
+-[DJILiveViewFrameBuffer size]
+-[DJILiveViewFrameBuffer textureOptions]
+-[DJILiveViewFrameBuffer missingFramebuffer]
+-[DJILiveViewFrameBuffer released]
+-[DJILiveViewFrameBuffer context]
+-[DJILiveViewFrameBuffer setContext:]
+-[DJILiveViewFrameBuffer .cxx_destruct]
+__OBJC_METACLASS_RO_$_DJILiveViewFrameBuffer
+__OBJC_$_INSTANCE_METHODS_DJILiveViewFrameBuffer
+_OBJC_IVAR_$_DJILiveViewFrameBuffer.framebuffer
+_OBJC_IVAR_$_DJILiveViewFrameBuffer.renderTarget
+_OBJC_IVAR_$_DJILiveViewFrameBuffer.renderTexture
+_OBJC_IVAR_$_DJILiveViewFrameBuffer.readLockCount
+_OBJC_IVAR_$_DJILiveViewFrameBuffer.framebufferReferenceCount
+_OBJC_IVAR_$_DJILiveViewFrameBuffer.referenceCountingDisabled
+_OBJC_IVAR_$_DJILiveViewFrameBuffer._missingFramebuffer
+_OBJC_IVAR_$_DJILiveViewFrameBuffer._released
+_OBJC_IVAR_$_DJILiveViewFrameBuffer._texture
+_OBJC_IVAR_$_DJILiveViewFrameBuffer._context
+_OBJC_IVAR_$_DJILiveViewFrameBuffer._size
+_OBJC_IVAR_$_DJILiveViewFrameBuffer._textureOptions
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewFrameBuffer
+__OBJC_$_PROP_LIST_DJILiveViewFrameBuffer
+__OBJC_CLASS_RO_$_DJILiveViewFrameBuffer
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/Base/DJILiveViewFrameBuffer.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewFrameBuffer.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewFrameBuffer_Private.h
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewFrameBuffer.h
+dji_dataProviderUnlockCallback
+dji_dataProviderReleaseCallback
+defaultOptionsForTexture
+-[DJILiveViewRenderHSBFilter initWithContext:]
+-[DJILiveViewRenderHSBFilter reset]
+-[DJILiveViewRenderHSBFilter setRotateHue:]
+-[DJILiveViewRenderHSBFilter setSaturation:]
+-[DJILiveViewRenderHSBFilter setBrightness:]
+-[DJILiveViewRenderHSBFilter _updateColorMatrix]
+-[DJILiveViewRenderHSBFilter rotateHue]
+-[DJILiveViewRenderHSBFilter saturation]
+-[DJILiveViewRenderHSBFilter brightness]
+_matrixmult
+_zshearmat
+_OBJC_IVAR_$_DJILiveViewRenderHSBFilter._rotateHue
+_OBJC_IVAR_$_DJILiveViewRenderHSBFilter._saturation
+_OBJC_IVAR_$_DJILiveViewRenderHSBFilter._brightness
+_OBJC_IVAR_$_DJILiveViewRenderHSBFilter.matrix
+__OBJC_METACLASS_RO_$_DJILiveViewRenderHSBFilter
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderHSBFilter
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderHSBFilter
+__OBJC_$_PROP_LIST_DJILiveViewRenderHSBFilter
+__OBJC_CLASS_RO_$_DJILiveViewRenderHSBFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/HSBFilter/DJILiveViewRenderHSBFilter.m
+zshearmat
+DJIWidget/VideoPreviewer/Render/HSBFilter/DJILiveViewRenderHSBFilter.m
+matrixmult
+DJIWidget/VideoPreviewer/Render/HSBFilter/DJILiveViewRenderHSBFilter.h
+cscalemat
+saturatemat
+huerotatemat
+xrotatemat
+yrotatemat
+zrotatemat
+xformpnt
+identmat
+_g_idr_inspire_1280_720
+_g_idr_phantom3_1280_720
+_g_idr_phantom3_960_720
+_g_idr_phantom4_1024_768
+_g_idr_phantom4_1280_720
+_g_idr_OsmoNo368_1280_720
+_g_idr_OsmoNo368_960_720
+_g_idr_OsmoNo368_640_368
+_g_idr_Z30_1280_720
+_g_idr_IN2_608_448
+_g_idr_IN2_960_720
+_g_idr_IN2_1280_720
+_g_idr_IN2_1088_720
+_g_idr_IN2_1344_720
+_g_idr_IN2_1440_1080
+_g_idr_IN2_1632_1080
+_g_idr_IN2_1760_720
+_g_idr_IN2_1920_800
+_g_idr_IN2_1920_1024
+_g_idr_IN2_1920_1080
+_g_idr_mavic_air_1280_720
+_g_idr_mavic_air_1280_960
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoService/DJIVTH264DecoderIFrameData.m
+loadPrebuildIframePrivate
+DJIWidget/VideoService/DJIVTH264DecoderIFrameData.m
+-[DJILB2AUDRemoveParser init]
+-[DJILB2AUDRemoveParser dealloc]
+-[DJILB2AUDRemoveParser reset]
+-[DJILB2AUDRemoveParser parse:inSize:]
+-[DJILB2AUDRemoveParser setStatus:]
+-[DJILB2AUDRemoveParser pushBuffer:size:]
+-[DJILB2AUDRemoveParser flushBufferWithAppendData:size:]
+-[DJILB2AUDRemoveParser delegate]
+-[DJILB2AUDRemoveParser setDelegate:]
+-[DJILB2AUDRemoveParser status]
+-[DJILB2AUDRemoveParser seekNALZeroCount]
+-[DJILB2AUDRemoveParser setSeekNALZeroCount:]
+-[DJILB2AUDRemoveParser seekAUDPos]
+-[DJILB2AUDRemoveParser setSeekAUDPos:]
+-[DJILB2AUDRemoveParser .cxx_destruct]
+_g_DJILB2AUDRemoveParser_aud
+__OBJC_METACLASS_RO_$_DJILB2AUDRemoveParser
+__OBJC_$_INSTANCE_METHODS_DJILB2AUDRemoveParser
+_OBJC_IVAR_$_DJILB2AUDRemoveParser.dataBuffer
+_OBJC_IVAR_$_DJILB2AUDRemoveParser.bufferSize
+_OBJC_IVAR_$_DJILB2AUDRemoveParser._seekNALZeroCount
+_OBJC_IVAR_$_DJILB2AUDRemoveParser._seekAUDPos
+_OBJC_IVAR_$_DJILB2AUDRemoveParser._delegate
+_OBJC_IVAR_$_DJILB2AUDRemoveParser._status
+__OBJC_$_INSTANCE_VARIABLES_DJILB2AUDRemoveParser
+__OBJC_$_PROP_LIST_DJILB2AUDRemoveParser
+__OBJC_CLASS_RO_$_DJILB2AUDRemoveParser
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Lb2AUD/DJILB2AUDRemoveParser.m
+DJIWidget/VideoPreviewer/Lb2AUD/DJILB2AUDRemoveParser.m
+DJIWidget/VideoPreviewer/Lb2AUD/DJILB2AUDRemoveParser.h
+-[DJIVideoWriter init]
++[DJIVideoWriter instance]
+___26+[DJIVideoWriter instance]_block_invoke
++[DJIVideoWriter stringFromDate:]
+-[DJIVideoWriter inRecording]
+-[DJIVideoWriter updateStreamInfo:]
+-[DJIVideoWriter createVideoCacheFolder]
+-[DJIVideoWriter beginVideoWriter]
+___34-[DJIVideoWriter beginVideoWriter]_block_invoke
+___copy_helper_block_e8_32s40w
+___destroy_helper_block_e8_32s40w
+-[DJIVideoWriter endVideoWriter]
+___32-[DJIVideoWriter endVideoWriter]_block_invoke
+-[DJIVideoWriter writeAsync:]
+___29-[DJIVideoWriter writeAsync:]_block_invoke
+-[DJIVideoWriter checkDiskFreeSpaceCanContinueWork]
+___51-[DJIVideoWriter checkDiskFreeSpaceCanContinueWork]_block_invoke
+-[DJIVideoWriter currentFileSize]
+-[DJIVideoWriter setCurrentFileSize:]
+-[DJIVideoWriter diskHelper]
+-[DJIVideoWriter setDiskHelper:]
+-[DJIVideoWriter workingQueue]
+-[DJIVideoWriter setWorkingQueue:]
+-[DJIVideoWriter videoStremInfo]
+-[DJIVideoWriter setVideoStremInfo:]
+-[DJIVideoWriter currentCtx]
+-[DJIVideoWriter setCurrentCtx:]
+-[DJIVideoWriter .cxx_destruct]
+_instance.writer
+_instance.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.4
+_OBJC_CLASSLIST_REFERENCES_$_.14
+_OBJC_CLASSLIST_REFERENCES_$_.21
+___block_descriptor_48_e8_32s40w_e5_v8?0l
+___block_literal_global.50
+_OBJC_CLASSLIST_REFERENCES_$_.51
+__OBJC_$_CLASS_METHODS_DJIVideoWriter
+__OBJC_METACLASS_RO_$_DJIVideoWriter
+__OBJC_$_INSTANCE_METHODS_DJIVideoWriter
+_OBJC_IVAR_$_DJIVideoWriter._currentFileSize
+_OBJC_IVAR_$_DJIVideoWriter._diskHelper
+_OBJC_IVAR_$_DJIVideoWriter._workingQueue
+_OBJC_IVAR_$_DJIVideoWriter._currentCtx
+_OBJC_IVAR_$_DJIVideoWriter._videoStremInfo
+__OBJC_$_INSTANCE_VARIABLES_DJIVideoWriter
+__OBJC_$_PROP_LIST_DJIVideoWriter
+__OBJC_CLASS_RO_$_DJIVideoWriter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/DJIVideoWriter.m
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/DJIVideoWriter.m
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/DJIVideoWriter.h
+__51-[DJIVideoWriter checkDiskFreeSpaceCanContinueWork]_block_invoke
+__29-[DJIVideoWriter writeAsync:]_block_invoke
+__32-[DJIVideoWriter endVideoWriter]_block_invoke
+__destroy_helper_block_e8_32s40w
+__copy_helper_block_e8_32s40w
+__34-[DJIVideoWriter beginVideoWriter]_block_invoke
+__26+[DJIVideoWriter instance]_block_invoke
+_djiff_filter_packet
+_djiff_eval_packet
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/Muxer/djiffremux.c
+djiff_remux_deinit
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/Muxer/djiffremux.c
+djiff_close_stream_input
+djiff_close_file_input
+djiff_remux_getDuration
+djiff_open_file_input
+djiff_remux_seek
+djiff_demux_frame
+avCodecId2DjiFileFormat
+djiff_mux_frame2
+djiff_eval_packet
+djiff_mux_frame
+djiff_filter_packet
+djiff_remux_frame
+djiff_mux_choose_output
+djiff_mux_header
+djiff_remux_init
+fileFormat2string
+djiff_assign_stream_info
+djiff_open_stream_input
+DJIFF_LOGI
+-[DJIVideoPreviewerH264Parser init]
+-[DJIVideoPreviewerH264Parser dealloc]
+-[DJIVideoPreviewerH264Parser reset]
+-[DJIVideoPreviewerH264Parser initParser]
+-[DJIVideoPreviewerH264Parser freeParser]
+-[DJIVideoPreviewerH264Parser parseVideo:length:usedLength:]
+-[DJIVideoPreviewerH264Parser popNextFrameUUID]
+-[DJIVideoPreviewerH264Parser usingDJIAircraftEncoder]
+-[DJIVideoPreviewerH264Parser setUsingDJIAircraftEncoder:]
+-[DJIVideoPreviewerH264Parser frameRate]
+-[DJIVideoPreviewerH264Parser frameCounter]
+-[DJIVideoPreviewerH264Parser setFrameCounter:]
+-[DJIVideoPreviewerH264Parser outputWidth]
+-[DJIVideoPreviewerH264Parser outputHeight]
+-[DJIVideoPreviewerH264Parser shouldVerifyVideoStream]
+-[DJIVideoPreviewerH264Parser setShouldVerifyVideoStream:]
+-[DJIVideoPreviewerH264Parser frameInterval]
+-[DJIVideoPreviewerH264Parser parserLock]
+-[DJIVideoPreviewerH264Parser setParserLock:]
+-[DJIVideoPreviewerH264Parser frameUuidCounter]
+-[DJIVideoPreviewerH264Parser setFrameUuidCounter:]
+-[DJIVideoPreviewerH264Parser .cxx_destruct]
+__OBJC_METACLASS_RO_$_DJIVideoPreviewerH264Parser
+__OBJC_$_INSTANCE_METHODS_DJIVideoPreviewerH264Parser
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._pCodecCtx
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._pCodecPaser
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._usingDJIAircraftEncoder
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._shouldVerifyVideoStream
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._frameRate
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._frameCounter
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._outputWidth
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._outputHeight
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._frameUuidCounter
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._frameInterval
+_OBJC_IVAR_$_DJIVideoPreviewerH264Parser._parserLock
+__OBJC_$_INSTANCE_VARIABLES_DJIVideoPreviewerH264Parser
+__OBJC_$_PROP_LIST_DJIVideoPreviewerH264Parser
+__OBJC_CLASS_RO_$_DJIVideoPreviewerH264Parser
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/H264Parser/DJIVideoPreviewerH264Parser.m
+DJIWidget/VideoPreviewer/H264Parser/DJIVideoPreviewerH264Parser.m
+DJIWidget/VideoPreviewer/H264Parser/DJIVideoPreviewerH264Parser.h
+-[DJIImageCalibrationFastFrame dealloc]
+-[DJIImageCalibrationFastFrame initWithFastFrame:fastUpload:andPixelBuffer:]
+-[DJIImageCalibrationFastFrame init]
+-[DJIImageCalibrationFastFrame loadFrame:fastUpload:]
+-[DJIImageCalibrationFastFrame frame]
+-[DJIImageCalibrationFastFrame prepareBeforeUsing]
+-[DJIImageCalibrationFastFrame prepareToClean]
+-[DJIImageCalibrationFastFrame releaseFrameAndCache]
+-[DJIImageCalibrationFastFrame releaseCacheImage]
+-[DJIImageCalibrationFastFrame attachedPixelBuffer]
+-[DJIImageCalibrationFastFrame reconstructFastUploadFrame]
+-[DJIImageCalibrationFastFrame nextFrame]
+-[DJIImageCalibrationFastFrame setNextFrame:]
+-[DJIImageCalibrationFastFrame fastUploadEnabled]
+-[DJIImageCalibrationFastFrame setFastUploadEnabled:]
+-[DJIImageCalibrationFastFrame sourceTag]
+-[DJIImageCalibrationFastFrame setSourceTag:]
+-[DJIImageCalibrationFastFrame pixelQueue]
+-[DJIImageCalibrationFastFrame setPixelQueue:]
+-[DJIImageCalibrationFastFrame pixel]
+-[DJIImageCalibrationFastFrame setPixel:]
+-[DJIImageCalibrationFastFrame cacheQueue]
+-[DJIImageCalibrationFastFrame setCacheQueue:]
+-[DJIImageCalibrationFastFrame cache]
+-[DJIImageCalibrationFastFrame setCache:]
+-[DJIImageCalibrationFastFrame fastUploadType]
+-[DJIImageCalibrationFastFrame setFastUploadType:]
+-[DJIImageCalibrationFastFrame .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+__OBJC_METACLASS_RO_$_DJIImageCalibrationFastFrame
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrationFastFrame
+_OBJC_IVAR_$_DJIImageCalibrationFastFrame._internalFrame
+_OBJC_IVAR_$_DJIImageCalibrationFastFrame._fastUploadEnabled
+_OBJC_IVAR_$_DJIImageCalibrationFastFrame._fastUploadType
+_OBJC_IVAR_$_DJIImageCalibrationFastFrame._nextFrame
+_OBJC_IVAR_$_DJIImageCalibrationFastFrame._sourceTag
+_OBJC_IVAR_$_DJIImageCalibrationFastFrame._pixelQueue
+_OBJC_IVAR_$_DJIImageCalibrationFastFrame._pixel
+_OBJC_IVAR_$_DJIImageCalibrationFastFrame._cacheQueue
+_OBJC_IVAR_$_DJIImageCalibrationFastFrame._cache
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrationFastFrame
+__OBJC_$_PROP_LIST_DJIImageCalibrationFastFrame
+__OBJC_CLASS_RO_$_DJIImageCalibrationFastFrame
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/DJIImageCalibrationFrame/DJIImageCalibrationFastFrame.m
+DJIWidget/VideoPreviewer/Helper/DJIImageCalibrationFrame/DJIImageCalibrationFastFrame.m
+DJIWidget/VideoPreviewer/Helper/DJIImageCalibrationFrame/DJIImageCalibrationFastFrame_Private.h
+DJIWidget/VideoPreviewer/Helper/DJIImageCalibrationFrame/DJIImageCalibrationFastFrame.h
+-[DJIDecodeImageCalibrateHelper initData]
+-[DJIDecodeImageCalibrateHelper calibrateFilter]
+-[DJIDecodeImageCalibrateHelper prepareToClean]
+-[DJIDecodeImageCalibrateHelper independancyWithReander]
+-[DJIDecodeImageCalibrateHelper convertedYUVFrameArrivalFrom:]
+-[DJIDecodeImageCalibrateHelper createCalibrateFrameForYUVFrame:]
+-[DJIDecodeImageCalibrateHelper processCalibrationForFrame:]
+-[DJIDecodeImageCalibrateHelper setEnabledColorSpaceConverter:]
+-[DJIDecodeImageCalibrateHelper enabledColorSpaceConverter]
+-[DJIDecodeImageCalibrateHelper .cxx_destruct]
+_OBJC_IVAR_$_DJIDecodeImageCalibrateHelper._calibrateCacheQueue
+_OBJC_IVAR_$_DJIDecodeImageCalibrateHelper._context
+_OBJC_IVAR_$_DJIDecodeImageCalibrateHelper._calibrateMutex
+_OBJC_IVAR_$_DJIDecodeImageCalibrateHelper._enabledColorSpaceConverter
+_OBJC_IVAR_$_DJIDecodeImageCalibrateHelper._internalColorConverter
+_OBJC_CLASSLIST_REFERENCES_$_.23
+_OBJC_IVAR_$_DJIDecodeImageCalibrateHelper._renderSource
+_OBJC_CLASSLIST_REFERENCES_$_.26
+_OBJC_IVAR_$_DJIDecodeImageCalibrateHelper._calibrateFilter
+_OBJC_CLASSLIST_REFERENCES_$_.43
+__OBJC_METACLASS_RO_$_DJIDecodeImageCalibrateHelper
+__OBJC_$_INSTANCE_METHODS_DJIDecodeImageCalibrateHelper
+_OBJC_IVAR_$_DJIDecodeImageCalibrateHelper._frameSize
+__OBJC_$_INSTANCE_VARIABLES_DJIDecodeImageCalibrateHelper
+__OBJC_$_PROP_LIST_DJIDecodeImageCalibrateHelper
+__OBJC_CLASS_RO_$_DJIDecodeImageCalibrateHelper
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIDecodeImageCalibrateHelper.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIDecodeImageCalibrateHelper.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIDecodeImageCalibrateHelper.h
+-[DJIVideoPresentViewAdjustHelper getFinalFrame]
++[DJIVideoPresentViewAdjustHelper normalizeFrame:withIdentityRect:]
++[DJIVideoPresentViewAdjustHelper aspectFitWithFrame:size:]
++[DJIVideoPresentViewAdjustHelper aspectFillWithFrame:size:]
+-[DJIVideoPresentViewAdjustHelper contentClipRect]
+-[DJIVideoPresentViewAdjustHelper setContentClipRect:]
+-[DJIVideoPresentViewAdjustHelper boundingFrame]
+-[DJIVideoPresentViewAdjustHelper setBoundingFrame:]
+-[DJIVideoPresentViewAdjustHelper videoSize]
+-[DJIVideoPresentViewAdjustHelper setVideoSize:]
+-[DJIVideoPresentViewAdjustHelper lastFrame]
+-[DJIVideoPresentViewAdjustHelper setLastFrame:]
+-[DJIVideoPresentViewAdjustHelper rotation]
+-[DJIVideoPresentViewAdjustHelper setRotation:]
+-[DJIVideoPresentViewAdjustHelper contentMode]
+-[DJIVideoPresentViewAdjustHelper setContentMode:]
+__OBJC_$_CLASS_METHODS_DJIVideoPresentViewAdjustHelper
+__OBJC_METACLASS_RO_$_DJIVideoPresentViewAdjustHelper
+__OBJC_$_INSTANCE_METHODS_DJIVideoPresentViewAdjustHelper
+_OBJC_IVAR_$_DJIVideoPresentViewAdjustHelper._rotation
+_OBJC_IVAR_$_DJIVideoPresentViewAdjustHelper._contentMode
+_OBJC_IVAR_$_DJIVideoPresentViewAdjustHelper._videoSize
+_OBJC_IVAR_$_DJIVideoPresentViewAdjustHelper._contentClipRect
+_OBJC_IVAR_$_DJIVideoPresentViewAdjustHelper._boundingFrame
+_OBJC_IVAR_$_DJIVideoPresentViewAdjustHelper._lastFrame
+__OBJC_$_INSTANCE_VARIABLES_DJIVideoPresentViewAdjustHelper
+__OBJC_$_PROP_LIST_DJIVideoPresentViewAdjustHelper
+__OBJC_CLASS_RO_$_DJIVideoPresentViewAdjustHelper
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/DJIVideoPresentViewAdjustHelper.m
+DJIWidget/VideoPreviewer/Helper/DJIVideoPresentViewAdjustHelper.h
+DJIWidget/VideoPreviewer/Helper/DJIVideoPresentViewAdjustHelper.m
+-[DJILiveViewRenderPass initWithContext:]
+-[DJILiveViewRenderPass releaseResources]
+-[DJILiveViewRenderPass dealloc]
+-[DJILiveViewRenderPass setInputFramebufferForTarget:atIndex:]
+-[DJILiveViewRenderPass framebufferForOutput]
+-[DJILiveViewRenderPass removeOutputFramebuffer]
+-[DJILiveViewRenderPass notifyTargetsAboutNewOutputTexture]
+-[DJILiveViewRenderPass targets]
+-[DJILiveViewRenderPass addTarget:atTextureLocation:]
+-[DJILiveViewRenderPass removeTarget:]
+-[DJILiveViewRenderPass removeAllTargets]
+-[DJILiveViewRenderPass forceProcessingAtSize:]
+-[DJILiveViewRenderPass forceProcessingAtSizeRespectingAspectRatio:]
+-[DJILiveViewRenderPass newCGImageFromCurrentlyProcessedOutput]
+-[DJILiveViewRenderPass imageFromCurrentFramebuffer]
+-[DJILiveViewRenderPass imageFromCurrentFramebufferWithOrientation:]
+-[DJILiveViewRenderPass enabled]
+-[DJILiveViewRenderPass setEnabled:]
+-[DJILiveViewRenderPass released]
+-[DJILiveViewRenderPass setReleased:]
+-[DJILiveViewRenderPass outputTextureOptions]
+-[DJILiveViewRenderPass setOutputTextureOptions:]
+-[DJILiveViewRenderPass .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_CLASSLIST_REFERENCES_$_.34
+__OBJC_METACLASS_RO_$_DJILiveViewRenderPass
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderPass
+_OBJC_IVAR_$_DJILiveViewRenderPass._enabled
+_OBJC_IVAR_$_DJILiveViewRenderPass._released
+_OBJC_IVAR_$_DJILiveViewRenderPass._outputTextureOptions
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderPass
+__OBJC_$_PROP_LIST_DJILiveViewRenderPass
+__OBJC_CLASS_RO_$_DJILiveViewRenderPass
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderPass.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderPass.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderPass.h
+-[DJIH264FrameRawLayerDumper init]
+-[DJIH264FrameRawLayerDumper dealloc]
+-[DJIH264FrameRawLayerDumper dumpFrame:]
+-[DJIH264FrameRawLayerDumper endDumpFile]
+-[DJIH264FrameRawLayerDumper openFile:]
+-[DJIH264FrameRawLayerDumper readNextFrame]
+-[DJIH264FrameRawLayerDumper seekToHead]
+__OBJC_METACLASS_RO_$_DJIH264FrameRawLayerDumper
+__OBJC_$_INSTANCE_METHODS_DJIH264FrameRawLayerDumper
+_OBJC_IVAR_$_DJIH264FrameRawLayerDumper.readBuffer
+_OBJC_IVAR_$_DJIH264FrameRawLayerDumper.inputFile
+__OBJC_$_INSTANCE_VARIABLES_DJIH264FrameRawLayerDumper
+__OBJC_CLASS_RO_$_DJIH264FrameRawLayerDumper
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/DJIH264FrameRawLayerDumper.m
+DJIWidget/VideoPreviewer/Helper/DJIH264FrameRawLayerDumper.m
+-[DJIH264PocQueue initWithSize:threadSafe:]
+-[DJIH264PocQueue clear]
+-[DJIH264PocQueue push:]
+-[DJIH264PocQueue pull]
+-[DJIH264PocQueue wakeupReader]
+-[DJIH264PocQueue count]
+-[DJIH264PocQueue size]
+-[DJIH264PocQueue isFull]
+__OBJC_METACLASS_RO_$_DJIH264PocQueue
+__OBJC_$_INSTANCE_METHODS_DJIH264PocQueue
+_OBJC_IVAR_$_DJIH264PocQueue._size
+_OBJC_IVAR_$_DJIH264PocQueue._count
+_OBJC_IVAR_$_DJIH264PocQueue._head
+_OBJC_IVAR_$_DJIH264PocQueue._tail
+_OBJC_IVAR_$_DJIH264PocQueue._needThreadSafe
+_OBJC_IVAR_$_DJIH264PocQueue._mutex
+_OBJC_IVAR_$_DJIH264PocQueue._cond
+__OBJC_$_INSTANCE_VARIABLES_DJIH264PocQueue
+__OBJC_CLASS_RO_$_DJIH264PocQueue
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/DJIH264PocQueue.m
+DJIWidget/VideoPreviewer/Helper/DJIH264PocQueue.m
+-[DJIVTH264CompressConfiguration initWithUsageType:]
+-[DJIVTH264CompressConfiguration setStreamFrameRate:]
+-[DJIVTH264CompressConfiguration configFrameRate]
+-[DJIVTH264CompressConfiguration setup]
+-[DJIVTH264CompressConfiguration configDict]
+-[DJIVTH264CompressConfiguration entropyModeStringFromMode:]
+-[DJIVTH264CompressConfiguration profileLevelStringFromLevel:]
+-[DJIVTH264CompressConfiguration usageType]
+-[DJIVTH264CompressConfiguration setUsageType:]
+-[DJIVTH264CompressConfiguration expectedFrameRate]
+-[DJIVTH264CompressConfiguration setExpectedFrameRate:]
+-[DJIVTH264CompressConfiguration maxKeyFrameInterval]
+-[DJIVTH264CompressConfiguration setMaxKeyFrameInterval:]
+-[DJIVTH264CompressConfiguration averageBitRate]
+-[DJIVTH264CompressConfiguration setAverageBitRate:]
+-[DJIVTH264CompressConfiguration dataRateLimits]
+-[DJIVTH264CompressConfiguration setDataRateLimits:]
+-[DJIVTH264CompressConfiguration maxKeyFrameIntervalDuration]
+-[DJIVTH264CompressConfiguration setMaxKeyFrameIntervalDuration:]
+-[DJIVTH264CompressConfiguration profileLevel]
+-[DJIVTH264CompressConfiguration setProfileLevel:]
+-[DJIVTH264CompressConfiguration allowTemporalCompression]
+-[DJIVTH264CompressConfiguration setAllowTemporalCompression:]
+-[DJIVTH264CompressConfiguration allowFrameReordering]
+-[DJIVTH264CompressConfiguration setAllowFrameReordering:]
+-[DJIVTH264CompressConfiguration realTime]
+-[DJIVTH264CompressConfiguration setRealTime:]
+-[DJIVTH264CompressConfiguration entropyMode]
+-[DJIVTH264CompressConfiguration setEntropyMode:]
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_CLASSLIST_REFERENCES_$_.62
+_OBJC_SELECTOR_REFERENCES_.64
+__OBJC_METACLASS_RO_$_DJIVTH264CompressConfiguration
+__OBJC_$_INSTANCE_METHODS_DJIVTH264CompressConfiguration
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._allowTemporalCompression
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._allowFrameReordering
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._realTime
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._usageType
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._expectedFrameRate
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._maxKeyFrameInterval
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._averageBitRate
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._dataRateLimits
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._maxKeyFrameIntervalDuration
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._profileLevel
+_OBJC_IVAR_$_DJIVTH264CompressConfiguration._entropyMode
+__OBJC_$_INSTANCE_VARIABLES_DJIVTH264CompressConfiguration
+__OBJC_$_PROP_LIST_DJIVTH264CompressConfiguration
+__OBJC_CLASS_RO_$_DJIVTH264CompressConfiguration
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoService/VTH264Encoder/DJIVTH264CompressConfiguration.m
+DJIWidget/VideoService/VTH264Encoder/DJIVTH264CompressConfiguration.m
+-[DJICustomVideoFrameExtractor init]
+-[DJICustomVideoFrameExtractor initExtractor]
+-[DJICustomVideoFrameExtractor setupExtractor]
+-[DJICustomVideoFrameExtractor freeExtractor]
+-[DJICustomVideoFrameExtractor clearExtractorBuffer]
+-[DJICustomVideoFrameExtractor dealloc]
+-[DJICustomVideoFrameExtractor getYuvFrame:]
+-[DJICustomVideoFrameExtractor privateParseVideo:length:withOutputBlock:]
+-[DJICustomVideoFrameExtractor parseVideo:length:withFrame:]
+___60-[DJICustomVideoFrameExtractor parseVideo:length:withFrame:]_block_invoke
+___copy_helper_block_e8_32b40s
+___destroy_helper_block_e8_32s40s
+-[DJICustomVideoFrameExtractor decodeRawFrame:callback:]
+-[DJICustomVideoFrameExtractor popNextFrameUUID]
+-[DJICustomVideoFrameExtractor processDelegate]
+-[DJICustomVideoFrameExtractor setProcessDelegate:]
+-[DJICustomVideoFrameExtractor delegate]
+-[DJICustomVideoFrameExtractor setDelegate:]
+-[DJICustomVideoFrameExtractor usingDJIAircraftEncoder]
+-[DJICustomVideoFrameExtractor setUsingDJIAircraftEncoder:]
+-[DJICustomVideoFrameExtractor shouldVerifyVideoStream]
+-[DJICustomVideoFrameExtractor setShouldVerifyVideoStream:]
+-[DJICustomVideoFrameExtractor frameRate]
+-[DJICustomVideoFrameExtractor setFrameRate:]
+-[DJICustomVideoFrameExtractor outputWidth]
+-[DJICustomVideoFrameExtractor setOutputWidth:]
+-[DJICustomVideoFrameExtractor outputHeight]
+-[DJICustomVideoFrameExtractor setOutputHeight:]
+-[DJICustomVideoFrameExtractor duration]
+-[DJICustomVideoFrameExtractor setDuration:]
+-[DJICustomVideoFrameExtractor sourceWidth]
+-[DJICustomVideoFrameExtractor setSourceWidth:]
+-[DJICustomVideoFrameExtractor sourceHeight]
+-[DJICustomVideoFrameExtractor setSourceHeight:]
+-[DJICustomVideoFrameExtractor codecInitited]
+-[DJICustomVideoFrameExtractor setCodecInitited:]
+-[DJICustomVideoFrameExtractor frameInfoListCount]
+-[DJICustomVideoFrameExtractor setFrameInfoListCount:]
+-[DJICustomVideoFrameExtractor frameUuidCounter]
+-[DJICustomVideoFrameExtractor setFrameUuidCounter:]
+-[DJICustomVideoFrameExtractor .cxx_destruct]
+___block_descriptor_48_e8_32bs40s_e66_v16?0^{AVPacket=^{AVBufferRef}qq*iii^{AVPacketSideData}ii^?^vqq}8l
+__OBJC_METACLASS_RO_$_DJICustomVideoFrameExtractor
+__OBJC_$_INSTANCE_METHODS_DJICustomVideoFrameExtractor
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._frameMutex
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._codecMutex
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._pFrame
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._pCodecCtx
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._pCodecPaser
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._frameInfoList
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._usingDJIAircraftEncoder
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._shouldVerifyVideoStream
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._frameRate
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._outputWidth
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._outputHeight
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._sourceWidth
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._sourceHeight
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._codecInitited
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._frameInfoListCount
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._frameUuidCounter
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._processDelegate
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._delegate
+_OBJC_IVAR_$_DJICustomVideoFrameExtractor._duration
+__OBJC_$_INSTANCE_VARIABLES_DJICustomVideoFrameExtractor
+__OBJC_$_PROP_LIST_DJICustomVideoFrameExtractor
+__OBJC_CLASS_RO_$_DJICustomVideoFrameExtractor
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/DJICustomVideoFrameExtractor.m
+DJIWidget/VideoPreviewer/DJICustomVideoFrameExtractor.m
+DJIWidget/VideoPreviewer/DJICustomVideoFrameExtractor.h
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32b40s
+__60-[DJICustomVideoFrameExtractor parseVideo:length:withFrame:]_block_invoke
+__OBJC_METACLASS_RO_$_DJILiveViewRenderCommon
+__OBJC_CLASS_RO_$_DJILiveViewRenderCommon
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderCommon.m
+-[DJIJpegStreamImageDecoder init]
+-[DJIJpegStreamImageDecoder dealloc]
+-[DJIJpegStreamImageDecoder streamProcessorHandleFrameRaw:]
+-[DJIJpegStreamImageDecoder streamProcessorInfoChanged:]
+-[DJIJpegStreamImageDecoder streamProcessorType]
+-[DJIJpegStreamImageDecoder streamProcessorEnabled]
+-[DJIJpegStreamImageDecoder frameProcessor]
+-[DJIJpegStreamImageDecoder setFrameProcessor:]
+-[DJIJpegStreamImageDecoder enabled]
+-[DJIJpegStreamImageDecoder setEnabled:]
+-[DJIJpegStreamImageDecoder .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_DJIJpegStreamImageDecoder
+__OBJC_METACLASS_RO_$_DJIJpegStreamImageDecoder
+__OBJC_$_INSTANCE_METHODS_DJIJpegStreamImageDecoder
+_OBJC_IVAR_$_DJIJpegStreamImageDecoder._renderYUVFrame
+_OBJC_IVAR_$_DJIJpegStreamImageDecoder._enabled
+_OBJC_IVAR_$_DJIJpegStreamImageDecoder._frameProcessor
+__OBJC_$_INSTANCE_VARIABLES_DJIJpegStreamImageDecoder
+__OBJC_$_PROP_LIST_DJIJpegStreamImageDecoder
+__OBJC_CLASS_RO_$_DJIJpegStreamImageDecoder
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/DJIJpegStreamImageDecoder.m
+DJIWidget/VideoPreviewer/DJIJpegStreamImageDecoder.m
+DJIWidget/VideoPreviewer/DJIJpegStreamImageDecoder.h
+CFRangeMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h
+-[DJIImageCalibrateColorConverterHolder enabled]
+-[DJIImageCalibrateColorConverterHolder setInputSize:atIndex:]
+-[DJIImageCalibrateColorConverterHolder setInputFramebuffer:atIndex:]
+-[DJIImageCalibrateColorConverterHolder newFrameReadyAtTime:atIndex:]
+-[DJIImageCalibrateColorConverterHolder endProcessing]
+-[DJIImageCalibrateColorConverterHolder converter]
+-[DJIImageCalibrateColorConverterHolder setConverter:]
+-[DJIImageCalibrateColorConverterHolder .cxx_destruct]
+-[DJIImageCalibrateColorConverter dealloc]
+-[DJIImageCalibrateColorConverter initWithFrameType:]
+-[DJIImageCalibrateColorConverter init]
+-[DJIImageCalibrateColorConverter holder]
+-[DJIImageCalibrateColorConverter enabledColorConverter]
+-[DJIImageCalibrateColorConverter setColorConverterInputSize:atIndex:]
+-[DJIImageCalibrateColorConverter setColorConverterInputFramebuffer:atIndex:]
+-[DJIImageCalibrateColorConverter newColorConverterFrameReadyAtTime:atIndex:]
+-[DJIImageCalibrateColorConverter endProcessingColorConverter]
+-[DJIImageCalibrateColorConverter prepareToClean]
+-[DJIImageCalibrateColorConverter handlerYUVData:andYUVSlice:withFastUpload:]
+-[DJIImageCalibrateColorConverter delegate]
+-[DJIImageCalibrateColorConverter setDelegate:]
+-[DJIImageCalibrateColorConverter type]
+-[DJIImageCalibrateColorConverter setType:]
+-[DJIImageCalibrateColorConverter enabledConverter]
+-[DJIImageCalibrateColorConverter setEnabledConverter:]
+-[DJIImageCalibrateColorConverter .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_DJIImageCalibrateColorConverterHolder
+__OBJC_METACLASS_RO_$_DJIImageCalibrateColorConverterHolder
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrateColorConverterHolder
+_OBJC_IVAR_$_DJIImageCalibrateColorConverterHolder._converter
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrateColorConverterHolder
+__OBJC_$_PROP_LIST_DJIImageCalibrateColorConverterHolder
+__OBJC_CLASS_RO_$_DJIImageCalibrateColorConverterHolder
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.83
+__OBJC_METACLASS_RO_$_DJIImageCalibrateColorConverter
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrateColorConverter
+_OBJC_IVAR_$_DJIImageCalibrateColorConverter._holder
+_OBJC_IVAR_$_DJIImageCalibrateColorConverter._enabledConverter
+_OBJC_IVAR_$_DJIImageCalibrateColorConverter._delegate
+_OBJC_IVAR_$_DJIImageCalibrateColorConverter._type
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrateColorConverter
+__OBJC_$_PROP_LIST_DJIImageCalibrateColorConverter
+__OBJC_CLASS_RO_$_DJIImageCalibrateColorConverter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateColorConverter.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateColorConverter.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateColorConverter.h
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateColorConverter_Private.h
+-[DJILiveViewRenderPicutre initWithContext:picture:]
+-[DJILiveViewRenderPicutre render]
+-[DJILiveViewRenderPicutre renderToTextureWithVertices:textureCoordinates:]
+-[DJILiveViewRenderPicutre texture]
+-[DJILiveViewRenderPicutre setTexture:]
+-[DJILiveViewRenderPicutre .cxx_destruct]
+_OBJC_IVAR_$_DJILiveViewRenderPicutre._texture
+_OBJC_CLASSLIST_REFERENCES_$_.17
+__OBJC_METACLASS_RO_$_DJILiveViewRenderPicutre
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderPicutre
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderPicutre
+__OBJC_$_PROP_LIST_DJILiveViewRenderPicutre
+__OBJC_CLASS_RO_$_DJILiveViewRenderPicutre
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/Texture/DJILiveViewRenderPicutre.m
+DJIWidget/VideoPreviewer/Render/Texture/DJILiveViewRenderPicutre.m
++[DJIImageCalibrateFilterDataSource instanceWithWorkMode:]
+-[DJIImageCalibrateFilterDataSource dealloc]
+-[DJIImageCalibrateFilterDataSource init]
+-[DJIImageCalibrateFilterDataSource initDataSourceData]
+-[DJIImageCalibrateFilterDataSource internalLoad]
+-[DJIImageCalibrateFilterDataSource internalLoadData]
+-[DJIImageCalibrateFilterDataSource internalLoadIndex]
+-[DJIImageCalibrateFilterDataSource releaseCache]
+-[DJIImageCalibrateFilterDataSource checkLoadDoneForSize:]
+-[DJIImageCalibrateFilterDataSource loadFromFiles]
+-[DJIImageCalibrateFilterDataSource textureCoordinateDataForResolution:dataIndex:]
+-[DJIImageCalibrateFilterDataSource validIndexCountForResolution:]
+-[DJIImageCalibrateFilterDataSource dataIndexForResolution:lutIndex:andFovState:]
+-[DJIImageCalibrateFilterDataSource loadDataForFrameSize:]
+-[DJIImageCalibrateFilterDataSource checkDataReadyForFrameSize:]
+-[DJIImageCalibrateFilterDataSource getVertexIndexDataForFrameSize:andHandler:]
+-[DJIImageCalibrateFilterDataSource getVertexDataForFrameSize:andHandler:]
+-[DJIImageCalibrateFilterDataSource workMode]
+-[DJIImageCalibrateFilterDataSource setWorkMode:]
+__OBJC_$_CLASS_METHODS_DJIImageCalibrateFilterDataSource
+__OBJC_METACLASS_RO_$_DJIImageCalibrateFilterDataSource
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrateFilterDataSource
+_OBJC_IVAR_$_DJIImageCalibrateFilterDataSource._dataMutex
+_OBJC_IVAR_$_DJIImageCalibrateFilterDataSource._loading
+_OBJC_IVAR_$_DJIImageCalibrateFilterDataSource._latestSize
+_OBJC_IVAR_$_DJIImageCalibrateFilterDataSource._dataLoaded
+_OBJC_IVAR_$_DJIImageCalibrateFilterDataSource._loadedDataLen
+_OBJC_IVAR_$_DJIImageCalibrateFilterDataSource._indexLoaded
+_OBJC_IVAR_$_DJIImageCalibrateFilterDataSource._indexLen
+_OBJC_IVAR_$_DJIImageCalibrateFilterDataSource._workMode
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrateFilterDataSource
+__OBJC_$_PROP_LIST_DJIImageCalibrateFilterDataSource
+__OBJC_CLASS_RO_$_DJIImageCalibrateFilterDataSource
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateFilterDataSource.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateFilterDataSource.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateFilterDataSource.h
+-[DJILiveViewRenderDataSource initWithContext:]
+-[DJILiveViewRenderDataSource dealloc]
+-[DJILiveViewRenderDataSource loadShaders]
+-[DJILiveViewRenderDataSource loadFrame:]
+-[DJILiveViewRenderDataSource loadTextureNormal:]
+-[DJILiveViewRenderDataSource loadTexttureFastupload:]
+-[DJILiveViewRenderDataSource renderBlack]
+-[DJILiveViewRenderDataSource renderPass]
+-[DJILiveViewRenderDataSource cleanupTexture]
+-[DJILiveViewRenderDataSource setupShader:]
+-[DJILiveViewRenderDataSource setActiveProgram:]
+-[DJILiveViewRenderDataSource configOutputBuffer]
+-[DJILiveViewRenderDataSource currentYUVCoord]
+-[DJILiveViewRenderDataSource informTargetsAboutNewFrameAtTime:]
+-[DJILiveViewRenderDataSource rotation]
+-[DJILiveViewRenderDataSource setRotation:]
+-[DJILiveViewRenderDataSource grayScale]
+-[DJILiveViewRenderDataSource setGrayScale:]
+-[DJILiveViewRenderDataSource luminanceScale]
+-[DJILiveViewRenderDataSource setLuminanceScale:]
+-[DJILiveViewRenderDataSource programBiYUV]
+-[DJILiveViewRenderDataSource setProgramBiYUV:]
+-[DJILiveViewRenderDataSource programYUV]
+-[DJILiveViewRenderDataSource setProgramYUV:]
+-[DJILiveViewRenderDataSource programRGBA]
+-[DJILiveViewRenderDataSource setProgramRGBA:]
+-[DJILiveViewRenderDataSource activeProgram]
+-[DJILiveViewRenderDataSource .cxx_destruct]
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._luminanceScale
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._grayScale
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._rotation
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._outputWidth
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._outputHeight
+_OBJC_IVAR_$_DJILiveViewRenderDataSource.textureInput
+_OBJC_IVAR_$_DJILiveViewRenderDataSource.textureInputRGB
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._programRGBA
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._programYUV
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._programBiYUV
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._inputLoaded
+_OBJC_IVAR_$_DJILiveViewRenderDataSource.textureInputFastupload
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._inputHeight
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._inputWidth
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._inputWidthRGB
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._inputHeightRGB
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._lastFrameType
+_OBJC_IVAR_$_DJILiveViewRenderDataSource.isFullRange
+_OBJC_IVAR_$_DJILiveViewRenderDataSource.fastuploadCVRef
+_OBJC_IVAR_$_DJILiveViewRenderDataSource.textureUniforms
+_OBJC_IVAR_$_DJILiveViewRenderDataSource.uniformYUVMatrix
+_OBJC_IVAR_$_DJILiveViewRenderDataSource.luminanceScaleUniform
+_OBJC_IVAR_$_DJILiveViewRenderDataSource.positionAttribute
+_g_defaultVertexs
+_OBJC_IVAR_$_DJILiveViewRenderDataSource.textureCoordinateAttribute
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_IVAR_$_DJILiveViewRenderDataSource._activeProgram
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_CLASSLIST_REFERENCES_$_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+__OBJC_METACLASS_RO_$_DJILiveViewRenderDataSource
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderDataSource
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderDataSource
+__OBJC_$_PROP_LIST_DJILiveViewRenderDataSource
+__OBJC_CLASS_RO_$_DJILiveViewRenderDataSource
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/Upload/DJILiveViewRenderDataSource.m
+DJIWidget/VideoPreviewer/Render/Upload/DJILiveViewRenderDataSource.m
+DJIWidget/VideoPreviewer/Render/Upload/DJILiveViewRenderDataSource_Private.h
+DJIWidget/VideoPreviewer/Render/Upload/DJILiveViewRenderDataSource.h
+-[DJIDecodeFrameRateMonitor newFrameArrived]
+-[DJIDecodeFrameRateMonitor intervalValid:]
+-[DJIDecodeFrameRateMonitor realTimeFrameRate]
+-[DJIDecodeFrameRateMonitor fpsForCommonValues]
+-[DJIDecodeFrameRateMonitor reset]
+-[DJIDecodeFrameRateMonitor fpsCommonValues]
+-[DJIDecodeFrameRateMonitor tsQueue]
+-[DJIDecodeFrameRateMonitor setTsQueue:]
+-[DJIDecodeFrameRateMonitor lastInputTime]
+-[DJIDecodeFrameRateMonitor setLastInputTime:]
+-[DJIDecodeFrameRateMonitor totalTimeInterval]
+-[DJIDecodeFrameRateMonitor setTotalTimeInterval:]
+-[DJIDecodeFrameRateMonitor currentAvgFrameRate]
+-[DJIDecodeFrameRateMonitor setCurrentAvgFrameRate:]
+-[DJIDecodeFrameRateMonitor setFpsCommonValues:]
+-[DJIDecodeFrameRateMonitor .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.44
+__OBJC_METACLASS_RO_$_DJIDecodeFrameRateMonitor
+__OBJC_$_INSTANCE_METHODS_DJIDecodeFrameRateMonitor
+_OBJC_IVAR_$_DJIDecodeFrameRateMonitor._tsQueue
+_OBJC_IVAR_$_DJIDecodeFrameRateMonitor._lastInputTime
+_OBJC_IVAR_$_DJIDecodeFrameRateMonitor._totalTimeInterval
+_OBJC_IVAR_$_DJIDecodeFrameRateMonitor._currentAvgFrameRate
+_OBJC_IVAR_$_DJIDecodeFrameRateMonitor._fpsCommonValues
+__OBJC_$_INSTANCE_VARIABLES_DJIDecodeFrameRateMonitor
+__OBJC_$_PROP_LIST_DJIDecodeFrameRateMonitor
+__OBJC_CLASS_RO_$_DJIDecodeFrameRateMonitor
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/DJIDecodeFrameRateMonitor.m
+DJIWidget/VideoPreviewer/DJIDecodeFrameRateMonitor.m
+-[DJILiveViewColorSpaceFilter initWithContext:andColorSpaceType:]
+-[DJILiveViewColorSpaceFilter sizeOfFBO]
+-[DJILiveViewColorSpaceFilter renderToTextureWithVertices:textureCoordinates:]
+_OBJC_IVAR_$_DJILiveViewColorSpaceFilter._preferredSize
+_OBJC_IVAR_$_DJILiveViewColorSpaceFilter._filterInternalType
+__OBJC_METACLASS_RO_$_DJILiveViewColorSpaceFilter
+__OBJC_$_INSTANCE_METHODS_DJILiveViewColorSpaceFilter
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewColorSpaceFilter
+__OBJC_CLASS_RO_$_DJILiveViewColorSpaceFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/ColorSpaceFilter/DJILiveViewColorSpaceFilter.m
+DJIWidget/VideoPreviewer/Render/ColorSpaceFilter/DJILiveViewColorSpaceFilter.m
+-[DJILiveViewCalibrateFilter dealloc]
+-[DJILiveViewCalibrateFilter releaseCacheData]
+-[DJILiveViewCalibrateFilter updateVertextBuffer]
+___49-[DJILiveViewCalibrateFilter updateVertextBuffer]_block_invoke
+-[DJILiveViewCalibrateFilter updateIndexBuffer]
+___47-[DJILiveViewCalibrateFilter updateIndexBuffer]_block_invoke
+-[DJILiveViewCalibrateFilter initWithContext:]
+-[DJILiveViewCalibrateFilter initData]
+-[DJILiveViewCalibrateFilter genBufferWithTarget:usage:size:andData:]
+-[DJILiveViewCalibrateFilter newFrameReadyAtTime:atIndex:]
+-[DJILiveViewCalibrateFilter renderToTextureWithVertices:textureCoordinates:]
+-[DJILiveViewCalibrateFilter loadData]
+-[DJILiveViewCalibrateFilter checkDataReady]
+-[DJILiveViewCalibrateFilter getVertexIndexWithHandler:]
+-[DJILiveViewCalibrateFilter getVertexDataWithHandler:]
+-[DJILiveViewCalibrateFilter addTarget:atTextureLocation:]
+-[DJILiveViewCalibrateFilter setDataSource:]
+-[DJILiveViewCalibrateFilter idx]
+-[DJILiveViewCalibrateFilter setIdx:]
+-[DJILiveViewCalibrateFilter fovState]
+-[DJILiveViewCalibrateFilter setFovState:]
+-[DJILiveViewCalibrateFilter dataSource]
+-[DJILiveViewCalibrateFilter vertexBuffer]
+-[DJILiveViewCalibrateFilter setVertexBuffer:]
+-[DJILiveViewCalibrateFilter vertexBufferArray]
+-[DJILiveViewCalibrateFilter setVertexBufferArray:]
+-[DJILiveViewCalibrateFilter indexBuffer]
+-[DJILiveViewCalibrateFilter setIndexBuffer:]
+-[DJILiveViewCalibrateFilter .cxx_destruct]
+_OBJC_IVAR_$_DJILiveViewCalibrateFilter._indexBuffer
+_OBJC_IVAR_$_DJILiveViewCalibrateFilter._vertexBufferArray
+_OBJC_IVAR_$_DJILiveViewCalibrateFilter._vertexBuffer
+_OBJC_IVAR_$_DJILiveViewCalibrateFilter._inputSize
+_OBJC_IVAR_$_DJILiveViewCalibrateFilter._idx
+_OBJC_IVAR_$_DJILiveViewCalibrateFilter._fovState
+_OBJC_IVAR_$_DJILiveViewCalibrateFilter._dataSource
+___block_descriptor_56_e8_32w_e15_v32?0^f8Q16Q24l
+___block_descriptor_48_e8_32w_e12_v24?0^I8Q16l
+_OBJC_IVAR_$_DJILiveViewCalibrateFilter._needUpdateDataSource
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_CLASSLIST_REFERENCES_$_.61
+__OBJC_METACLASS_RO_$_DJILiveViewCalibrateFilter
+__OBJC_$_INSTANCE_METHODS_DJILiveViewCalibrateFilter
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewCalibrateFilter
+__OBJC_$_PROP_LIST_DJILiveViewCalibrateFilter
+__OBJC_CLASS_RO_$_DJILiveViewCalibrateFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/CalibrateFilter/DJILiveViewCalibrateFilter.m
+DJIWidget/VideoPreviewer/Render/CalibrateFilter/DJILiveViewCalibrateFilter.m
+DJIWidget/VideoPreviewer/Render/CalibrateFilter/DJILiveViewCalibrateFilter.h
+__47-[DJILiveViewCalibrateFilter updateIndexBuffer]_block_invoke
+__49-[DJILiveViewCalibrateFilter updateVertextBuffer]_block_invoke
+_Ue
+_decode_scaling_list
+_crcVerify.wCRC_Table
+_default_scaling4
+_default_scaling8
+_golomb_to_pict_type
+_zigzag_scan
+_ff_zigzag_direct
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/DJIVideoHelper.m
+loadPrebuildIframe
+DJIWidget/VideoPreviewer/DJIVideoHelper.m
+h264_decode_slice_header
+u
+h264_parse_slice_header2
+findNextNALStartCodeEndPos
+findNextNALStartCodePos
+find_SPS_PPS
+decode_scaling_list
+Se
+Ue
+h264_decode_seq_parameter_set_out
+crcVerify
+-[DJIH264VTDecode init]
+-[DJIH264VTDecode dealloc]
+-[DJIH264VTDecode resetInDecodeThread]
+-[DJIH264VTDecode resetLater]
+-[DJIH264VTDecode decodeInit:Size:]
+-[DJIH264VTDecode loadDummyIframe]
+-[DJIH264VTDecode saveDummyIframe]
+-[DJIH264VTDecode pushSampleBuffer:Size:frameInfo:]
+-[DJIH264VTDecode decodeWork:Size:]
+-[DJIH264VTDecode decodeCompleteFrame:frameData:]
+-[DJIH264VTDecode dequeueAllFrames]
+-[DJIH264VTDecode safeReleaseDecodeSession]
+-[DJIH264VTDecode setFps:]
+-[DJIH264VTDecode setVideoSize:]
+-[DJIH264VTDecode setEncoderType:]
+-[DJIH264VTDecode clear264VerifyContext]
+-[DJIH264VTDecode sliceDecodeAdd:size:]
+-[DJIH264VTDecode verifyCurrentFrame:]
+-[DJIH264VTDecode streamProcessorType]
+-[DJIH264VTDecode streamProcessorHandleFrameRaw:]
+-[DJIH264VTDecode streamProcessorInfoChanged:]
+-[DJIH264VTDecode streamProcessorEnabled]
+-[DJIH264VTDecode delegate]
+-[DJIH264VTDecode setDelegate:]
+-[DJIH264VTDecode enabled]
+-[DJIH264VTDecode setEnabled:]
+-[DJIH264VTDecode decoderInited]
+-[DJIH264VTDecode setDecoderInited:]
+-[DJIH264VTDecode dummyIPushed]
+-[DJIH264VTDecode setDummyIPushed:]
+-[DJIH264VTDecode decodeErrorCount]
+-[DJIH264VTDecode setDecodeErrorCount:]
+-[DJIH264VTDecode hardwareUnavailable]
+-[DJIH264VTDecode setHardwareUnavailable:]
+-[DJIH264VTDecode fps]
+-[DJIH264VTDecode encoderType]
+-[DJIH264VTDecode videoSize]
+-[DJIH264VTDecode enableFastUpload]
+-[DJIH264VTDecode setEnableFastUpload:]
+-[DJIH264VTDecode currentFrame]
+-[DJIH264VTDecode setCurrentFrame:]
+-[DJIH264VTDecode frameInfoList]
+-[DJIH264VTDecode setFrameInfoList:]
+-[DJIH264VTDecode frameInfoListCount]
+-[DJIH264VTDecode setFrameInfoListCount:]
+-[DJIH264VTDecode .cxx_destruct]
+_decodeInit:Size:.hw_decoder_create_fail_count
+_OBJC_CLASSLIST_REFERENCES_$_.72
+__OBJC_CLASS_PROTOCOLS_$_DJIH264VTDecode
+__OBJC_METACLASS_RO_$_DJIH264VTDecode
+__OBJC_$_INSTANCE_METHODS_DJIH264VTDecode
+_OBJC_IVAR_$_DJIH264VTDecode._currentSPS
+_OBJC_IVAR_$_DJIH264VTDecode._sps_w
+_OBJC_IVAR_$_DJIH264VTDecode._sps_h
+_OBJC_IVAR_$_DJIH264VTDecode._sps_fps
+_OBJC_IVAR_$_DJIH264VTDecode._pic_slice_count
+_OBJC_IVAR_$_DJIH264VTDecode._pic_slices
+_OBJC_IVAR_$_DJIH264VTDecode.skip_current_frame
+_OBJC_IVAR_$_DJIH264VTDecode.last_decode_frame_index
+_OBJC_IVAR_$_DJIH264VTDecode.max_frame_index_plus_one
+_OBJC_IVAR_$_DJIH264VTDecode._blockBufferMemoryPool
+_OBJC_IVAR_$_DJIH264VTDecode._samplerBufferMemoryPool
+_OBJC_IVAR_$_DJIH264VTDecode._enabled
+_OBJC_IVAR_$_DJIH264VTDecode._decoderInited
+_OBJC_IVAR_$_DJIH264VTDecode._dummyIPushed
+_OBJC_IVAR_$_DJIH264VTDecode._hardwareUnavailable
+_OBJC_IVAR_$_DJIH264VTDecode._enableFastUpload
+_OBJC_IVAR_$_DJIH264VTDecode._decodeErrorCount
+_OBJC_IVAR_$_DJIH264VTDecode._frameInfoListCount
+_OBJC_IVAR_$_DJIH264VTDecode._delegate
+_OBJC_IVAR_$_DJIH264VTDecode._encoderType
+_OBJC_IVAR_$_DJIH264VTDecode._currentFrame
+_OBJC_IVAR_$_DJIH264VTDecode._frameInfoList
+_OBJC_IVAR_$_DJIH264VTDecode._videoSize
+__OBJC_$_INSTANCE_VARIABLES_DJIH264VTDecode
+__OBJC_$_PROP_LIST_DJIH264VTDecode
+__OBJC_CLASS_RO_$_DJIH264VTDecode
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/DJIH264VTDecode.m
+DJIWidget/VideoPreviewer/DJIH264VTDecode.m
+DJIWidget/VideoPreviewer/DJIH264VTDecode.h
+DJIHWDecoderDidDecompress
+-[DJILiveViewDammyCameraTakePhotoSession _init]
+-[DJILiveViewDammyCameraTakePhotoSession initWithVideoPreviewer:]
+-[DJILiveViewDammyCameraTakePhotoSession startSession]
+___54-[DJILiveViewDammyCameraTakePhotoSession startSession]_block_invoke
+___54-[DJILiveViewDammyCameraTakePhotoSession startSession]_block_invoke.19
+-[DJILiveViewDammyCameraTakePhotoSession stopSession]
+-[DJILiveViewDammyCameraTakePhotoSession asyncStopSession]
+___58-[DJILiveViewDammyCameraTakePhotoSession asyncStopSession]_block_invoke
+-[DJILiveViewDammyCameraTakePhotoSession timeout]
+-[DJILiveViewDammyCameraTakePhotoSession gotImage:]
+___51-[DJILiveViewDammyCameraTakePhotoSession gotImage:]_block_invoke
+___51-[DJILiveViewDammyCameraTakePhotoSession gotImage:]_block_invoke_2
+___51-[DJILiveViewDammyCameraTakePhotoSession gotImage:]_block_invoke_3
+___copy_helper_block_e8_32s40s
++[DJILiveViewDammyCameraTakePhotoSession stringFromDate:]
+-[DJILiveViewDammyCameraTakePhotoSession photoFileName]
+-[DJILiveViewDammyCameraTakePhotoSession previewer]
+-[DJILiveViewDammyCameraTakePhotoSession setPreviewer:]
+-[DJILiveViewDammyCameraTakePhotoSession captureResult]
+-[DJILiveViewDammyCameraTakePhotoSession setCaptureResult:]
+-[DJILiveViewDammyCameraTakePhotoSession captureStatus]
+-[DJILiveViewDammyCameraTakePhotoSession setCaptureStatus:]
+-[DJILiveViewDammyCameraTakePhotoSession statusLock]
+-[DJILiveViewDammyCameraTakePhotoSession setStatusLock:]
+-[DJILiveViewDammyCameraTakePhotoSession .cxx_destruct]
+___block_descriptor_40_e8_32w_e17_v16?0"UIImage"8l
+_OBJC_CLASSLIST_REFERENCES_$_.37
+_OBJC_CLASSLIST_REFERENCES_$_.42
+___block_descriptor_40_e8_32s_e5_v8?0l
+___block_descriptor_40_e8_32s_e17_v16?0"NSError"8l
+___block_descriptor_48_e8_32s40s_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.54
+__OBJC_$_CLASS_METHODS_DJILiveViewDammyCameraTakePhotoSession
+__OBJC_CLASS_PROTOCOLS_$_DJILiveViewDammyCameraTakePhotoSession
+__OBJC_METACLASS_RO_$_DJILiveViewDammyCameraTakePhotoSession
+__OBJC_$_INSTANCE_METHODS_DJILiveViewDammyCameraTakePhotoSession
+_OBJC_IVAR_$_DJILiveViewDammyCameraTakePhotoSession._previewer
+_OBJC_IVAR_$_DJILiveViewDammyCameraTakePhotoSession._captureResult
+_OBJC_IVAR_$_DJILiveViewDammyCameraTakePhotoSession._captureStatus
+_OBJC_IVAR_$_DJILiveViewDammyCameraTakePhotoSession._statusLock
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewDammyCameraTakePhotoSession
+__OBJC_$_PROP_LIST_DJILiveViewDammyCameraTakePhotoSession
+__OBJC_CLASS_RO_$_DJILiveViewDammyCameraTakePhotoSession
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoLiveCamera/ShootPhoto/DJILiveViewDammyCameraTakePhotoSession.m
+DJIWidget/VideoLiveCamera/ShootPhoto/DJILiveViewDammyCameraTakePhotoSession.m
+__copy_helper_block_e8_32s40s
+__51-[DJILiveViewDammyCameraTakePhotoSession gotImage:]_block_invoke_3
+__51-[DJILiveViewDammyCameraTakePhotoSession gotImage:]_block_invoke_2
+__51-[DJILiveViewDammyCameraTakePhotoSession gotImage:]_block_invoke
+__58-[DJILiveViewDammyCameraTakePhotoSession asyncStopSession]_block_invoke
+__54-[DJILiveViewDammyCameraTakePhotoSession startSession]_block_invoke.19
+__54-[DJILiveViewDammyCameraTakePhotoSession startSession]_block_invoke
+-[DJIImageCalibrateHelperHolder enabled]
+-[DJIImageCalibrateHelperHolder setInputSize:atIndex:]
+-[DJIImageCalibrateHelperHolder setInputFramebuffer:atIndex:]
+-[DJIImageCalibrateHelperHolder newFrameReadyAtTime:atIndex:]
+-[DJIImageCalibrateHelperHolder endProcessing]
+-[DJIImageCalibrateHelperHolder target]
+-[DJIImageCalibrateHelperHolder setTarget:]
+-[DJIImageCalibrateHelperHolder .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_DJIImageCalibrateHelperHolder
+__OBJC_METACLASS_RO_$_DJIImageCalibrateHelperHolder
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrateHelperHolder
+_OBJC_IVAR_$_DJIImageCalibrateHelperHolder._target
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrateHelperHolder
+__OBJC_$_PROP_LIST_DJIImageCalibrateHelperHolder
+__OBJC_CLASS_RO_$_DJIImageCalibrateHelperHolder
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/Holder/DJIImageCalibrateHelperHolder.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/Holder/DJIImageCalibrateHelperHolder.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/Holder/DJIImageCalibrateHelperHolder.h
+-[DJILiveViewRenderScaleFilter initWithContext:]
+-[DJILiveViewRenderScaleFilter sizeOfFBO]
+-[DJILiveViewRenderScaleFilter newFrameReadyAtTime:atIndex:]
+-[DJILiveViewRenderScaleFilter targetSize]
+-[DJILiveViewRenderScaleFilter setTargetSize:]
+-[DJILiveViewRenderScaleFilter helper]
+-[DJILiveViewRenderScaleFilter setHelper:]
+-[DJILiveViewRenderScaleFilter .cxx_destruct]
+_OBJC_IVAR_$_DJILiveViewRenderScaleFilter._helper
+_OBJC_IVAR_$_DJILiveViewRenderScaleFilter._targetSize
+__OBJC_METACLASS_RO_$_DJILiveViewRenderScaleFilter
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderScaleFilter
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderScaleFilter
+__OBJC_$_PROP_LIST_DJILiveViewRenderScaleFilter
+__OBJC_CLASS_RO_$_DJILiveViewRenderScaleFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/ScaleFilter/DJILiveViewRenderScaleFilter.m
+DJIWidget/VideoPreviewer/Render/ScaleFilter/DJILiveViewRenderScaleFilter.m
+DJIWidget/VideoPreviewer/Render/ScaleFilter/DJILiveViewRenderScaleFilter.h
+-[DJILiveViewColorMonitorMapedCGImageHolder initWithSize:]
+-[DJILiveViewColorMonitorMapedCGImageHolder dataBuffer]
+-[DJILiveViewColorMonitorMapedCGImageHolder update]
+___51-[DJILiveViewColorMonitorMapedCGImageHolder update]_block_invoke
+-[DJILiveViewColorMonitorMapedCGImageHolder dealloc]
+___52-[DJILiveViewColorMonitorMapedCGImageHolder dealloc]_block_invoke
+-[DJILiveViewColorMonitorMapedCGImageHolder holderView]
+-[DJILiveViewColorMonitorMapedCGImageHolder bufferedImageWidth]
+-[DJILiveViewColorMonitorMapedCGImageHolder bufferedImageHeight]
+-[DJILiveViewColorMonitorMapedCGImageHolder .cxx_destruct]
+-[DJILiveViewColorMonitorFilter initWithContext:]
+___49-[DJILiveViewColorMonitorFilter initWithContext:]_block_invoke
+-[DJILiveViewColorMonitorFilter dealloc]
+___40-[DJILiveViewColorMonitorFilter dealloc]_block_invoke
+-[DJILiveViewColorMonitorFilter renderToTextureWithVertices:textureCoordinates:]
+-[DJILiveViewColorMonitorFilter sizeOfFBO]
+-[DJILiveViewColorMonitorFilter sizeScale:scale:]
+-[DJILiveViewColorMonitorFilter setDisplayType:]
+-[DJILiveViewColorMonitorFilter setRenderMode:]
+-[DJILiveViewColorMonitorFilter frameBufferForOutput]
+-[DJILiveViewColorMonitorFilter pushFrameBuffer:]
+-[DJILiveViewColorMonitorFilter generateColorWaveWithInputBuffer:]
+___66-[DJILiveViewColorMonitorFilter generateColorWaveWithInputBuffer:]_block_invoke
+___66-[DJILiveViewColorMonitorFilter generateColorWaveWithInputBuffer:]_block_invoke.113
+-[DJILiveViewColorMonitorFilter performFirstColorWaveRenderingPassWithInputBuffer:]
+___83-[DJILiveViewColorMonitorFilter performFirstColorWaveRenderingPassWithInputBuffer:]_block_invoke
+-[DJILiveViewColorMonitorFilter performSecondColorWaveRenderingPassWithInputBuffer:]
+___84-[DJILiveViewColorMonitorFilter performSecondColorWaveRenderingPassWithInputBuffer:]_block_invoke
+-[DJILiveViewColorMonitorFilter performColorWaveRenderingPassUsingCoreGraphicsWithInputBuffer:]
+___95-[DJILiveViewColorMonitorFilter performColorWaveRenderingPassUsingCoreGraphicsWithInputBuffer:]_block_invoke
+-[DJILiveViewColorMonitorFilter performColorWaveRenderingPassUsingCoreGraphicsYChannelWithInputBuffer:]
+___103-[DJILiveViewColorMonitorFilter performColorWaveRenderingPassUsingCoreGraphicsYChannelWithInputBuffer:]_block_invoke
+-[DJILiveViewColorMonitorFilter renderedColorWaveFormView]
+-[DJILiveViewColorMonitorFilter setRenderedColorWaveFormView:]
+-[DJILiveViewColorMonitorFilter renderMode]
+-[DJILiveViewColorMonitorFilter displayType]
+-[DJILiveViewColorMonitorFilter intensity]
+-[DJILiveViewColorMonitorFilter setIntensity:]
+-[DJILiveViewColorMonitorFilter lineBlendMode]
+-[DJILiveViewColorMonitorFilter setLineBlendMode:]
+-[DJILiveViewColorMonitorFilter colorMonitorScaleFactor]
+-[DJILiveViewColorMonitorFilter setColorMonitorScaleFactor:]
+-[DJILiveViewColorMonitorFilter frameBufferLock]
+-[DJILiveViewColorMonitorFilter setFrameBufferLock:]
+-[DJILiveViewColorMonitorFilter frameBuffers]
+-[DJILiveViewColorMonitorFilter setFrameBuffers:]
+-[DJILiveViewColorMonitorFilter workingQueue]
+-[DJILiveViewColorMonitorFilter setWorkingQueue:]
+-[DJILiveViewColorMonitorFilter .cxx_destruct]
+__OBJC_METACLASS_RO_$_DJILiveViewColorMonitorMapedCGImageHolder
+__OBJC_$_INSTANCE_METHODS_DJILiveViewColorMonitorMapedCGImageHolder
+_OBJC_IVAR_$_DJILiveViewColorMonitorMapedCGImageHolder._holderView
+_OBJC_IVAR_$_DJILiveViewColorMonitorMapedCGImageHolder._bufferedImageWidth
+_OBJC_IVAR_$_DJILiveViewColorMonitorMapedCGImageHolder._bufferedImageHeight
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewColorMonitorMapedCGImageHolder
+__OBJC_$_PROP_LIST_DJILiveViewColorMonitorMapedCGImageHolder
+__OBJC_CLASS_RO_$_DJILiveViewColorMonitorMapedCGImageHolder
+_OBJC_CLASSLIST_REFERENCES_$_.49
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter._frameBufferLock
+_OBJC_CLASSLIST_REFERENCES_$_.50
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter._frameBuffers
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter._intensity
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter._lineBlendMode
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.bufferInputWidth
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.bufferInputHeigh
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.needUpdateView
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.imageHolder
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.histBuffer
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.pointsBuffer
+_OBJC_CLASSLIST_REFERENCES_$_.55
+_OBJC_CLASSLIST_REFERENCES_$_.58
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter._workingQueue
+_OBJC_CLASSLIST_REFERENCES_$_.76
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter._displayType
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter._renderMode
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.start
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.bufferDisplayType
+_OBJC_CLASSLIST_REFERENCES_$_.118
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.bytesPerHistBuffer
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.histBufferSize
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter.pointsBufferSize
+_OBJC_CLASSLIST_REFERENCES_$_.144
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter._renderedColorWaveFormView
+_OBJC_IVAR_$_DJILiveViewColorMonitorFilter._colorMonitorScaleFactor
+__OBJC_METACLASS_RO_$_DJILiveViewColorMonitorFilter
+__OBJC_$_INSTANCE_METHODS_DJILiveViewColorMonitorFilter
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewColorMonitorFilter
+__OBJC_$_PROP_LIST_DJILiveViewColorMonitorFilter
+__OBJC_CLASS_RO_$_DJILiveViewColorMonitorFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/ColorMonitor/DJILiveViewColorMonitorFilter.m
+DJIWidget/VideoPreviewer/Render/ColorMonitor/DJILiveViewColorMonitorFilter.m
+DJIWidget/VideoPreviewer/Render/ColorMonitor/DJILiveViewColorMonitorFilter.h
+__103-[DJILiveViewColorMonitorFilter performColorWaveRenderingPassUsingCoreGraphicsYChannelWithInputBuffer:]_block_invoke
+__95-[DJILiveViewColorMonitorFilter performColorWaveRenderingPassUsingCoreGraphicsWithInputBuffer:]_block_invoke
+__84-[DJILiveViewColorMonitorFilter performSecondColorWaveRenderingPassWithInputBuffer:]_block_invoke
+__83-[DJILiveViewColorMonitorFilter performFirstColorWaveRenderingPassWithInputBuffer:]_block_invoke
+__66-[DJILiveViewColorMonitorFilter generateColorWaveWithInputBuffer:]_block_invoke.113
+__66-[DJILiveViewColorMonitorFilter generateColorWaveWithInputBuffer:]_block_invoke
+__40-[DJILiveViewColorMonitorFilter dealloc]_block_invoke
+__49-[DJILiveViewColorMonitorFilter initWithContext:]_block_invoke
+bufferReleaseFunc
+__52-[DJILiveViewColorMonitorMapedCGImageHolder dealloc]_block_invoke
+__51-[DJILiveViewColorMonitorMapedCGImageHolder update]_block_invoke
+-[DJIVideoFrameSyncPoint copyWithZone:]
+-[DJIVideoFrameSyncPoint initWith:remote:]
++[DJIVideoFrameSyncPoint pointWith:remote:]
+-[DJIVideoFrameSyncPoint localTimeMSec]
+-[DJIVideoFrameSyncPoint remoteTimeMSec]
+-[DJIVideoFrameSyncPoint caMediaTimeMS]
+-[DJIVideoFrameSyncPoint setCaMediaTimeMS:]
+__OBJC_$_CLASS_METHODS_DJIVideoFrameSyncPoint
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCopying
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSCopying
+__OBJC_PROTOCOL_$_NSCopying
+__OBJC_LABEL_PROTOCOL_$_NSCopying
+__OBJC_CLASS_PROTOCOLS_$_DJIVideoFrameSyncPoint
+__OBJC_METACLASS_RO_$_DJIVideoFrameSyncPoint
+__OBJC_$_INSTANCE_METHODS_DJIVideoFrameSyncPoint
+_OBJC_IVAR_$_DJIVideoFrameSyncPoint._localTimeMSec
+_OBJC_IVAR_$_DJIVideoFrameSyncPoint._remoteTimeMSec
+_OBJC_IVAR_$_DJIVideoFrameSyncPoint._caMediaTimeMS
+__OBJC_$_INSTANCE_VARIABLES_DJIVideoFrameSyncPoint
+__OBJC_$_PROP_LIST_DJIVideoFrameSyncPoint
+__OBJC_CLASS_RO_$_DJIVideoFrameSyncPoint
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/DJIVideoFrameSyncPoint.m
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/DJIVideoFrameSyncPoint.h
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/DJIVideoFrameSyncPoint.m
++[DJIVideoWriterContext MuxedFilePathByPoolPath:]
++[DJIVideoWriterContext VideoCachePath]
+-[DJIVideoWriterContext initWithNewFile:]
+-[DJIVideoWriterContext dealloc]
+-[DJIVideoWriterContext verifyContextForKeep]
+-[DJIVideoWriterContext deleteAllDiskFile]
+-[DJIVideoWriterContext closeFile]
+-[DJIVideoWriterContext playbackDuration]
+-[DJIVideoWriterContext pushSyncPoint:]
+-[DJIVideoWriterContext pushFrame:]
+-[DJIVideoWriterContext muxer]
+-[DJIVideoWriterContext setMuxer:]
+-[DJIVideoWriterContext videoFrameCount]
+-[DJIVideoWriterContext setVideoFrameCount:]
+-[DJIVideoWriterContext audioFrameCount]
+-[DJIVideoWriterContext setAudioFrameCount:]
+-[DJIVideoWriterContext overAllFrameCount]
+-[DJIVideoWriterContext setOverAllFrameCount:]
+-[DJIVideoWriterContext currentFileSize]
+-[DJIVideoWriterContext isFileClosed]
+-[DJIVideoWriterContext setIsFileClosed:]
+-[DJIVideoWriterContext writeFilePath]
+-[DJIVideoWriterContext setWriteFilePath:]
+-[DJIVideoWriterContext playbackFps]
+-[DJIVideoWriterContext setPlaybackFps:]
+-[DJIVideoWriterContext lastSyncPoint]
+-[DJIVideoWriterContext setLastSyncPoint:]
+-[DJIVideoWriterContext currentSyncPoint]
+-[DJIVideoWriterContext setCurrentSyncPoint:]
+-[DJIVideoWriterContext syncPointList]
+-[DJIVideoWriterContext setSyncPointList:]
+-[DJIVideoWriterContext .cxx_destruct]
+_VideoCachePath.path
+_OBJC_SELECTOR_REFERENCES_.66
+__OBJC_$_CLASS_METHODS_DJIVideoWriterContext
+__OBJC_METACLASS_RO_$_DJIVideoWriterContext
+__OBJC_$_INSTANCE_METHODS_DJIVideoWriterContext
+_OBJC_IVAR_$_DJIVideoWriterContext._isFileClosed
+_OBJC_IVAR_$_DJIVideoWriterContext._videoFrameCount
+_OBJC_IVAR_$_DJIVideoWriterContext._audioFrameCount
+_OBJC_IVAR_$_DJIVideoWriterContext._overAllFrameCount
+_OBJC_IVAR_$_DJIVideoWriterContext._currentFileSize
+_OBJC_IVAR_$_DJIVideoWriterContext._playbackFps
+_OBJC_IVAR_$_DJIVideoWriterContext._muxer
+_OBJC_IVAR_$_DJIVideoWriterContext._writeFilePath
+_OBJC_IVAR_$_DJIVideoWriterContext._lastSyncPoint
+_OBJC_IVAR_$_DJIVideoWriterContext._currentSyncPoint
+_OBJC_IVAR_$_DJIVideoWriterContext._syncPointList
+__OBJC_$_INSTANCE_VARIABLES_DJIVideoWriterContext
+__OBJC_$_PROP_LIST_DJIVideoWriterContext
+__OBJC_CLASS_RO_$_DJIVideoWriterContext
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/DJIVideoWriterContext.m
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/DJIVideoWriterContext.m
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/Context/DJIVideoWriterContext.h
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/DJIStreamCommon.m
+-[DJIVideoPreviewSmoothHelper init]
++[DJIVideoPreviewSmoothHelper getDocumentsPath]
+-[DJIVideoPreviewSmoothHelper resetSmooth]
+-[DJIVideoPreviewSmoothHelper sleepTimeForCurrentFrame:framePushInQueueTime:decodeCostTime:]
+-[DJIVideoPreviewSmoothHelper frameBuffered]
++[DJIVideoPreviewSmoothHelper getTick]
+-[DJIVideoPreviewSmoothHelper requiredFrameDelta]
+-[DJIVideoPreviewSmoothHelper setRequiredFrameDelta:]
+-[DJIVideoPreviewSmoothHelper requiredDelay]
+-[DJIVideoPreviewSmoothHelper setRequiredDelay:]
+-[DJIVideoPreviewSmoothHelper delayUpperLimits]
+-[DJIVideoPreviewSmoothHelper setDelayUpperLimits:]
+-[DJIVideoPreviewSmoothHelper prevFrameTime]
+-[DJIVideoPreviewSmoothHelper setPrevFrameTime:]
+-[DJIVideoPreviewSmoothHelper autoframeRateCounter]
+-[DJIVideoPreviewSmoothHelper setAutoframeRateCounter:]
+-[DJIVideoPreviewSmoothHelper autoFrameRateLastCounterTime]
+-[DJIVideoPreviewSmoothHelper setAutoFrameRateLastCounterTime:]
+-[DJIVideoPreviewSmoothHelper autoFrameRateDelay]
+-[DJIVideoPreviewSmoothHelper setAutoFrameRateDelay:]
+_getDocumentsPath.ret
+__OBJC_$_CLASS_METHODS_DJIVideoPreviewSmoothHelper
+__OBJC_$_PROTOCOL_REFS_DJISmoothDecodeProtocol
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJISmoothDecodeProtocol
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJISmoothDecodeProtocol
+__OBJC_PROTOCOL_$_DJISmoothDecodeProtocol
+__OBJC_LABEL_PROTOCOL_$_DJISmoothDecodeProtocol
+__OBJC_CLASS_PROTOCOLS_$_DJIVideoPreviewSmoothHelper
+__OBJC_METACLASS_RO_$_DJIVideoPreviewSmoothHelper
+__OBJC_$_INSTANCE_METHODS_DJIVideoPreviewSmoothHelper
+_OBJC_IVAR_$_DJIVideoPreviewSmoothHelper.dumpData
+_OBJC_IVAR_$_DJIVideoPreviewSmoothHelper._autoframeRateCounter
+_OBJC_IVAR_$_DJIVideoPreviewSmoothHelper._requiredFrameDelta
+_OBJC_IVAR_$_DJIVideoPreviewSmoothHelper._requiredDelay
+_OBJC_IVAR_$_DJIVideoPreviewSmoothHelper._delayUpperLimits
+_OBJC_IVAR_$_DJIVideoPreviewSmoothHelper._prevFrameTime
+_OBJC_IVAR_$_DJIVideoPreviewSmoothHelper._autoFrameRateLastCounterTime
+_OBJC_IVAR_$_DJIVideoPreviewSmoothHelper._autoFrameRateDelay
+__OBJC_$_INSTANCE_VARIABLES_DJIVideoPreviewSmoothHelper
+__OBJC_$_PROP_LIST_DJIVideoPreviewSmoothHelper
+__OBJC_CLASS_RO_$_DJIVideoPreviewSmoothHelper
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/RTMPProcessor/DJIVideoPreviewSmoothHelper.m
+DJIWidget/RTMPProcessor/DJIVideoPreviewSmoothHelper.m
+DJIWidget/RTMPProcessor/DJIVideoPreviewSmoothHelper.h
+-[DJIMovieGLView dealloc]
++[DJIMovieGLView layerClass]
+-[DJIMovieGLView initWithFrame:]
+-[DJIMovieGLView initWithFrame:multiThreadSupported:]
+-[DJIMovieGLView releaseResourece]
+-[DJIMovieGLView adjustSize]
+-[DJIMovieGLView notifyFrameChange]
+-[DJIMovieGLView checkFrame:equalsToFrame:]
+-[DJIMovieGLView setFrame:]
+-[DJIMovieGLView didMoveToSuperview]
+-[DJIMovieGLView startObserveSuperviewBounds]
+___45-[DJIMovieGLView startObserveSuperviewBounds]_block_invoke
+-[DJIMovieGLView stopObserveSuperviewBounds]
+-[DJIMovieGLView setupPipLine]
+-[DJIMovieGLView clear]
+-[DJIMovieGLView render:]
+___25-[DJIMovieGLView render:]_block_invoke
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___25-[DJIMovieGLView render:]_block_invoke.222
+___copy_helper_block_e8_32s40r
+___destroy_helper_block_e8_32s40r
+___Block_byref_object_copy_.223
+___Block_byref_object_dispose_.224
+___25-[DJIMovieGLView render:]_block_invoke.227
+___copy_helper_block_e8_32r40r
+___destroy_helper_block_e8_32r40r
+-[DJIMovieGLView enabled]
+-[DJIMovieGLView setInputSize:atIndex:]
+-[DJIMovieGLView setInputFramebuffer:atIndex:]
+-[DJIMovieGLView newFrameReadyAtTime:atIndex:]
+-[DJIMovieGLView endProcessing]
+-[DJIMovieGLView loadShadersPresent]
+-[DJIMovieGLView renderToScreen]
+-[DJIMovieGLView getCurrentTimeDiff]
+-[DJIMovieGLView rebindFrameBuffer]
+-[DJIMovieGLView setSnapshotCallback:]
+-[DJIMovieGLView setSnapshotThumbnailCallback:]
+-[DJIMovieGLView setEnableFocusWarning:]
+-[DJIMovieGLView setDLogReverse:]
+-[DJIMovieGLView setEnableHSB:]
+-[DJIMovieGLView setEnableShadowAndHighLightenhancement:]
+-[DJIMovieGLView setEnableColorMonitor:]
+-[DJIMovieGLView setType:]
+-[DJIMovieGLView setRotation:]
+-[DJIMovieGLView setContentClipRect:]
+-[DJIMovieGLView setCalibrateEnabled:]
+-[DJIMovieGLView willRelease]
+-[DJIMovieGLView setWillRelease:]
+-[DJIMovieGLView needUpdatePipline]
+-[DJIMovieGLView setNeedUpdatePipline:]
+-[DJIMovieGLView dataSource]
+-[DJIMovieGLView setDataSource:]
+-[DJIMovieGLView focusWarningFilter]
+-[DJIMovieGLView setFocusWarningFilter:]
+-[DJIMovieGLView scaleFilter]
+-[DJIMovieGLView setScaleFilter:]
+-[DJIMovieGLView reverseDLogFilter]
+-[DJIMovieGLView setReverseDLogFilter:]
+-[DJIMovieGLView hsbFilter]
+-[DJIMovieGLView setHsbFilter:]
+-[DJIMovieGLView highlightFilter]
+-[DJIMovieGLView setHighlightFilter:]
+-[DJIMovieGLView renderLock]
+-[DJIMovieGLView setRenderLock:]
+-[DJIMovieGLView adjustSizeStatus]
+-[DJIMovieGLView setAdjustSizeStatus:]
+-[DJIMovieGLView superviewBoundsTimer]
+-[DJIMovieGLView setSuperviewBoundsTimer:]
+-[DJIMovieGLView cachedSuperviewBounds]
+-[DJIMovieGLView setCachedSuperviewBounds:]
+-[DJIMovieGLView grayScale]
+-[DJIMovieGLView setGrayScale:]
+-[DJIMovieGLView overExposedMark]
+-[DJIMovieGLView setOverExposedMark:]
+-[DJIMovieGLView luminanceScale]
+-[DJIMovieGLView setLuminanceScale:]
+-[DJIMovieGLView enableFocusWarning]
+-[DJIMovieGLView focusWarningThreshold]
+-[DJIMovieGLView setFocusWarningThreshold:]
+-[DJIMovieGLView dLogReverse]
+-[DJIMovieGLView enableHSB]
+-[DJIMovieGLView hsbConfig]
+-[DJIMovieGLView setHsbConfig:]
+-[DJIMovieGLView enableShadowAndHighLightenhancement]
+-[DJIMovieGLView shadowsLighten]
+-[DJIMovieGLView setShadowsLighten:]
+-[DJIMovieGLView highlightsDecrease]
+-[DJIMovieGLView setHighlightsDecrease:]
+-[DJIMovieGLView enableColorMonitor]
+-[DJIMovieGLView colorMonitor]
+-[DJIMovieGLView setColorMonitor:]
+-[DJIMovieGLView calibrateEnabled]
+-[DJIMovieGLView lutIndex]
+-[DJIMovieGLView setLutIndex:]
+-[DJIMovieGLView fovState]
+-[DJIMovieGLView setFovState:]
+-[DJIMovieGLView calibrateFilter]
+-[DJIMovieGLView setCalibrateFilter:]
+-[DJIMovieGLView colorConverter]
+-[DJIMovieGLView setColorConverter:]
+-[DJIMovieGLView calibratePixelBufferProvider]
+-[DJIMovieGLView setCalibratePixelBufferProvider:]
+-[DJIMovieGLView snapshotThumbnailCallback]
+-[DJIMovieGLView snapshotCallback]
+-[DJIMovieGLView rotation]
+-[DJIMovieGLView contentClipRect]
+-[DJIMovieGLView type]
+-[DJIMovieGLView delegate]
+-[DJIMovieGLView setDelegate:]
+-[DJIMovieGLView .cxx_destruct]
+_OBJC_IVAR_$_DJIMovieGLView._adjustHelper
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_IVAR_$_DJIMovieGLView._renderLock
+_OBJC_IVAR_$_DJIMovieGLView._superviewBoundsTimer
+_OBJC_IVAR_$_DJIMovieGLView._cachedSuperviewBounds
+_OBJC_IVAR_$_DJIMovieGLView._adjustSizeStatus
+_OBJC_IVAR_$_DJIMovieGLView._inputWidth
+_OBJC_IVAR_$_DJIMovieGLView._inputHeight
+_OBJC_IVAR_$_DJIMovieGLView._needUpdatePipline
+_OBJC_IVAR_$_DJIMovieGLView._type
+_OBJC_CLASSLIST_REFERENCES_$_.57
+_OBJC_IVAR_$_DJIMovieGLView.context
+_OBJC_IVAR_$_DJIMovieGLView._luminanceScale
+_OBJC_IVAR_$_DJIMovieGLView._overExposedMark
+_OBJC_IVAR_$_DJIMovieGLView._focusWarningThreshold
+_OBJC_IVAR_$_DJIMovieGLView._grayScale
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_IVAR_$_DJIMovieGLView._framebuffer
+_OBJC_IVAR_$_DJIMovieGLView._renderbuffer
+_OBJC_IVAR_$_DJIMovieGLView.presentProgram
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_IVAR_$_DJIMovieGLView._targetLayerFrame
+_OBJC_IVAR_$_DJIMovieGLView._delegate
+_OBJC_IVAR_$_DJIMovieGLView._dataSource
+_OBJC_IVAR_$_DJIMovieGLView._willRelease
+_OBJC_CLASSLIST_REFERENCES_$_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_CLASSLIST_REFERENCES_$_.148
+_OBJC_IVAR_$_DJIMovieGLView._scaleFilter
+_OBJC_IVAR_$_DJIMovieGLView._calibrateEnabled
+_OBJC_IVAR_$_DJIMovieGLView._calibrateFilter
+_OBJC_CLASSLIST_REFERENCES_$_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_CLASSLIST_REFERENCES_$_.160
+_OBJC_IVAR_$_DJIMovieGLView._enableColorMonitor
+_OBJC_CLASSLIST_REFERENCES_$_.163
+_OBJC_IVAR_$_DJIMovieGLView._dLogReverse
+_OBJC_IVAR_$_DJIMovieGLView._reverseDLogFilter
+_OBJC_CLASSLIST_REFERENCES_$_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_IVAR_$_DJIMovieGLView._enableHSB
+_OBJC_IVAR_$_DJIMovieGLView._hsbFilter
+_OBJC_CLASSLIST_REFERENCES_$_.167
+_OBJC_IVAR_$_DJIMovieGLView._enableShadowAndHighLightenhancement
+_OBJC_IVAR_$_DJIMovieGLView._highlightFilter
+_OBJC_CLASSLIST_REFERENCES_$_.168
+_OBJC_IVAR_$_DJIMovieGLView._enableFocusWarning
+_OBJC_IVAR_$_DJIMovieGLView._focusWarningFilter
+_OBJC_CLASSLIST_REFERENCES_$_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_SELECTOR_REFERENCES_.177
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_SELECTOR_REFERENCES_.207
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_SELECTOR_REFERENCES_.211
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_IVAR_$_DJIMovieGLView._snapshotThumbnailCallback
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_IVAR_$_DJIMovieGLView._snapshotCallback
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+___block_descriptor_48_e8_32s40r_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.226
+___block_descriptor_48_e8_32r40r_e5_v8?0l
+_OBJC_IVAR_$_DJIMovieGLView.inputBuffer
+_OBJC_SELECTOR_REFERENCES_.231
+_OBJC_SELECTOR_REFERENCES_.233
+_OBJC_SELECTOR_REFERENCES_.235
+_OBJC_IVAR_$_DJIMovieGLView._attrVertex
+_OBJC_IVAR_$_DJIMovieGLView._attrTexcoord
+_OBJC_CLASSLIST_REFERENCES_$_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_SELECTOR_REFERENCES_.240
+_OBJC_SELECTOR_REFERENCES_.244
+_OBJC_SELECTOR_REFERENCES_.248
+_OBJC_SELECTOR_REFERENCES_.250
+_OBJC_SELECTOR_REFERENCES_.254
+_OBJC_SELECTOR_REFERENCES_.258
+_OBJC_SELECTOR_REFERENCES_.262
+_OBJC_SELECTOR_REFERENCES_.266
+_OBJC_IVAR_$_DJIMovieGLView._uniformPresentSampler
+_OBJC_IVAR_$_DJIMovieGLView._over_exposed_param
+_OBJC_IVAR_$_DJIMovieGLView._over_exposed_tex_uniform
+_OBJC_CLASSLIST_REFERENCES_$_.271
+_OBJC_CLASSLIST_REFERENCES_$_.276
+_OBJC_SELECTOR_REFERENCES_.278
+_OBJC_SELECTOR_REFERENCES_.280
+_OBJC_IVAR_$_DJIMovieGLView._over_exposed_texture
+_OBJC_SELECTOR_REFERENCES_.282
+_OBJC_IVAR_$_DJIMovieGLView._backingWidth
+_OBJC_IVAR_$_DJIMovieGLView._backingHeight
+_OBJC_SELECTOR_REFERENCES_.284
+_OBJC_SELECTOR_REFERENCES_.286
+_renderToScreen.offset
+_OBJC_SELECTOR_REFERENCES_.288
+_g_postQuadTexCoords
+_getCurrentTimeDiff.baseDate
+_OBJC_CLASSLIST_REFERENCES_$_.289
+_OBJC_SELECTOR_REFERENCES_.291
+_OBJC_SELECTOR_REFERENCES_.293
+_OBJC_SELECTOR_REFERENCES_.295
+_OBJC_SELECTOR_REFERENCES_.297
+_OBJC_IVAR_$_DJIMovieGLView._viewPointWidth
+_OBJC_IVAR_$_DJIMovieGLView._viewPointHeight
+_OBJC_IVAR_$_DJIMovieGLView._rotation
+_OBJC_IVAR_$_DJIMovieGLView._contentClipRect
+_OBJC_IVAR_$_DJIMovieGLView._hsbConfig
+_OBJC_IVAR_$_DJIMovieGLView._shadowsLighten
+_OBJC_IVAR_$_DJIMovieGLView._highlightsDecrease
+_OBJC_IVAR_$_DJIMovieGLView._colorMonitor
+_OBJC_IVAR_$_DJIMovieGLView._lutIndex
+_OBJC_IVAR_$_DJIMovieGLView._fovState
+_OBJC_IVAR_$_DJIMovieGLView._colorConverter
+_OBJC_IVAR_$_DJIMovieGLView._calibratePixelBufferProvider
+__OBJC_$_CLASS_METHODS_DJIMovieGLView
+__OBJC_CLASS_PROTOCOLS_$_DJIMovieGLView
+__OBJC_METACLASS_RO_$_DJIMovieGLView
+__OBJC_$_INSTANCE_METHODS_DJIMovieGLView
+_OBJC_IVAR_$_DJIMovieGLView._rgbOutputWidth
+_OBJC_IVAR_$_DJIMovieGLView._rgbOutputHeight
+_OBJC_IVAR_$_DJIMovieGLView._downsacle_renderbuffer
+_OBJC_IVAR_$_DJIMovieGLView._downscale_framebuffer
+_OBJC_IVAR_$_DJIMovieGLView._downscale_quadTexCoords
+__OBJC_$_INSTANCE_VARIABLES_DJIMovieGLView
+__OBJC_$_PROP_LIST_DJIMovieGLView
+__OBJC_CLASS_RO_$_DJIMovieGLView
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/DJIMovieGLView.m
+DJIWidget/VideoPreviewer/DJIMovieGLView.m
+DJIWidget/VideoPreviewer/DJIMovieGLView.h
+__destroy_helper_block_e8_32r40r
+__copy_helper_block_e8_32r40r
+__25-[DJIMovieGLView render:]_block_invoke.227
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+__destroy_helper_block_e8_32s40r
+__copy_helper_block_e8_32s40r
+__25-[DJIMovieGLView render:]_block_invoke.222
+__25-[DJIMovieGLView render:]_block_invoke
+__45-[DJIMovieGLView startObserveSuperviewBounds]_block_invoke
+-[DJILiveViewRenderContext init]
+-[DJILiveViewRenderContext dealloc]
+-[DJILiveViewRenderContext initWithMultiThreadSupport:]
+___55-[DJILiveViewRenderContext initWithMultiThreadSupport:]_block_invoke
+-[DJILiveViewRenderContext useAsCurrentContext]
+-[DJILiveViewRenderContext releaseContext]
+-[DJILiveViewRenderContext setContextShaderProgram:]
++[DJILiveViewRenderContext maximumTextureSizeForThisDevice]
+___59+[DJILiveViewRenderContext maximumTextureSizeForThisDevice]_block_invoke
++[DJILiveViewRenderContext sizeThatFitsWithinATextureForSize:]
+-[DJILiveViewRenderContext presentBufferForDisplay]
+-[DJILiveViewRenderContext programForVertexShaderString:fragmentShaderString:]
+-[DJILiveViewRenderContext createContext]
++[DJILiveViewRenderContext supportsFastTextureUpload]
+-[DJILiveViewRenderContext context]
+-[DJILiveViewRenderContext coreVideoTextureCache]
+-[DJILiveViewRenderContext currentShaderProgram]
+-[DJILiveViewRenderContext memoryPool]
+-[DJILiveViewRenderContext setMemoryPool:]
+-[DJILiveViewRenderContext released]
+-[DJILiveViewRenderContext .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.6
+___block_descriptor_48_e8_32s_e24_v16?0"NSNotification"8lu40l8
+_maximumTextureSizeForThisDevice.pred
+_maximumTextureSizeForThisDevice.maxTextureSize
+_OBJC_CLASSLIST_REFERENCES_$_.30
+__OBJC_$_CLASS_METHODS_DJILiveViewRenderContext
+__OBJC_METACLASS_RO_$_DJILiveViewRenderContext
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderContext
+_OBJC_IVAR_$_DJILiveViewRenderContext.shaderProgramCache
+_OBJC_IVAR_$_DJILiveViewRenderContext.shaderProgramUsageHistory
+_OBJC_IVAR_$_DJILiveViewRenderContext._sharegroup
+_OBJC_IVAR_$_DJILiveViewRenderContext._multiThread
+_OBJC_IVAR_$_DJILiveViewRenderContext._released
+_OBJC_IVAR_$_DJILiveViewRenderContext._context
+_OBJC_IVAR_$_DJILiveViewRenderContext._currentShaderProgram
+_OBJC_IVAR_$_DJILiveViewRenderContext._coreVideoTextureCache
+_OBJC_IVAR_$_DJILiveViewRenderContext._memoryPool
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderContext
+__OBJC_$_PROP_LIST_DJILiveViewRenderContext
+__OBJC_CLASS_RO_$_DJILiveViewRenderContext
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderContext.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderContext.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderContext.h
+__59+[DJILiveViewRenderContext maximumTextureSizeForThisDevice]_block_invoke
+__55-[DJILiveViewRenderContext initWithMultiThreadSupport:]_block_invoke
+-[DJIImageCalibrateColorGPUConverterWeakObject initWithBuffer:]
++[DJIImageCalibrateColorGPUConverterWeakObject defaultObject]
+-[DJIImageCalibrateColorGPUConverterWeakObject buffer]
+-[DJIImageCalibrateColorGPUConverterWeakObject setBuffer:]
+-[DJIImageCalibrateColorGPUConverterWeakObject .cxx_destruct]
+-[DJIImageCalibrateColorGPUConverter prepareToClean]
+-[DJIImageCalibrateColorGPUConverter deleteFilters]
+-[DJIImageCalibrateColorGPUConverter removeBuffers]
+-[DJIImageCalibrateColorGPUConverter resetBuffers]
+-[DJIImageCalibrateColorGPUConverter resetState]
+-[DJIImageCalibrateColorGPUConverter setEnabledConverter:]
+-[DJIImageCalibrateColorGPUConverter initWithFrameType:]
+-[DJIImageCalibrateColorGPUConverter initData]
+-[DJIImageCalibrateColorGPUConverter setCombinedChannel:]
+-[DJIImageCalibrateColorGPUConverter setContext:]
+-[DJIImageCalibrateColorGPUConverter updateFiltersAndBuffers]
+-[DJIImageCalibrateColorGPUConverter safeHolder]
+-[DJIImageCalibrateColorGPUConverter setColorConverterInputSize:atIndex:]
+-[DJIImageCalibrateColorGPUConverter setColorConverterInputFramebuffer:atIndex:]
+-[DJIImageCalibrateColorGPUConverter newColorConverterFrameReadyAtTime:atIndex:]
+-[DJIImageCalibrateColorGPUConverter endProcessingColorConverter]
+-[DJIImageCalibrateColorGPUConverter enabled]
+-[DJIImageCalibrateColorGPUConverter setInputSize:atIndex:]
+-[DJIImageCalibrateColorGPUConverter setInputFramebuffer:atIndex:]
+-[DJIImageCalibrateColorGPUConverter newFrameReadyAtTime:atIndex:]
+-[DJIImageCalibrateColorGPUConverter endProcessing]
+-[DJIImageCalibrateColorGPUConverter checkNewFrameDone]
++[DJIImageCalibrateColorGPUConverter proposedType]
+-[DJIImageCalibrateColorGPUConverter context]
+-[DJIImageCalibrateColorGPUConverter combinedChannel]
+-[DJIImageCalibrateColorGPUConverter .cxx_destruct]
+__OBJC_$_CLASS_METHODS_DJIImageCalibrateColorGPUConverterWeakObject
+__OBJC_METACLASS_RO_$_DJIImageCalibrateColorGPUConverterWeakObject
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrateColorGPUConverterWeakObject
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverterWeakObject._buffer
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrateColorGPUConverterWeakObject
+__OBJC_$_PROP_LIST_DJIImageCalibrateColorGPUConverterWeakObject
+__OBJC_CLASS_RO_$_DJIImageCalibrateColorGPUConverterWeakObject
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverter._filterInfo
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverter._bufferInfo
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverter._processedMask
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverter._firstInit
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverter._inputFrameSize
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverter._lastInputFrameSize
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverter._doneMask
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverter._safeHolder
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverter._combinedChannel
+_OBJC_IVAR_$_DJIImageCalibrateColorGPUConverter._context
+_OBJC_CLASSLIST_REFERENCES_$_.64
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_CLASSLIST_REFERENCES_$_.73
+_OBJC_CLASSLIST_REFERENCES_$_.84
+_OBJC_CLASSLIST_REFERENCES_$_.108
+__OBJC_$_CLASS_METHODS_DJIImageCalibrateColorGPUConverter
+__OBJC_CLASS_PROTOCOLS_$_DJIImageCalibrateColorGPUConverter
+__OBJC_METACLASS_RO_$_DJIImageCalibrateColorGPUConverter
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrateColorGPUConverter
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrateColorGPUConverter
+__OBJC_$_PROP_LIST_DJIImageCalibrateColorGPUConverter
+__OBJC_CLASS_RO_$_DJIImageCalibrateColorGPUConverter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateColorGPUConverter.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateColorGPUConverter.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateColorGPUConverter.h
+-[DJIPixelCache dealloc]
+-[DJIPixelCache initWithFrameWidth:height:andFrameType:]
+-[DJIPixelCache init]
+-[DJIPixelCache checkFitsFrameWidth:height:andFrameType:]
+-[DJIPixelCache pixelBuffer]
+-[DJIPixelCache initPixel]
++[DJIPixelCache osTypeMap]
+___26+[DJIPixelCache osTypeMap]_block_invoke
+_OBJC_CLASSLIST_REFERENCES_$_.18
+_osTypeMap.map
+_osTypeMap.onceToken
+__OBJC_$_CLASS_METHODS_DJIPixelCache
+__OBJC_METACLASS_RO_$_DJIPixelCache
+__OBJC_$_INSTANCE_METHODS_DJIPixelCache
+_OBJC_IVAR_$_DJIPixelCache._pixel
+_OBJC_IVAR_$_DJIPixelCache._frameSize
+_OBJC_IVAR_$_DJIPixelCache._frameType
+__OBJC_$_INSTANCE_VARIABLES_DJIPixelCache
+__OBJC_CLASS_RO_$_DJIPixelCache
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/DJIImageCache/DJIPixelCache.m
+__26+[DJIPixelCache osTypeMap]_block_invoke
+DJIWidget/VideoPreviewer/Helper/DJIImageCache/DJIPixelCache.m
+-[DJIImageCalibrateHelper dealloc]
+-[DJIImageCalibrateHelper init]
+-[DJIImageCalibrateHelper initShouldCreateCalibrateThread:andRenderThread:]
+-[DJIImageCalibrateHelper syncBaseData]
+-[DJIImageCalibrateHelper bindBaseData]
+-[DJIImageCalibrateHelper unbindBaseData]
+-[DJIImageCalibrateHelper appActiveStateChanged:]
+___49-[DJIImageCalibrateHelper appActiveStateChanged:]_block_invoke
+___49-[DJIImageCalibrateHelper appActiveStateChanged:]_block_invoke.40
+-[DJIImageCalibrateHelper initBaseData]
+-[DJIImageCalibrateHelper updateFrame:]
+-[DJIImageCalibrateHelper pushFrame:]
+-[DJIImageCalibrateHelper enqueueFrame:]
+___40-[DJIImageCalibrateHelper enqueueFrame:]_block_invoke
+-[DJIImageCalibrateHelper pushFastAndSimpleFrame:withSource:]
+___61-[DJIImageCalibrateHelper pushFastAndSimpleFrame:withSource:]_block_invoke
+-[DJIImageCalibrateHelper handlePullFrame]
+-[DJIImageCalibrateHelper handleLatestFrame]
+-[DJIImageCalibrateHelper processCalibration]
+___45-[DJIImageCalibrateHelper processCalibration]_block_invoke
+-[DJIImageCalibrateHelper hasExtraThread]
+-[DJIImageCalibrateHelper framePtr]
+-[DJIImageCalibrateHelper renderLockStatus:]
+-[DJIImageCalibrateHelper initData]
+-[DJIImageCalibrateHelper syncData]
+-[DJIImageCalibrateHelper bindData]
+-[DJIImageCalibrateHelper unbindData]
+-[DJIImageCalibrateHelper colorConverter:passYUVData:yuvSlice:withFastload:]
+-[DJIImageCalibrateHelper convertedYUVFrameArrivalFrom:]
+-[DJIImageCalibrateHelper createCalibrateFrameForYUVFrame:]
+-[DJIImageCalibrateHelper prepareToClean]
+-[DJIImageCalibrateHelper independancyWithReander]
+-[DJIImageCalibrateHelper processCalibrationForFrame:]
+-[DJIImageCalibrateHelper reusableFrame]
+-[DJIImageCalibrateHelper memoryPool]
+-[DJIImageCalibrateHelper pixelPool]
+-[DJIImageCalibrateHelper handler]
+-[DJIImageCalibrateHelper setHandler:]
+-[DJIImageCalibrateHelper workingQueue]
+-[DJIImageCalibrateHelper setWorkingQueue:]
+-[DJIImageCalibrateHelper renderQueue]
+-[DJIImageCalibrateHelper setRenderQueue:]
+-[DJIImageCalibrateHelper isAppActive]
+-[DJIImageCalibrateHelper setIsAppActive:]
+-[DJIImageCalibrateHelper .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.75
+__OBJC_$_PROTOCOL_REFS_DJIImageCalibrateColorConverterHandlerProtocol
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJIImageCalibrateColorConverterHandlerProtocol
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJIImageCalibrateColorConverterHandlerProtocol
+__OBJC_PROTOCOL_$_DJIImageCalibrateColorConverterHandlerProtocol
+__OBJC_LABEL_PROTOCOL_$_DJIImageCalibrateColorConverterHandlerProtocol
+__OBJC_CLASS_PROTOCOLS_$_DJIImageCalibrateHelper
+__OBJC_METACLASS_RO_$_DJIImageCalibrateHelper
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrateHelper
+_OBJC_IVAR_$_DJIImageCalibrateHelper._frameQueue
+_OBJC_IVAR_$_DJIImageCalibrateHelper._cacheQueue
+_OBJC_IVAR_$_DJIImageCalibrateHelper._recycleQueue
+_OBJC_IVAR_$_DJIImageCalibrateHelper._memQueue
+_OBJC_IVAR_$_DJIImageCalibrateHelper._pixelRefQueue
+_OBJC_IVAR_$_DJIImageCalibrateHelper._render_mutex
+_OBJC_IVAR_$_DJIImageCalibrateHelper._shouldCreateCalibrateThread
+_OBJC_IVAR_$_DJIImageCalibrateHelper._shouldCreateRenderThread
+_OBJC_IVAR_$_DJIImageCalibrateHelper._frame
+_OBJC_IVAR_$_DJIImageCalibrateHelper._isAppActive
+_OBJC_IVAR_$_DJIImageCalibrateHelper._handler
+_OBJC_IVAR_$_DJIImageCalibrateHelper._workingQueue
+_OBJC_IVAR_$_DJIImageCalibrateHelper._renderQueue
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrateHelper
+__OBJC_$_PROP_LIST_DJIImageCalibrateHelper
+__OBJC_CLASS_RO_$_DJIImageCalibrateHelper
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/DJIImageCalibrateHelper.m
+DJIWidget/VideoPreviewer/Helper/DJIImageCalibrateHelper.m
+DJIWidget/VideoPreviewer/Helper/DJIImageCalibrateHelper_Private.h
+DJIWidget/VideoPreviewer/Helper/DJIImageCalibrateHelper.h
+__45-[DJIImageCalibrateHelper processCalibration]_block_invoke
+__61-[DJIImageCalibrateHelper pushFastAndSimpleFrame:withSource:]_block_invoke
+__40-[DJIImageCalibrateHelper enqueueFrame:]_block_invoke
+__49-[DJIImageCalibrateHelper appActiveStateChanged:]_block_invoke.40
+__49-[DJIImageCalibrateHelper appActiveStateChanged:]_block_invoke
+-[DJILiveViewRenderProgram initWithContext:vertexShaderString:fragmentShaderString:]
+-[DJILiveViewRenderProgram compileShader:type:string:]
+-[DJILiveViewRenderProgram addAttribute:]
+-[DJILiveViewRenderProgram attributeIndex:]
+-[DJILiveViewRenderProgram uniformIndex:]
+-[DJILiveViewRenderProgram link]
+-[DJILiveViewRenderProgram use]
+-[DJILiveViewRenderProgram validate]
+-[DJILiveViewRenderProgram destory]
+-[DJILiveViewRenderProgram dealloc]
+-[DJILiveViewRenderProgram initialized]
+-[DJILiveViewRenderProgram setInitialized:]
+-[DJILiveViewRenderProgram released]
+-[DJILiveViewRenderProgram context]
+-[DJILiveViewRenderProgram vertexShaderLog]
+-[DJILiveViewRenderProgram setVertexShaderLog:]
+-[DJILiveViewRenderProgram fragmentShaderLog]
+-[DJILiveViewRenderProgram setFragmentShaderLog:]
+-[DJILiveViewRenderProgram programLog]
+-[DJILiveViewRenderProgram setProgramLog:]
+-[DJILiveViewRenderProgram .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.9
+__OBJC_METACLASS_RO_$_DJILiveViewRenderProgram
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderProgram
+_OBJC_IVAR_$_DJILiveViewRenderProgram._initialized
+_OBJC_IVAR_$_DJILiveViewRenderProgram._released
+_OBJC_IVAR_$_DJILiveViewRenderProgram._context
+_OBJC_IVAR_$_DJILiveViewRenderProgram._vertexShaderLog
+_OBJC_IVAR_$_DJILiveViewRenderProgram._fragmentShaderLog
+_OBJC_IVAR_$_DJILiveViewRenderProgram._programLog
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderProgram
+__OBJC_$_PROP_LIST_DJILiveViewRenderProgram
+__OBJC_CLASS_RO_$_DJILiveViewRenderProgram
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderProgram.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderProgram.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderProgram.h
++[DJIAsyncCommandObject commandWithTag:block:]
++[DJIAsyncCommandObject commandWithTag:afterDate:block:]
+-[DJIAsyncCommandObject alwaysNeedCallback]
+-[DJIAsyncCommandObject setAlwaysNeedCallback:]
+-[DJIAsyncCommandObject workBlock]
+-[DJIAsyncCommandObject setWorkBlock:]
+-[DJIAsyncCommandObject tag]
+-[DJIAsyncCommandObject setTag:]
+-[DJIAsyncCommandObject runAfterDate]
+-[DJIAsyncCommandObject setRunAfterDate:]
+-[DJIAsyncCommandObject cancelMark]
+-[DJIAsyncCommandObject setCancelMark:]
+-[DJIAsyncCommandObject .cxx_destruct]
+-[DJIWidgetAsyncCommandQueue init]
+-[DJIWidgetAsyncCommandQueue initWithThreadSafe:]
+-[DJIWidgetAsyncCommandQueue dealloc]
+-[DJIWidgetAsyncCommandQueue pushCommand:withOption:]
+-[DJIWidgetAsyncCommandQueue runloop]
+-[DJIWidgetAsyncCommandQueue cancelCommandWithTag:]
+-[DJIWidgetAsyncCommandQueue cancelCommandWithTags:]
+-[DJIWidgetAsyncCommandQueue runloopWithTimeOutMS:]
+-[DJIWidgetAsyncCommandQueue commandArray]
+-[DJIWidgetAsyncCommandQueue setCommandArray:]
+-[DJIWidgetAsyncCommandQueue needThreadSafe]
+-[DJIWidgetAsyncCommandQueue setNeedThreadSafe:]
+-[DJIWidgetAsyncCommandQueue .cxx_destruct]
+__OBJC_$_CLASS_METHODS_DJIAsyncCommandObject
+__OBJC_METACLASS_RO_$_DJIAsyncCommandObject
+__OBJC_$_INSTANCE_METHODS_DJIAsyncCommandObject
+_OBJC_IVAR_$_DJIAsyncCommandObject._alwaysNeedCallback
+_OBJC_IVAR_$_DJIAsyncCommandObject._cancelMark
+_OBJC_IVAR_$_DJIAsyncCommandObject._workBlock
+_OBJC_IVAR_$_DJIAsyncCommandObject._tag
+_OBJC_IVAR_$_DJIAsyncCommandObject._runAfterDate
+__OBJC_$_INSTANCE_VARIABLES_DJIAsyncCommandObject
+__OBJC_$_PROP_LIST_DJIAsyncCommandObject
+__OBJC_CLASS_RO_$_DJIAsyncCommandObject
+_OBJC_CLASSLIST_REFERENCES_$_.70
+__OBJC_METACLASS_RO_$_DJIWidgetAsyncCommandQueue
+__OBJC_$_INSTANCE_METHODS_DJIWidgetAsyncCommandQueue
+_OBJC_IVAR_$_DJIWidgetAsyncCommandQueue._wait_mutex
+_OBJC_IVAR_$_DJIWidgetAsyncCommandQueue._cond
+_OBJC_IVAR_$_DJIWidgetAsyncCommandQueue._needThreadSafe
+_OBJC_IVAR_$_DJIWidgetAsyncCommandQueue._commandArray
+__OBJC_$_INSTANCE_VARIABLES_DJIWidgetAsyncCommandQueue
+__OBJC_$_PROP_LIST_DJIWidgetAsyncCommandQueue
+__OBJC_CLASS_RO_$_DJIWidgetAsyncCommandQueue
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoService/DJIWidgetAsyncCommandQueue.m
+DJIWidget/VideoService/DJIWidgetAsyncCommandQueue.m
+DJIWidget/VideoService/DJIWidgetAsyncCommandQueue.h
+-[DJIImageCache dealloc]
+-[DJIImageCache initWithCacheSizeArray:]
+-[DJIImageCache initMem]
+-[DJIImageCache baseAddrForIndex:]
+-[DJIImageCache checkFitsSizeArray:]
+-[DJIImageCache .cxx_destruct]
+__OBJC_METACLASS_RO_$_DJIImageCache
+__OBJC_$_INSTANCE_METHODS_DJIImageCache
+_OBJC_IVAR_$_DJIImageCache._sizes
+_OBJC_IVAR_$_DJIImageCache._baseAddr
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCache
+__OBJC_CLASS_RO_$_DJIImageCache
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/DJIImageCache/DJIImageCache.m
+DJIWidget/VideoPreviewer/Helper/DJIImageCache/DJIImageCache.m
+-[DJIWidgetLinkQueue initWithSize:]
+-[DJIWidgetLinkQueue clear]
+-[DJIWidgetLinkQueue push:length:]
+-[DJIWidgetLinkQueue pull:]
+-[DJIWidgetLinkQueue wakeupReader]
+-[DJIWidgetLinkQueue count]
+-[DJIWidgetLinkQueue size]
+-[DJIWidgetLinkQueue isFull]
+-[DJIWidgetLinkQueue getHeaderOfQueue]
+-[DJIObjectLinkQueue initWithSize:]
+-[DJIObjectLinkQueue clear]
+-[DJIObjectLinkQueue push:]
+-[DJIObjectLinkQueue pull]
+-[DJIObjectLinkQueue wakeupReader]
+-[DJIObjectLinkQueue count]
+-[DJIObjectLinkQueue size]
+-[DJIObjectLinkQueue isFull]
+-[DJIObjectLinkQueue getHeaderOfQueue]
+-[DJIObjectLinkQueue .cxx_destruct]
+__OBJC_METACLASS_RO_$_DJIWidgetLinkQueue
+__OBJC_$_INSTANCE_METHODS_DJIWidgetLinkQueue
+_OBJC_IVAR_$_DJIWidgetLinkQueue._node
+_OBJC_IVAR_$_DJIWidgetLinkQueue._size
+_OBJC_IVAR_$_DJIWidgetLinkQueue._count
+_OBJC_IVAR_$_DJIWidgetLinkQueue._head
+_OBJC_IVAR_$_DJIWidgetLinkQueue._tail
+_OBJC_IVAR_$_DJIWidgetLinkQueue._mutex
+_OBJC_IVAR_$_DJIWidgetLinkQueue._cond
+__OBJC_$_INSTANCE_VARIABLES_DJIWidgetLinkQueue
+__OBJC_CLASS_RO_$_DJIWidgetLinkQueue
+__OBJC_METACLASS_RO_$_DJIObjectLinkQueue
+__OBJC_$_INSTANCE_METHODS_DJIObjectLinkQueue
+_OBJC_IVAR_$_DJIObjectLinkQueue._node
+_OBJC_IVAR_$_DJIObjectLinkQueue._size
+_OBJC_IVAR_$_DJIObjectLinkQueue._count
+_OBJC_IVAR_$_DJIObjectLinkQueue._head
+_OBJC_IVAR_$_DJIObjectLinkQueue._tail
+_OBJC_IVAR_$_DJIObjectLinkQueue._mutex
+_OBJC_IVAR_$_DJIObjectLinkQueue._cond
+__OBJC_$_INSTANCE_VARIABLES_DJIObjectLinkQueue
+__OBJC_CLASS_RO_$_DJIObjectLinkQueue
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoService/DJIWidgetLinkQueue.m
+DJIWidget/VideoService/DJIWidgetLinkQueue.m
+-[DJILiveViewRenderFocusWarningFilter initWithContext:]
+-[DJILiveViewRenderFocusWarningFilter setFocusWarningThreshold:]
+-[DJILiveViewRenderFocusWarningFilter sizeOfFBO]
+-[DJILiveViewRenderFocusWarningFilter updateUniform]
+-[DJILiveViewRenderFocusWarningFilter focusWarningThreshold]
+-[DJILiveViewRenderFocusWarningFilter lastFBOSize]
+-[DJILiveViewRenderFocusWarningFilter setLastFBOSize:]
+_OBJC_IVAR_$_DJILiveViewRenderFocusWarningFilter._focusWarningThreshold
+_OBJC_IVAR_$_DJILiveViewRenderFocusWarningFilter._lastFBOSize
+__OBJC_METACLASS_RO_$_DJILiveViewRenderFocusWarningFilter
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderFocusWarningFilter
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderFocusWarningFilter
+__OBJC_$_PROP_LIST_DJILiveViewRenderFocusWarningFilter
+__OBJC_CLASS_RO_$_DJILiveViewRenderFocusWarningFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/SobelFilter/DJILiveViewRenderFocusWarningFilter.m
+DJIWidget/VideoPreviewer/Render/SobelFilter/DJILiveViewRenderFocusWarningFilter.m
+DJIWidget/VideoPreviewer/Render/SobelFilter/DJILiveViewRenderFocusWarningFilter.h
+-[DJIVTH264Encoder dealloc]
+-[DJIVTH264Encoder initWithConfig:delegate:]
+-[DJIVTH264Encoder currentSps]
+-[DJIVTH264Encoder currentPps]
+-[DJIVTH264Encoder setEnabled:]
+-[DJIVTH264Encoder setStreamInfo:]
+-[DJIVTH264Encoder resetCompressionConfiguration]
+-[DJIVTH264Encoder start]
+-[DJIVTH264Encoder reset]
+-[DJIVTH264Encoder invalidate]
+-[DJIVTH264Encoder cleanupBuffers]
+-[DJIVTH264Encoder videoFrameDequeue]
+-[DJIVTH264Encoder pushAudioPacket:]
+-[DJIVTH264Encoder pushVideoFrame:]
+-[DJIVTH264Encoder working]
+-[DJIVTH264Encoder encodeVideoFrame:]
+-[DJIVTH264Encoder internalEncodeYUV420SemiPlanerFrame:]
+___56-[DJIVTH264Encoder internalEncodeYUV420SemiPlanerFrame:]_block_invoke
+-[DJIVTH264Encoder internalEncodeYUV420PlanerFrame:]
+___52-[DJIVTH264Encoder internalEncodeYUV420PlanerFrame:]_block_invoke
+-[DJIVTH264Encoder internalEncodeRGBAFrame:]
+___44-[DJIVTH264Encoder internalEncodeRGBAFrame:]_block_invoke
+-[DJIVTH264Encoder vtEncoderOutputHandler:error:]
+-[DJIVTH264Encoder delegate]
+-[DJIVTH264Encoder setDelegate:]
+-[DJIVTH264Encoder enabled]
+-[DJIVTH264Encoder inputVideoFrameNum]
+-[DJIVTH264Encoder setInputVideoFrameNum:]
+-[DJIVTH264Encoder outputVideoFrameNum]
+-[DJIVTH264Encoder setOutputVideoFrameNum:]
+-[DJIVTH264Encoder streamInfo]
+-[DJIVTH264Encoder vtCompressor]
+-[DJIVTH264Encoder setVtCompressor:]
+-[DJIVTH264Encoder compressConfig]
+-[DJIVTH264Encoder setCompressConfig:]
+-[DJIVTH264Encoder workThread]
+-[DJIVTH264Encoder setWorkThread:]
+-[DJIVTH264Encoder .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.32
+__OBJC_PROTOCOL_REFERENCE_$_DJIVTH264EncoderOutput
+___block_descriptor_40_e8_32w_e90_v24?0^{?=b8b24IQ{?=SSSCCSS(?={?=b1b1b1b1b1b1b2b8}I){?=b1b1b1b1b4CCI}II}[0C]}8"NSError"16l
+_OBJC_CLASSLIST_REFERENCES_$_.133
+_OBJC_CLASSLIST_REFERENCES_$_.136
+__OBJC_METACLASS_RO_$_DJIVTH264Encoder
+__OBJC_$_INSTANCE_METHODS_DJIVTH264Encoder
+_OBJC_IVAR_$_DJIVTH264Encoder._videoFramePool
+_OBJC_IVAR_$_DJIVTH264Encoder._pixelBufferMemoryPool
+_OBJC_IVAR_$_DJIVTH264Encoder._threadLock
+_OBJC_IVAR_$_DJIVTH264Encoder._enabled
+_OBJC_IVAR_$_DJIVTH264Encoder._delegate
+_OBJC_IVAR_$_DJIVTH264Encoder._inputVideoFrameNum
+_OBJC_IVAR_$_DJIVTH264Encoder._outputVideoFrameNum
+_OBJC_IVAR_$_DJIVTH264Encoder._vtCompressor
+_OBJC_IVAR_$_DJIVTH264Encoder._compressConfig
+_OBJC_IVAR_$_DJIVTH264Encoder._workThread
+_OBJC_IVAR_$_DJIVTH264Encoder._streamInfo
+__OBJC_$_INSTANCE_VARIABLES_DJIVTH264Encoder
+__OBJC_$_PROP_LIST_DJIVTH264Encoder
+__OBJC_CLASS_RO_$_DJIVTH264Encoder
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoService/VTH264Encoder/DJIVTH264Encoder.m
+DJIWidget/VideoService/VTH264Encoder/DJIVTH264Encoder.m
+DJIWidget/VideoService/VTH264Encoder/DJIVTH264Encoder.h
+__44-[DJIVTH264Encoder internalEncodeRGBAFrame:]_block_invoke
+__52-[DJIVTH264Encoder internalEncodeYUV420PlanerFrame:]_block_invoke
+__56-[DJIVTH264Encoder internalEncodeYUV420SemiPlanerFrame:]_block_invoke
+-[DJIVTH264CompressSession initWithWidth:height:]
+-[DJIVTH264CompressSession prepareEncode]
+-[DJIVTH264CompressSession encodeWithCVPixelBuffer:presentationTime:duration:sourceFrameRefCon:shouldRelease:]
+___110-[DJIVTH264CompressSession encodeWithCVPixelBuffer:presentationTime:duration:sourceFrameRefCon:shouldRelease:]_block_invoke
+-[DJIVTH264CompressSession compressionSessionEncodeFrameOutputHandler:status:]
+-[DJIVTH264CompressSession setupWithConfig:]
+-[DJIVTH264CompressSession internalSetValue:forProperty:error:]
+-[DJIVTH264CompressSession dealloc]
+-[DJIVTH264CompressSession delegate]
+-[DJIVTH264CompressSession setDelegate:]
+-[DJIVTH264CompressSession width]
+-[DJIVTH264CompressSession setWidth:]
+-[DJIVTH264CompressSession height]
+-[DJIVTH264CompressSession setHeight:]
+-[DJIVTH264CompressSession isPrepared]
+-[DJIVTH264CompressSession setIsPrepared:]
+-[DJIVTH264CompressSession .cxx_destruct]
+___block_descriptor_49_e8_32w_e37_v24?0i8I12^{opaqueCMSampleBuffer=}16l
+__OBJC_$_PROTOCOL_REFS_DJIVTH264CompressSessionDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJIVTH264CompressSessionDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJIVTH264CompressSessionDelegate
+__OBJC_PROTOCOL_$_DJIVTH264CompressSessionDelegate
+__OBJC_LABEL_PROTOCOL_$_DJIVTH264CompressSessionDelegate
+__OBJC_PROTOCOL_REFERENCE_$_DJIVTH264CompressSessionDelegate
+__OBJC_METACLASS_RO_$_DJIVTH264CompressSession
+__OBJC_$_INSTANCE_METHODS_DJIVTH264CompressSession
+_OBJC_IVAR_$_DJIVTH264CompressSession._compressSession
+_OBJC_IVAR_$_DJIVTH264CompressSession._isPrepared
+_OBJC_IVAR_$_DJIVTH264CompressSession._width
+_OBJC_IVAR_$_DJIVTH264CompressSession._height
+_OBJC_IVAR_$_DJIVTH264CompressSession._delegate
+__OBJC_$_INSTANCE_VARIABLES_DJIVTH264CompressSession
+__OBJC_$_PROP_LIST_DJIVTH264CompressSession
+__OBJC_CLASS_RO_$_DJIVTH264CompressSession
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoService/VTH264Encoder/DJIVTH264CompressSession.m
+DJIWidget/VideoService/VTH264Encoder/DJIVTH264CompressSession.m
+DJIWidget/VideoService/VTH264Encoder/DJIVTH264CompressSession.h
+__110-[DJIVTH264CompressSession encodeWithCVPixelBuffer:presentationTime:duration:sourceFrameRefCon:shouldRelease:]_block_invoke
+-[DJIVideoWriterDiskHelper init]
+___32-[DJIVideoWriterDiskHelper init]_block_invoke
+-[DJIVideoWriterDiskHelper dealloc]
+-[DJIVideoWriterDiskHelper isLowerThanLimitSpace]
+-[DJIVideoWriterDiskHelper updateFreeDiskspace]
+___47-[DJIVideoWriterDiskHelper updateFreeDiskspace]_block_invoke
+-[DJIVideoWriterDiskHelper freeDiskSpace]
+-[DJIVideoWriterDiskHelper setFreeDiskSpace:]
+-[DJIVideoWriterDiskHelper availableSpace]
+-[DJIVideoWriterDiskHelper setAvailableSpace:]
+-[DJIVideoWriterDiskHelper updateFreeDiskSpaceTimer]
+-[DJIVideoWriterDiskHelper setUpdateFreeDiskSpaceTimer:]
+-[DJIVideoWriterDiskHelper .cxx_destruct]
+_updateFreeDiskspace.path
+__OBJC_METACLASS_RO_$_DJIVideoWriterDiskHelper
+__OBJC_$_INSTANCE_METHODS_DJIVideoWriterDiskHelper
+_OBJC_IVAR_$_DJIVideoWriterDiskHelper._freeDiskSpace
+_OBJC_IVAR_$_DJIVideoWriterDiskHelper._availableSpace
+_OBJC_IVAR_$_DJIVideoWriterDiskHelper._updateFreeDiskSpaceTimer
+__OBJC_$_INSTANCE_VARIABLES_DJIVideoWriterDiskHelper
+__OBJC_$_PROP_LIST_DJIVideoWriterDiskHelper
+__OBJC_CLASS_RO_$_DJIVideoWriterDiskHelper
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/DJIVideoWriterDiskHelper.m
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/DJIVideoWriterDiskHelper.m
+DJIWidget/VideoLiveCamera/RecordVideo/VideoWriter/DJIVideoWriterDiskHelper.h
+__47-[DJIVideoWriterDiskHelper updateFreeDiskspace]_block_invoke
+__32-[DJIVideoWriterDiskHelper init]_block_invoke
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource loadFromFiles]
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource validIndexCountForResolution:]
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource textureCoordinateDataForResolution:dataIndex:]
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource dataIndexForResolution:lutIndex:andFovState:]
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource sensorType]
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource fileDescriptionWithFovState:andResolution:]
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource fileType]
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource fileNameFormatWithResolution:zoomIdx:focusIdx:splitIdx:andFileDiscriptionInfo:]
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource ratioTypeForResolution:]
+___75-[DJIMavic2ProCameraImageCalibrateFilterDataSource ratioTypeForResolution:]_block_invoke
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource supportedFovStates]
+-[DJIMavic2ProCameraImageCalibrateFilterDataSource .cxx_destruct]
+_OBJC_IVAR_$_DJIMavic2ProCameraImageCalibrateFilterDataSource._fileInfo
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_CLASSLIST_REFERENCES_$_.45
+_ratioTypeForResolution:.supportedRatios
+_ratioTypeForResolution:.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.83
+_OBJC_CLASSLIST_REFERENCES_$_.90
+__OBJC_METACLASS_RO_$_DJIMavic2ProCameraImageCalibrateFilterDataSource
+__OBJC_$_INSTANCE_METHODS_DJIMavic2ProCameraImageCalibrateFilterDataSource
+__OBJC_$_INSTANCE_VARIABLES_DJIMavic2ProCameraImageCalibrateFilterDataSource
+__OBJC_CLASS_RO_$_DJIMavic2ProCameraImageCalibrateFilterDataSource
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIMavic2ProCameraImageCalibrateFilterDataSource.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIMavic2ProCameraImageCalibrateFilterDataSource.m
+__75-[DJIMavic2ProCameraImageCalibrateFilterDataSource ratioTypeForResolution:]_block_invoke
+-[DJIRtmpIFrameProvider init]
+-[DJIRtmpIFrameProvider processFrame:sps:pps:]
+___46-[DJIRtmpIFrameProvider processFrame:sps:pps:]_block_invoke
+___copy_helper_block_e8_32s40s48s
+___destroy_helper_block_e8_32s40s48s
+-[DJIRtmpIFrameProvider reset]
+___30-[DJIRtmpIFrameProvider reset]_block_invoke
+-[DJIRtmpIFrameProvider status]
+___31-[DJIRtmpIFrameProvider status]_block_invoke
+-[DJIRtmpIFrameProvider iFrameFilePath]
+___39-[DJIRtmpIFrameProvider iFrameFilePath]_block_invoke
+-[DJIRtmpIFrameProvider extraData]
+___34-[DJIRtmpIFrameProvider extraData]_block_invoke
+-[DJIRtmpIFrameProvider dumpData:length:]
+-[DJIRtmpIFrameProvider openCacheFile:]
+-[DJIRtmpIFrameProvider filePath]
+-[DJIRtmpIFrameProvider setStatus:]
+-[DJIRtmpIFrameProvider setFilePath:]
+-[DJIRtmpIFrameProvider workingQueue]
+-[DJIRtmpIFrameProvider setWorkingQueue:]
+-[DJIRtmpIFrameProvider data]
+-[DJIRtmpIFrameProvider setData:]
+-[DJIRtmpIFrameProvider .cxx_destruct]
+___block_descriptor_64_e8_32s40s48s_e5_v8?0l
+__OBJC_METACLASS_RO_$_DJIRtmpIFrameProvider
+__OBJC_$_INSTANCE_METHODS_DJIRtmpIFrameProvider
+_OBJC_IVAR_$_DJIRtmpIFrameProvider._fileHandle
+_OBJC_IVAR_$_DJIRtmpIFrameProvider._status
+_OBJC_IVAR_$_DJIRtmpIFrameProvider._filePath
+_OBJC_IVAR_$_DJIRtmpIFrameProvider._workingQueue
+_OBJC_IVAR_$_DJIRtmpIFrameProvider._data
+__OBJC_$_INSTANCE_VARIABLES_DJIRtmpIFrameProvider
+__OBJC_$_PROP_LIST_DJIRtmpIFrameProvider
+__OBJC_CLASS_RO_$_DJIRtmpIFrameProvider
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/RTMPProcessor/DJIRtmpIFrameProvider.m
+DJIWidget/RTMPProcessor/DJIRtmpIFrameProvider.m
+__34-[DJIRtmpIFrameProvider extraData]_block_invoke
+__39-[DJIRtmpIFrameProvider iFrameFilePath]_block_invoke
+__31-[DJIRtmpIFrameProvider status]_block_invoke
+__30-[DJIRtmpIFrameProvider reset]_block_invoke
+__destroy_helper_block_e8_32s40s48s
+__copy_helper_block_e8_32s40s48s
+__46-[DJIRtmpIFrameProvider processFrame:sps:pps:]_block_invoke
+-[DJILiveViewRenderTexture texture]
+-[DJILiveViewRenderTexture initWithContext:image:]
+-[DJILiveViewRenderTexture initWithContext:cgImage:]
+-[DJILiveViewRenderTexture initWithContext:cgImage:option:]
+-[DJILiveViewRenderTexture pixelSizeOfImage]
+-[DJILiveViewRenderTexture textureOptions]
+-[DJILiveViewRenderTexture context]
+-[DJILiveViewRenderTexture setContext:]
+-[DJILiveViewRenderTexture buffer]
+-[DJILiveViewRenderTexture setBuffer:]
+-[DJILiveViewRenderTexture .cxx_destruct]
+__OBJC_METACLASS_RO_$_DJILiveViewRenderTexture
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderTexture
+_OBJC_IVAR_$_DJILiveViewRenderTexture._context
+_OBJC_IVAR_$_DJILiveViewRenderTexture._buffer
+_OBJC_IVAR_$_DJILiveViewRenderTexture.pixelSizeOfImage
+_OBJC_IVAR_$_DJILiveViewRenderTexture._textureOptions
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderTexture
+__OBJC_$_PROP_LIST_DJILiveViewRenderTexture
+__OBJC_CLASS_RO_$_DJILiveViewRenderTexture
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/Texture/DJILiveViewRenderTexture.m
+DJIWidget/VideoPreviewer/Render/Texture/DJILiveViewRenderTexture.m
+DJIWidget/VideoPreviewer/Render/Texture/DJILiveViewRenderTexture.h
+-[DJIVTH264Compressor setupCompressSessionWithWidth:height:rotate:compressConfig:]
+-[DJIVTH264Compressor encodePixelBuffer:shouldReleased:]
+-[DJIVTH264Compressor vth264compressSession:didCompressWithSampleBuffer:status:]
+-[DJIVTH264Compressor dealloc]
+-[DJIVTH264Compressor reset]
+-[DJIVTH264Compressor sps]
+-[DJIVTH264Compressor setSps:]
+-[DJIVTH264Compressor pps]
+-[DJIVTH264Compressor setPps:]
+-[DJIVTH264Compressor status]
+-[DJIVTH264Compressor setStatus:]
+-[DJIVTH264Compressor configFrameRate]
+-[DJIVTH264Compressor setConfigFrameRate:]
+-[DJIVTH264Compressor encodeOutput]
+-[DJIVTH264Compressor setEncodeOutput:]
+-[DJIVTH264Compressor configuration]
+-[DJIVTH264Compressor setConfiguration:]
+-[DJIVTH264Compressor compressSession]
+-[DJIVTH264Compressor setCompressSession:]
+-[DJIVTH264Compressor configRotate]
+-[DJIVTH264Compressor setConfigRotate:]
+-[DJIVTH264Compressor configWidth]
+-[DJIVTH264Compressor setConfigWidth:]
+-[DJIVTH264Compressor configHeight]
+-[DJIVTH264Compressor setConfigHeight:]
+-[DJIVTH264Compressor frameCounter]
+-[DJIVTH264Compressor setFrameCounter:]
+-[DJIVTH264Compressor encodeCounter]
+-[DJIVTH264Compressor setEncodeCounter:]
+-[DJIVTH264Compressor encodeBeginTime]
+-[DJIVTH264Compressor setEncodeBeginTime:]
+-[DJIVTH264Compressor .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_DJIVTH264Compressor
+__OBJC_METACLASS_RO_$_DJIVTH264Compressor
+__OBJC_$_INSTANCE_METHODS_DJIVTH264Compressor
+_OBJC_IVAR_$_DJIVTH264Compressor._configRotate
+_OBJC_IVAR_$_DJIVTH264Compressor._configWidth
+_OBJC_IVAR_$_DJIVTH264Compressor._configHeight
+_OBJC_IVAR_$_DJIVTH264Compressor._sps
+_OBJC_IVAR_$_DJIVTH264Compressor._pps
+_OBJC_IVAR_$_DJIVTH264Compressor._status
+_OBJC_IVAR_$_DJIVTH264Compressor._configFrameRate
+_OBJC_IVAR_$_DJIVTH264Compressor._encodeOutput
+_OBJC_IVAR_$_DJIVTH264Compressor._configuration
+_OBJC_IVAR_$_DJIVTH264Compressor._compressSession
+_OBJC_IVAR_$_DJIVTH264Compressor._frameCounter
+_OBJC_IVAR_$_DJIVTH264Compressor._encodeCounter
+_OBJC_IVAR_$_DJIVTH264Compressor._encodeBeginTime
+__OBJC_$_INSTANCE_VARIABLES_DJIVTH264Compressor
+__OBJC_$_PROP_LIST_DJIVTH264Compressor
+__OBJC_CLASS_RO_$_DJIVTH264Compressor
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoService/VTH264Encoder/DJIVTH264Compressor.m
+DJIWidget/VideoService/VTH264Encoder/DJIVTH264Compressor.m
+DJIWidget/VideoService/VTH264Encoder/DJIVTH264Compressor.h
+CFSwapInt32BigToHost
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
++[DJIAlbumHandler savePhotoToAssetLibrary:completionBlock:]
+___59+[DJIAlbumHandler savePhotoToAssetLibrary:completionBlock:]_block_invoke
+___59+[DJIAlbumHandler savePhotoToAssetLibrary:completionBlock:]_block_invoke.8
+___copy_helper_block_e8_32b48r
+___destroy_helper_block_e8_32s48r
++[DJIAlbumHandler addAssetToDJEyeAlbum:withCompletionBlock:]
+___60+[DJIAlbumHandler addAssetToDJEyeAlbum:withCompletionBlock:]_block_invoke
+___60+[DJIAlbumHandler addAssetToDJEyeAlbum:withCompletionBlock:]_block_invoke.36
+___copy_helper_block_e8_32b
++[DJIAlbumHandler findOrCreateAssetsCollectionWithGroupName:]
+___61+[DJIAlbumHandler findOrCreateAssetsCollectionWithGroupName:]_block_invoke
+_OBJC_CLASSLIST_REFERENCES_$_.10
+___block_descriptor_56_e8_32bs48r_e20_v20?0B8"NSError"12l
+___block_descriptor_40_e8_32bs_e20_v20?0B8"NSError"12l
+__OBJC_$_CLASS_METHODS_DJIAlbumHandler
+__OBJC_METACLASS_RO_$_DJIAlbumHandler
+__OBJC_CLASS_RO_$_DJIAlbumHandler
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoLiveCamera/ShootPhoto/DJIAlbumHandler.m
+__61+[DJIAlbumHandler findOrCreateAssetsCollectionWithGroupName:]_block_invoke
+DJIWidget/VideoLiveCamera/ShootPhoto/DJIAlbumHandler.m
+__copy_helper_block_e8_32b
+__60+[DJIAlbumHandler addAssetToDJEyeAlbum:withCompletionBlock:]_block_invoke.36
+__60+[DJIAlbumHandler addAssetToDJEyeAlbum:withCompletionBlock:]_block_invoke
+__destroy_helper_block_e8_32s48r
+__copy_helper_block_e8_32b48r
+__59+[DJIAlbumHandler savePhotoToAssetLibrary:completionBlock:]_block_invoke.8
+__59+[DJIAlbumHandler savePhotoToAssetLibrary:completionBlock:]_block_invoke
+-[DJILiveViewRenderLookupFilter initWithContext:lookupTexture:]
+-[DJILiveViewRenderLookupFilter setLookupTexture:]
+-[DJILiveViewRenderLookupFilter setIntensity:]
+-[DJILiveViewRenderLookupFilter updateTexture]
+___46-[DJILiveViewRenderLookupFilter updateTexture]_block_invoke
+-[DJILiveViewRenderLookupFilter intensity]
+-[DJILiveViewRenderLookupFilter lookupTexture]
+-[DJILiveViewRenderLookupFilter .cxx_destruct]
+_OBJC_IVAR_$_DJILiveViewRenderLookupFilter._lookupTexture
+_OBJC_IVAR_$_DJILiveViewRenderLookupFilter._intensity
+___block_descriptor_44_e8_32w_e5_v8?0l
+__OBJC_METACLASS_RO_$_DJILiveViewRenderLookupFilter
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderLookupFilter
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderLookupFilter
+__OBJC_$_PROP_LIST_DJILiveViewRenderLookupFilter
+__OBJC_CLASS_RO_$_DJILiveViewRenderLookupFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/LookupFilter/DJILiveViewRenderLookupFilter.m
+DJIWidget/VideoPreviewer/Render/LookupFilter/DJILiveViewRenderLookupFilter.m
+DJIWidget/VideoPreviewer/Render/LookupFilter/DJILiveViewRenderLookupFilter.h
+__46-[DJILiveViewRenderLookupFilter updateTexture]_block_invoke
+-[DJIVideoPreviewer init]
+-[DJIVideoPreviewer dealloc]
+-[DJIVideoPreviewer appDidEnterBackground:]
+-[DJIVideoPreviewer appWillEnterForeGround:]
++[DJIVideoPreviewer instance]
++[DJIVideoPreviewer releaseInstance]
+-[DJIVideoPreviewer push:length:]
+___33-[DJIVideoPreviewer push:length:]_block_invoke
+-[DJIVideoPreviewer clearVideoData]
+-[DJIVideoPreviewer snapshotPreview:]
+-[DJIVideoPreviewer snapshotThumnnail:]
+-[DJIVideoPreviewer setView:]
+___29-[DJIVideoPreviewer setView:]_block_invoke
+-[DJIVideoPreviewer unSetView]
+___30-[DJIVideoPreviewer unSetView]_block_invoke
+-[DJIVideoPreviewer adjustViewSize]
+-[DJIVideoPreviewer convertPoint:toVideoViewFromView:]
+-[DJIVideoPreviewer convertPoint:fromVideoViewToView:]
+-[DJIVideoPreviewer start]
+___26-[DJIVideoPreviewer start]_block_invoke
+-[DJIVideoPreviewer reset]
+___26-[DJIVideoPreviewer reset]_block_invoke
+-[DJIVideoPreviewer resume]
+___27-[DJIVideoPreviewer resume]_block_invoke
+-[DJIVideoPreviewer safeResume]
+-[DJIVideoPreviewer pause]
+-[DJIVideoPreviewer pauseWithGrayout:]
+___38-[DJIVideoPreviewer pauseWithGrayout:]_block_invoke
+-[DJIVideoPreviewer close]
+___26-[DJIVideoPreviewer close]_block_invoke
+-[DJIVideoPreviewer clearRender]
+___32-[DJIVideoPreviewer clearRender]_block_invoke
+-[DJIVideoPreviewer privateClose]
+-[DJIVideoPreviewer setType:]
+___29-[DJIVideoPreviewer setType:]_block_invoke
+___29-[DJIVideoPreviewer setType:]_block_invoke_2
+-[DJIVideoPreviewer setRotation:]
+-[DJIVideoPreviewer setContentClipRect:]
+-[DJIVideoPreviewer glviewCanRender]
+-[DJIVideoPreviewer setOverExposedWarningThreshold:]
+-[DJIVideoPreviewer setEnableFocusWarning:]
+-[DJIVideoPreviewer setFocusWarningThreshold:]
+-[DJIVideoPreviewer setLuminanceScale:]
+-[DJIVideoPreviewer setEnableHSB:]
+-[DJIVideoPreviewer setHsbConfig:]
+-[DJIVideoPreviewer setEncoderType:]
+-[DJIVideoPreviewer setEnableShadowAndHighLightenhancement:]
+-[DJIVideoPreviewer setEnableHardwareDecode:]
+-[DJIVideoPreviewer registStreamProcessor:]
+-[DJIVideoPreviewer unregistStreamProcessor:]
+-[DJIVideoPreviewer registFrameProcessor:]
+-[DJIVideoPreviewer unregistFrameProcessor:]
+-[DJIVideoPreviewer frameProcessorCount]
+-[DJIVideoPreviewer enterBackground]
+-[DJIVideoPreviewer enterForegournd]
+-[DJIVideoPreviewer updateDecoderStatus]
+-[DJIVideoPreviewer getTickCount]
+-[DJIVideoPreviewer tryRenderAction:]
+-[DJIVideoPreviewer decodeRunloop]
+___34-[DJIVideoPreviewer decodeRunloop]_block_invoke
+___34-[DJIVideoPreviewer decodeRunloop]_block_invoke_2
+___34-[DJIVideoPreviewer decodeRunloop]_block_invoke_3
+___34-[DJIVideoPreviewer decodeRunloop]_block_invoke_4
+___34-[DJIVideoPreviewer decodeRunloop]_block_invoke.310
+-[DJIVideoPreviewer decoderRenderFrame:]
+-[DJIVideoPreviewer workInRenderQueue:]
+___39-[DJIVideoPreviewer workInRenderQueue:]_block_invoke
+-[DJIVideoPreviewer movieGlView:didChangedFrame:]
+-[DJIVideoPreviewer lb2AUDRemoveParser:didParsedData:size:]
+___59-[DJIVideoPreviewer lb2AUDRemoveParser:didParsedData:size:]_block_invoke
+-[DJIVideoPreviewer videoProcessorEnabled]
+-[DJIVideoPreviewer videoProcessFrame:]
+-[DJIVideoPreviewer calibratePixelBufferProviderDidOutputFrame:]
+-[DJIVideoPreviewer shouldCreateCalibrateHelper]
+-[DJIVideoPreviewer getCalibrateHelper]
+-[DJIVideoPreviewer removeCalibrateHelper]
+-[DJIVideoPreviewer calibrateDataSource]
+-[DJIVideoPreviewer newFrame:arrivalFromHelper:]
+-[DJIVideoPreviewer releaseFrame:]
+-[DJIVideoPreviewer internalProcessFrame:needReleased:]
+-[DJIVideoPreviewer notifyRenderWithFrame:]
+___43-[DJIVideoPreviewer notifyRenderWithFrame:]_block_invoke
+-[DJIVideoPreviewer notifyProcessorsWithFrame:]
+-[DJIVideoPreviewer videoProcessFailedFrame:]
+-[DJIVideoPreviewer decompressedFrame:frameInfo:]
+-[DJIVideoPreviewer processDecompressedFrame:frameInfo:]
+-[DJIVideoPreviewer hardwareDecoderUnavailable]
+-[DJIVideoPreviewer clearPocBuffer]
+-[DJIVideoPreviewer parseDecodingAssistInfoWithBuffer:length:assistInfo:]
+-[DJIVideoPreviewer isNeedFitFrameWidth]
+-[DJIVideoPreviewer frameExtractorDidFailToParseFrames:]
+-[DJIVideoPreviewer testQueuePull:]
+-[DJIVideoPreviewer performanceCount:]
+-[DJIVideoPreviewer realTimeFrameRate]
+-[DJIVideoPreviewer setRealTimeFrameRate:]
+-[DJIVideoPreviewer detectRealtimeFrameRate]
+-[DJIVideoPreviewer setDetectRealtimeFrameRate:]
+-[DJIVideoPreviewer globalTimeStamp]
+-[DJIVideoPreviewer setGlobalTimeStamp:]
+-[DJIVideoPreviewer isPerformanceCountEnabled]
+-[DJIVideoPreviewer setPerformanceCountEnabled:]
+-[DJIVideoPreviewer videoChannelTag]
+-[DJIVideoPreviewer setVideoChannelTag:]
+-[DJIVideoPreviewer calibrateDelegate]
+-[DJIVideoPreviewer setCalibrateDelegate:]
+-[DJIVideoPreviewer frameControlHandler]
+-[DJIVideoPreviewer setFrameControlHandler:]
+-[DJIVideoPreviewer frameRateMonitor]
+-[DJIVideoPreviewer setFrameRateMonitor:]
+-[DJIVideoPreviewer isDefaultPreviewer]
+-[DJIVideoPreviewer setIsDefaultPreviewer:]
+-[DJIVideoPreviewer dataQueue]
+-[DJIVideoPreviewer setDataQueue:]
+-[DJIVideoPreviewer internalGLView]
+-[DJIVideoPreviewer setInternalGLView:]
+-[DJIVideoPreviewer status]
+-[DJIVideoPreviewer setStatus:]
+-[DJIVideoPreviewer videoExtractor]
+-[DJIVideoPreviewer setVideoExtractor:]
+-[DJIVideoPreviewer hw_decoder]
+-[DJIVideoPreviewer setHw_decoder:]
+-[DJIVideoPreviewer soft_decoder]
+-[DJIVideoPreviewer setSoft_decoder:]
+-[DJIVideoPreviewer decoderStatus]
+-[DJIVideoPreviewer setDecoderStatus:]
+-[DJIVideoPreviewer frameOutputType]
+-[DJIVideoPreviewer setFrameOutputType:]
+-[DJIVideoPreviewer currentStreamInfo]
+-[DJIVideoPreviewer setCurrentStreamInfo:]
+-[DJIVideoPreviewer stream_processor_list]
+-[DJIVideoPreviewer setStream_processor_list:]
+-[DJIVideoPreviewer frame_processor_list]
+-[DJIVideoPreviewer setFrame_processor_list:]
+-[DJIVideoPreviewer grayOutPause]
+-[DJIVideoPreviewer setGrayOutPause:]
+-[DJIVideoPreviewer frame]
+-[DJIVideoPreviewer setFrame:]
+-[DJIVideoPreviewer lb2AUDRemove]
+-[DJIVideoPreviewer setLb2AUDRemove:]
+-[DJIVideoPreviewer pocQueue]
+-[DJIVideoPreviewer setPocQueue:]
+-[DJIVideoPreviewer pocMemCache]
+-[DJIVideoPreviewer setPocMemCache:]
+-[DJIVideoPreviewer pocBufferSize]
+-[DJIVideoPreviewer setPocBufferSize:]
+-[DJIVideoPreviewer cmdQueue]
+-[DJIVideoPreviewer setCmdQueue:]
+-[DJIVideoPreviewer renderCond]
+-[DJIVideoPreviewer setRenderCond:]
+-[DJIVideoPreviewer isRendering]
+-[DJIVideoPreviewer setIsRendering:]
+-[DJIVideoPreviewer decodeRunloopBlocker]
+-[DJIVideoPreviewer setDecodeRunloopBlocker:]
+-[DJIVideoPreviewer smoothDecode]
+-[DJIVideoPreviewer setSmoothDecode:]
+-[DJIVideoPreviewer overExposedWarningThreshold]
+-[DJIVideoPreviewer luminanceScale]
+-[DJIVideoPreviewer enableFocusWarning]
+-[DJIVideoPreviewer focusWarningThreshold]
+-[DJIVideoPreviewer dLogReverse]
+-[DJIVideoPreviewer setDLogReverse:]
+-[DJIVideoPreviewer enableHSB]
+-[DJIVideoPreviewer hsbConfig]
+-[DJIVideoPreviewer enableShadowAndHighLightenhancement]
+-[DJIVideoPreviewer shadowsLighten]
+-[DJIVideoPreviewer setShadowsLighten:]
+-[DJIVideoPreviewer highlightsDecrease]
+-[DJIVideoPreviewer setHighlightsDecrease:]
+-[DJIVideoPreviewer enableHardwareDecode]
+-[DJIVideoPreviewer encoderType]
+-[DJIVideoPreviewer enableFastUpload]
+-[DJIVideoPreviewer setEnableFastUpload:]
+-[DJIVideoPreviewer customizedFramerate]
+-[DJIVideoPreviewer setCustomizedFramerate:]
+-[DJIVideoPreviewer rotation]
+-[DJIVideoPreviewer contentClipRect]
+-[DJIVideoPreviewer type]
+-[DJIVideoPreviewer .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.39
+_previewer
+___block_descriptor_40_e8_32s_e78_v16?0^{?=b8b24IQ{?=SSSCCSS(?={?=b1b1b1b1b1b1b2b8}I){?=b1b1b1b1b4CCI}II}[0C]}8l
+_OBJC_CLASSLIST_REFERENCES_$_.116
+_OBJC_SELECTOR_REFERENCES_.149
+___block_descriptor_41_e8_32s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.169
+__OBJC_PROTOCOL_REFERENCE_$_VideoFrameProcessor
+_OBJC_SELECTOR_REFERENCES_.224
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_SELECTOR_REFERENCES_.227
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_SELECTOR_REFERENCES_.245
+_OBJC_SELECTOR_REFERENCES_.247
+_OBJC_SELECTOR_REFERENCES_.249
+_OBJC_SELECTOR_REFERENCES_.251
+_OBJC_SELECTOR_REFERENCES_.253
+_OBJC_SELECTOR_REFERENCES_.255
+_OBJC_CLASSLIST_REFERENCES_$_.256
+_OBJC_SELECTOR_REFERENCES_.260
+_OBJC_SELECTOR_REFERENCES_.264
+_OBJC_SELECTOR_REFERENCES_.268
+___block_literal_global.276
+___block_descriptor_64_e8_32w_e5_v8?0l
+__OBJC_PROTOCOL_REFERENCE_$_VideoStreamProcessor
+_OBJC_SELECTOR_REFERENCES_.301
+_OBJC_SELECTOR_REFERENCES_.302
+_OBJC_SELECTOR_REFERENCES_.303
+_OBJC_SELECTOR_REFERENCES_.304
+_OBJC_SELECTOR_REFERENCES_.305
+_OBJC_SELECTOR_REFERENCES_.307
+_OBJC_SELECTOR_REFERENCES_.309
+___block_literal_global.311
+_OBJC_SELECTOR_REFERENCES_.313
+_OBJC_SELECTOR_REFERENCES_.315
+_OBJC_SELECTOR_REFERENCES_.317
+_OBJC_SELECTOR_REFERENCES_.319
+_OBJC_CLASSLIST_REFERENCES_$_.320
+___block_descriptor_40_e8_32bs_e8_v16?0Q8l
+_OBJC_SELECTOR_REFERENCES_.323
+_OBJC_SELECTOR_REFERENCES_.325
+_OBJC_SELECTOR_REFERENCES_.327
+_OBJC_SELECTOR_REFERENCES_.329
+_OBJC_SELECTOR_REFERENCES_.331
+_OBJC_SELECTOR_REFERENCES_.333
+_OBJC_SELECTOR_REFERENCES_.335
+_OBJC_SELECTOR_REFERENCES_.337
+_OBJC_SELECTOR_REFERENCES_.339
+_OBJC_SELECTOR_REFERENCES_.341
+_OBJC_SELECTOR_REFERENCES_.343
+_OBJC_SELECTOR_REFERENCES_.345
+_OBJC_CLASSLIST_REFERENCES_$_.346
+_OBJC_SELECTOR_REFERENCES_.348
+_OBJC_SELECTOR_REFERENCES_.350
+_OBJC_SELECTOR_REFERENCES_.352
+_OBJC_SELECTOR_REFERENCES_.354
+_OBJC_SELECTOR_REFERENCES_.356
+_OBJC_SELECTOR_REFERENCES_.358
+_OBJC_SELECTOR_REFERENCES_.360
+_OBJC_SELECTOR_REFERENCES_.362
+_OBJC_SELECTOR_REFERENCES_.364
+_OBJC_SELECTOR_REFERENCES_.366
+_OBJC_SELECTOR_REFERENCES_.368
+_OBJC_SELECTOR_REFERENCES_.370
+_OBJC_SELECTOR_REFERENCES_.372
+_OBJC_SELECTOR_REFERENCES_.374
+_OBJC_SELECTOR_REFERENCES_.376
+_OBJC_SELECTOR_REFERENCES_.378
+_OBJC_CLASSLIST_REFERENCES_$_.379
+_OBJC_SELECTOR_REFERENCES_.380
+_OBJC_SELECTOR_REFERENCES_.381
+_OBJC_SELECTOR_REFERENCES_.383
+_OBJC_SELECTOR_REFERENCES_.385
+_OBJC_SELECTOR_REFERENCES_.387
+_OBJC_SELECTOR_REFERENCES_.389
+_OBJC_SELECTOR_REFERENCES_.391
+_OBJC_SELECTOR_REFERENCES_.393
+_OBJC_SELECTOR_REFERENCES_.395
+_OBJC_SELECTOR_REFERENCES_.397
+_OBJC_SELECTOR_REFERENCES_.399
+_OBJC_SELECTOR_REFERENCES_.401
+_OBJC_SELECTOR_REFERENCES_.403
+_OBJC_SELECTOR_REFERENCES_.405
+_OBJC_SELECTOR_REFERENCES_.407
+_OBJC_SELECTOR_REFERENCES_.409
+_OBJC_SELECTOR_REFERENCES_.411
+_OBJC_SELECTOR_REFERENCES_.413
+_OBJC_SELECTOR_REFERENCES_.415
+_OBJC_SELECTOR_REFERENCES_.417
+_OBJC_SELECTOR_REFERENCES_.419
+_OBJC_SELECTOR_REFERENCES_.420
+_OBJC_SELECTOR_REFERENCES_.422
+_OBJC_SELECTOR_REFERENCES_.424
+_OBJC_SELECTOR_REFERENCES_.426
+_OBJC_SELECTOR_REFERENCES_.428
+_OBJC_SELECTOR_REFERENCES_.430
+_OBJC_SELECTOR_REFERENCES_.432
+_OBJC_SELECTOR_REFERENCES_.434
+_OBJC_SELECTOR_REFERENCES_.436
+_OBJC_SELECTOR_REFERENCES_.438
+_OBJC_SELECTOR_REFERENCES_.440
+_OBJC_SELECTOR_REFERENCES_.442
+_OBJC_SELECTOR_REFERENCES_.444
+_OBJC_SELECTOR_REFERENCES_.446
+_g_testParser
+_g_fp
+_OBJC_SELECTOR_REFERENCES_.448
+_OBJC_SELECTOR_REFERENCES_.452
+_OBJC_SELECTOR_REFERENCES_.454
+_g_pBuffer
+_OBJC_CLASSLIST_REFERENCES_$_.456
+_testQueuePull:.read_size
+_testQueuePull:.parse_size
+_testQueuePull:.frame_counter
+_OBJC_SELECTOR_REFERENCES_.458
+_OBJC_SELECTOR_REFERENCES_.460
+_performanceCount:.startTime
+_performanceCount:.video_last_count_time
+_OBJC_CLASSLIST_REFERENCES_$_.461
+_OBJC_SELECTOR_REFERENCES_.463
+_OBJC_SELECTOR_REFERENCES_.465
+_performanceCount:.frame_count
+_performanceCount:.bits_count
+__OBJC_$_CLASS_METHODS_DJIVideoPreviewer
+__OBJC_$_PROTOCOL_REFS_DJIMovieGLViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_DJIMovieGLViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJIMovieGLViewDelegate
+__OBJC_PROTOCOL_$_DJIMovieGLViewDelegate
+__OBJC_LABEL_PROTOCOL_$_DJIMovieGLViewDelegate
+__OBJC_$_PROTOCOL_REFS_DJILB2AUDRemoveParserDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJILB2AUDRemoveParserDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJILB2AUDRemoveParserDelegate
+__OBJC_PROTOCOL_$_DJILB2AUDRemoveParserDelegate
+__OBJC_LABEL_PROTOCOL_$_DJILB2AUDRemoveParserDelegate
+__OBJC_$_PROTOCOL_REFS_DJIImageCalibrateResultHandlerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJIImageCalibrateResultHandlerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJIImageCalibrateResultHandlerDelegate
+__OBJC_PROTOCOL_$_DJIImageCalibrateResultHandlerDelegate
+__OBJC_LABEL_PROTOCOL_$_DJIImageCalibrateResultHandlerDelegate
+__OBJC_$_PROTOCOL_REFS_DJICalibratePixelBufferProviderDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJICalibratePixelBufferProviderDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJICalibratePixelBufferProviderDelegate
+__OBJC_PROTOCOL_$_DJICalibratePixelBufferProviderDelegate
+__OBJC_LABEL_PROTOCOL_$_DJICalibratePixelBufferProviderDelegate
+__OBJC_$_PROTOCOL_REFS_DJIVideoDataFrameControlDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJIVideoDataFrameControlDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJIVideoDataFrameControlDelegate
+__OBJC_PROTOCOL_$_DJIVideoDataFrameControlDelegate
+__OBJC_LABEL_PROTOCOL_$_DJIVideoDataFrameControlDelegate
+__OBJC_CLASS_PROTOCOLS_$_DJIVideoPreviewer
+__OBJC_METACLASS_RO_$_DJIVideoPreviewer
+__OBJC_$_INSTANCE_METHODS_DJIVideoPreviewer
+_OBJC_IVAR_$_DJIVideoPreviewer._decodeThread
+_OBJC_IVAR_$_DJIVideoPreviewer._glView
+_OBJC_IVAR_$_DJIVideoPreviewer.videoDecoderCanReset
+_OBJC_IVAR_$_DJIVideoPreviewer.videoDecoderFailedCount
+_OBJC_IVAR_$_DJIVideoPreviewer.glViewRenderFrameCount
+_OBJC_IVAR_$_DJIVideoPreviewer.safe_resume_skip_count
+_OBJC_IVAR_$_DJIVideoPreviewer._stream_basic_info
+_OBJC_IVAR_$_DJIVideoPreviewer._processor_mutex
+_OBJC_IVAR_$_DJIVideoPreviewer._lastDataInputTime
+_OBJC_IVAR_$_DJIVideoPreviewer._lastFrameDecodedTime
+_OBJC_IVAR_$_DJIVideoPreviewer._detectRealtimeFrameRate
+_OBJC_IVAR_$_DJIVideoPreviewer._performanceCountEnabled
+_OBJC_IVAR_$_DJIVideoPreviewer._videoChannelTag
+_OBJC_IVAR_$_DJIVideoPreviewer._isDefaultPreviewer
+_OBJC_IVAR_$_DJIVideoPreviewer._status
+_OBJC_IVAR_$_DJIVideoPreviewer._grayOutPause
+_OBJC_IVAR_$_DJIVideoPreviewer._isRendering
+_OBJC_IVAR_$_DJIVideoPreviewer._enableFocusWarning
+_OBJC_IVAR_$_DJIVideoPreviewer._enableHSB
+_OBJC_IVAR_$_DJIVideoPreviewer._enableShadowAndHighLightenhancement
+_OBJC_IVAR_$_DJIVideoPreviewer._enableHardwareDecode
+_OBJC_IVAR_$_DJIVideoPreviewer._enableFastUpload
+_OBJC_IVAR_$_DJIVideoPreviewer._globalTimeStamp
+_OBJC_IVAR_$_DJIVideoPreviewer._pocBufferSize
+_OBJC_IVAR_$_DJIVideoPreviewer._overExposedWarningThreshold
+_OBJC_IVAR_$_DJIVideoPreviewer._luminanceScale
+_OBJC_IVAR_$_DJIVideoPreviewer._focusWarningThreshold
+_OBJC_IVAR_$_DJIVideoPreviewer._realTimeFrameRate
+_OBJC_IVAR_$_DJIVideoPreviewer._calibrateDelegate
+_OBJC_IVAR_$_DJIVideoPreviewer._frameControlHandler
+_OBJC_IVAR_$_DJIVideoPreviewer._frameRateMonitor
+_OBJC_IVAR_$_DJIVideoPreviewer._dataQueue
+_OBJC_IVAR_$_DJIVideoPreviewer._internalGLView
+_OBJC_IVAR_$_DJIVideoPreviewer._videoExtractor
+_OBJC_IVAR_$_DJIVideoPreviewer._hw_decoder
+_OBJC_IVAR_$_DJIVideoPreviewer._soft_decoder
+_OBJC_IVAR_$_DJIVideoPreviewer._decoderStatus
+_OBJC_IVAR_$_DJIVideoPreviewer._frameOutputType
+_OBJC_IVAR_$_DJIVideoPreviewer._stream_processor_list
+_OBJC_IVAR_$_DJIVideoPreviewer._frame_processor_list
+_OBJC_IVAR_$_DJIVideoPreviewer._lb2AUDRemove
+_OBJC_IVAR_$_DJIVideoPreviewer._pocQueue
+_OBJC_IVAR_$_DJIVideoPreviewer._pocMemCache
+_OBJC_IVAR_$_DJIVideoPreviewer._cmdQueue
+_OBJC_IVAR_$_DJIVideoPreviewer._renderCond
+_OBJC_IVAR_$_DJIVideoPreviewer._decodeRunloopBlocker
+_OBJC_IVAR_$_DJIVideoPreviewer._smoothDecode
+_OBJC_IVAR_$_DJIVideoPreviewer._dLogReverse
+_OBJC_IVAR_$_DJIVideoPreviewer._shadowsLighten
+_OBJC_IVAR_$_DJIVideoPreviewer._highlightsDecrease
+_OBJC_IVAR_$_DJIVideoPreviewer._encoderType
+_OBJC_IVAR_$_DJIVideoPreviewer._customizedFramerate
+_OBJC_IVAR_$_DJIVideoPreviewer._rotation
+_OBJC_IVAR_$_DJIVideoPreviewer._type
+_OBJC_IVAR_$_DJIVideoPreviewer._hsbConfig
+_OBJC_IVAR_$_DJIVideoPreviewer._currentStreamInfo
+_OBJC_IVAR_$_DJIVideoPreviewer._frame
+_OBJC_IVAR_$_DJIVideoPreviewer._contentClipRect
+__OBJC_$_INSTANCE_VARIABLES_DJIVideoPreviewer
+__OBJC_$_PROP_LIST_DJIVideoPreviewer
+__OBJC_CLASS_RO_$_DJIVideoPreviewer
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/DJIVideoPreviewer.m
+DJIWidget/VideoPreviewer/DJIVideoPreviewer.m
+DJIWidget/VideoPreviewer/DJIVideoPreviewer.h
+__43-[DJIVideoPreviewer notifyRenderWithFrame:]_block_invoke
+__59-[DJIVideoPreviewer lb2AUDRemoveParser:didParsedData:size:]_block_invoke
+__39-[DJIVideoPreviewer workInRenderQueue:]_block_invoke
+__34-[DJIVideoPreviewer decodeRunloop]_block_invoke.310
+__34-[DJIVideoPreviewer decodeRunloop]_block_invoke_4
+__34-[DJIVideoPreviewer decodeRunloop]_block_invoke_3
+__34-[DJIVideoPreviewer decodeRunloop]_block_invoke_2
+__34-[DJIVideoPreviewer decodeRunloop]_block_invoke
+__29-[DJIVideoPreviewer setType:]_block_invoke_2
+__29-[DJIVideoPreviewer setType:]_block_invoke
+__32-[DJIVideoPreviewer clearRender]_block_invoke
+__26-[DJIVideoPreviewer close]_block_invoke
+__38-[DJIVideoPreviewer pauseWithGrayout:]_block_invoke
+__27-[DJIVideoPreviewer resume]_block_invoke
+__26-[DJIVideoPreviewer reset]_block_invoke
+__26-[DJIVideoPreviewer start]_block_invoke
+__30-[DJIVideoPreviewer unSetView]_block_invoke
+__29-[DJIVideoPreviewer setView:]_block_invoke
+__33-[DJIVideoPreviewer push:length:]_block_invoke
+-[DJIImageCacheQueue dealloc]
+-[DJIImageCacheQueue init]
+-[DJIImageCacheQueue initWithThreadSafe:]
+-[DJIImageCacheQueue pull]
+-[DJIImageCacheQueue push:]
+-[DJIImageCacheQueue .cxx_destruct]
+__OBJC_METACLASS_RO_$_DJIImageCacheQueue
+__OBJC_$_INSTANCE_METHODS_DJIImageCacheQueue
+_OBJC_IVAR_$_DJIImageCacheQueue._queue
+_OBJC_IVAR_$_DJIImageCacheQueue._mutex
+_OBJC_IVAR_$_DJIImageCacheQueue._threadSafe
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCacheQueue
+__OBJC_CLASS_RO_$_DJIImageCacheQueue
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/DJIImageCache/DJIImageCacheQueue.m
+DJIWidget/VideoPreviewer/Helper/DJIImageCache/DJIImageCacheQueue.m
++[DJILiveViewRenderDisplayView layerClass]
+-[DJILiveViewRenderDisplayView initWithFrame:context:]
+-[DJILiveViewRenderDisplayView commonInit]
+-[DJILiveViewRenderDisplayView layoutSubviews]
+-[DJILiveViewRenderDisplayView dealloc]
+-[DJILiveViewRenderDisplayView createDisplayFramebuffer]
+-[DJILiveViewRenderDisplayView destroyDisplayFramebuffer]
+-[DJILiveViewRenderDisplayView setDisplayFramebuffer]
+-[DJILiveViewRenderDisplayView presentFramebuffer]
+-[DJILiveViewRenderDisplayView recalculateViewGeometry]
+-[DJILiveViewRenderDisplayView setBackgroundColorRed:green:blue:alpha:]
+-[DJILiveViewRenderDisplayView textureCoordinates]
+-[DJILiveViewRenderDisplayView newFrameReadyAtTime:atIndex:]
+-[DJILiveViewRenderDisplayView nextAvailableTextureIndex]
+-[DJILiveViewRenderDisplayView setInputFramebuffer:atIndex:]
+-[DJILiveViewRenderDisplayView setInputSize:atIndex:]
+-[DJILiveViewRenderDisplayView maximumOutputSize]
+-[DJILiveViewRenderDisplayView endProcessing]
+-[DJILiveViewRenderDisplayView shouldIgnoreUpdatesToThisTarget]
+-[DJILiveViewRenderDisplayView wantsMonochromeInput]
+-[DJILiveViewRenderDisplayView setCurrentlyReceivingMonochromeInput:]
+-[DJILiveViewRenderDisplayView sizeInPixels]
+-[DJILiveViewRenderDisplayView setFillMode:]
+-[DJILiveViewRenderDisplayView fillMode]
+-[DJILiveViewRenderDisplayView enabled]
+-[DJILiveViewRenderDisplayView setEnabled:]
+-[DJILiveViewRenderDisplayView setSizeInPixels:]
+-[DJILiveViewRenderDisplayView displayProgram]
+-[DJILiveViewRenderDisplayView setDisplayProgram:]
+-[DJILiveViewRenderDisplayView context]
+-[DJILiveViewRenderDisplayView setContext:]
+-[DJILiveViewRenderDisplayView .cxx_destruct]
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView._context
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.displayPositionAttribute
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.displayTextureCoordinateAttribute
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.displayInputTextureUniform
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView._displayProgram
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView._fillMode
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.boundsSizeAtFrameBufferEpoch
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.shouldRecreateBuffer
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.displayFramebuffer
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.displayRenderbuffer
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView._sizeInPixels
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.inputImageSize
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.imageVertices
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.backgroundColorRed
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.backgroundColorGreen
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.backgroundColorBlue
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.backgroundColorAlpha
+_textureCoordinates.noRotationTextureCoordinates
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView.inputFramebufferForDisplay
+_OBJC_IVAR_$_DJILiveViewRenderDisplayView._enabled
+__OBJC_$_CLASS_METHODS_DJILiveViewRenderDisplayView
+__OBJC_CLASS_PROTOCOLS_$_DJILiveViewRenderDisplayView
+__OBJC_METACLASS_RO_$_DJILiveViewRenderDisplayView
+__OBJC_$_INSTANCE_METHODS_DJILiveViewRenderDisplayView
+__OBJC_$_INSTANCE_VARIABLES_DJILiveViewRenderDisplayView
+__OBJC_$_PROP_LIST_DJILiveViewRenderDisplayView
+__OBJC_CLASS_RO_$_DJILiveViewRenderDisplayView
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderDisplayView.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderDisplayView.m
+DJIWidget/VideoPreviewer/Render/Base/DJILiveViewRenderDisplayView.h
+-[DJIAudioSampleBuffer init]
+-[DJIAudioSampleBuffer audioBufferPush:count:]
+-[DJIAudioSampleBuffer audioBufferSize]
+-[DJIAudioSampleBuffer audioBufferGet]
+-[DJIAudioSampleBuffer audioBufferPop:]
+-[DJIAudioSampleBuffer audioBufferClear]
+-[DJIP3AudioByteBuffer init]
+-[DJIP3AudioByteBuffer audioBufferPush:count:]
+-[DJIP3AudioByteBuffer audioBufferPushFloat:count:]
+-[DJIP3AudioByteBuffer audioBufferPushFloat:channel:sampleCount:]
+-[DJIP3AudioByteBuffer audioBufferSize]
+-[DJIP3AudioByteBuffer audioBufferGet]
+-[DJIP3AudioByteBuffer audioBufferPop:]
+-[DJIP3AudioByteBuffer audioBufferClear]
+__OBJC_METACLASS_RO_$_DJIAudioSampleBuffer
+__OBJC_$_INSTANCE_METHODS_DJIAudioSampleBuffer
+_OBJC_IVAR_$_DJIAudioSampleBuffer.g_audio_buf
+_OBJC_IVAR_$_DJIAudioSampleBuffer.g_audio_buf_size
+__OBJC_$_INSTANCE_VARIABLES_DJIAudioSampleBuffer
+__OBJC_CLASS_RO_$_DJIAudioSampleBuffer
+__OBJC_METACLASS_RO_$_DJIP3AudioByteBuffer
+__OBJC_$_INSTANCE_METHODS_DJIP3AudioByteBuffer
+_OBJC_IVAR_$_DJIP3AudioByteBuffer.g_audio_buf
+_OBJC_IVAR_$_DJIP3AudioByteBuffer.g_audio_buf_size
+__OBJC_$_INSTANCE_VARIABLES_DJIP3AudioByteBuffer
+__OBJC_CLASS_RO_$_DJIP3AudioByteBuffer
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/RTMPProcessor/DJIAudioSampleBuffer.m
+DJIWidget/RTMPProcessor/DJIAudioSampleBuffer.m
++[DJIAlbumTransfer writeVideo:toAlbum:completionBlock:]
+___55+[DJIAlbumTransfer writeVideo:toAlbum:completionBlock:]_block_invoke
+___55+[DJIAlbumTransfer writeVideo:toAlbum:completionBlock:]_block_invoke.12
+___55+[DJIAlbumTransfer writeVideo:toAlbum:completionBlock:]_block_invoke_2
+___copy_helper_block_e8_32s40b48s56r64w
+___destroy_helper_block_e8_32s40s48s56r64w
+___55+[DJIAlbumTransfer writeVideo:toAlbum:completionBlock:]_block_invoke.17
+___copy_helper_block_e8_32b40s48w
+___destroy_helper_block_e8_32s40s48w
++[DJIAlbumTransfer writeVidoToAssetLibrary:completionBlock:]
++[DJIAlbumTransfer saveVideoToAssetLibrary:completionBlock:]
+___60+[DJIAlbumTransfer saveVideoToAssetLibrary:completionBlock:]_block_invoke
+___copy_helper_block_e8_32b40w
++[DJIAlbumTransfer addAsset:toAlbum:withAssetsLibrary:completionBlock:]
+___71+[DJIAlbumTransfer addAsset:toAlbum:withAssetsLibrary:completionBlock:]_block_invoke
++[DJIAlbumTransfer findOrCreateAssetsGroup:withAssetsLibrary:completion:]
+___73+[DJIAlbumTransfer findOrCreateAssetsGroup:withAssetsLibrary:completion:]_block_invoke
+___73+[DJIAlbumTransfer findOrCreateAssetsGroup:withAssetsLibrary:completion:]_block_invoke.44
++[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]
+___70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke
+___70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke.75
+___70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke_2
+___copy_helper_block_e8_32s40b48r
+___destroy_helper_block_e8_32s40s48r
+___70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke.80
+___copy_helper_block_e8_32s40s48b56r
+___destroy_helper_block_e8_32s40s48s56r
+___70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke.88
+___70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke.90
++[DJIAlbumTransfer createAlbumIfNotExist:]
+___42+[DJIAlbumTransfer createAlbumIfNotExist:]_block_invoke
+___block_descriptor_48_e8_32bs40s_e35_v24?0"ALAssetsGroup"8"NSError"16l
+___block_descriptor_72_e8_32s40bs48s56r64w_e17_v16?0"ALAsset"8l
+___block_descriptor_40_e8_32bs_e17_v16?0"NSError"8l
+___block_descriptor_56_e8_32bs40s48w_e27_v24?0"NSURL"8"NSError"16l
+_OBJC_CLASSLIST_REFERENCES_$_.24
+___block_descriptor_48_e8_32bs40w_e27_v24?0"NSURL"8"NSError"16l
+___block_descriptor_72_e8_32s40bs48s56r64w_e27_v24?0"ALAssetsGroup"8^B16l
+___block_descriptor_56_e8_32s40bs48r_e27_v24?0"ALAssetsGroup"8^B16l
+___block_descriptor_64_e8_32s40s48bs56r_e20_v20?0B8"NSError"12l
+___block_descriptor_40_e8_32bs_e23_v16?0"ALAssetsGroup"8l
+___block_descriptor_32_e35_v24?0"ALAssetsGroup"8"NSError"16l
+__OBJC_$_CLASS_METHODS_DJIAlbumTransfer
+__OBJC_METACLASS_RO_$_DJIAlbumTransfer
+__OBJC_CLASS_RO_$_DJIAlbumTransfer
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/DJIAlbumTransfer.m
+__42+[DJIAlbumTransfer createAlbumIfNotExist:]_block_invoke
+DJIWidget/VideoPreviewer/DJIAlbumTransfer.m
+__70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke.90
+__70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke.88
+__destroy_helper_block_e8_32s40s48s56r
+__copy_helper_block_e8_32s40s48b56r
+__70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke.80
+__destroy_helper_block_e8_32s40s48r
+__copy_helper_block_e8_32s40b48r
+__70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke_2
+__70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke.75
+__70+[DJIAlbumTransfer createAlbumWithCompletion:assetsLibrary:groupName:]_block_invoke
+__73+[DJIAlbumTransfer findOrCreateAssetsGroup:withAssetsLibrary:completion:]_block_invoke.44
+__73+[DJIAlbumTransfer findOrCreateAssetsGroup:withAssetsLibrary:completion:]_block_invoke
+__71+[DJIAlbumTransfer addAsset:toAlbum:withAssetsLibrary:completionBlock:]_block_invoke
+__copy_helper_block_e8_32b40w
+__60+[DJIAlbumTransfer saveVideoToAssetLibrary:completionBlock:]_block_invoke
+__destroy_helper_block_e8_32s40s48w
+__copy_helper_block_e8_32b40s48w
+__55+[DJIAlbumTransfer writeVideo:toAlbum:completionBlock:]_block_invoke.17
+__destroy_helper_block_e8_32s40s48s56r64w
+__copy_helper_block_e8_32s40b48s56r64w
+__55+[DJIAlbumTransfer writeVideo:toAlbum:completionBlock:]_block_invoke_2
+__55+[DJIAlbumTransfer writeVideo:toAlbum:completionBlock:]_block_invoke.12
+__55+[DJIAlbumTransfer writeVideo:toAlbum:completionBlock:]_block_invoke
+-[DJIReverseDLogFilter initWithContext:]
+-[DJIReverseDLogFilter setLutType:]
+-[DJIReverseDLogFilter lutForType:]
++[DJIReverseDLogFilter imageNameWithLUTType:]
+___45+[DJIReverseDLogFilter imageNameWithLUTType:]_block_invoke
+-[DJIReverseDLogFilter lutType]
+_OBJC_IVAR_$_DJIReverseDLogFilter._lutType
+_imageNameWithLUTType:.lutDic
+_imageNameWithLUTType:.onceToken
+__OBJC_$_CLASS_METHODS_DJIReverseDLogFilter
+__OBJC_METACLASS_RO_$_DJIReverseDLogFilter
+__OBJC_$_INSTANCE_METHODS_DJIReverseDLogFilter
+__OBJC_$_INSTANCE_VARIABLES_DJIReverseDLogFilter
+__OBJC_$_PROP_LIST_DJIReverseDLogFilter
+__OBJC_CLASS_RO_$_DJIReverseDLogFilter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Render/ReversDLogLookup/DJIReverseDLogFilter.m
+DJIWidget/VideoPreviewer/Render/ReversDLogLookup/DJIReverseDLogFilter.h
+__45+[DJIReverseDLogFilter imageNameWithLUTType:]_block_invoke
+DJIWidget/VideoPreviewer/Render/ReversDLogLookup/DJIReverseDLogFilter.m
+-[DJIImageCalibrateColorCPUConverter dealloc]
+-[DJIImageCalibrateColorCPUConverter init]
+-[DJIImageCalibrateColorCPUConverter initData]
+-[DJIImageCalibrateColorCPUConverter alignmentWithSlice:]
+-[DJIImageCalibrateColorCPUConverter resetDataAndSlice]
+-[DJIImageCalibrateColorCPUConverter convertFromRGBA:withSize:]
+-[DJIImageCalibrateColorCPUConverter outputFormat]
+-[DJIImageCalibrateColorCPUConverter setColorConverterInputFramebuffer:atIndex:]
+-[DJIImageCalibrateColorCPUConverter dataBuffer:arrivalRGBAData:withSize:]
+-[DJIImageCalibrateColorCPUConverter updateNewFrameWithPixelData:withSize:]
+-[DJIImageCalibrateColorCPUConverter .cxx_destruct]
+_OBJC_IVAR_$_DJIImageCalibrateColorCPUConverter._pSwsContext
+_OBJC_IVAR_$_DJIImageCalibrateColorCPUConverter._inputSize
+_OBJC_IVAR_$_DJIImageCalibrateColorCPUConverter._cacheSizes
+_OBJC_IVAR_$_DJIImageCalibrateColorCPUConverter._cache
+_OBJC_IVAR_$_DJIImageCalibrateColorCPUConverter._yuvSlice
+_OBJC_IVAR_$_DJIImageCalibrateColorCPUConverter._yuvData
+__OBJC_$_PROTOCOL_REFS_DJIDecodeImageCalibrateDataBufferHandlerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DJIDecodeImageCalibrateDataBufferHandlerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_DJIDecodeImageCalibrateDataBufferHandlerDelegate
+__OBJC_PROTOCOL_$_DJIDecodeImageCalibrateDataBufferHandlerDelegate
+__OBJC_LABEL_PROTOCOL_$_DJIDecodeImageCalibrateDataBufferHandlerDelegate
+__OBJC_CLASS_PROTOCOLS_$_DJIImageCalibrateColorCPUConverter
+__OBJC_METACLASS_RO_$_DJIImageCalibrateColorCPUConverter
+__OBJC_$_INSTANCE_METHODS_DJIImageCalibrateColorCPUConverter
+__OBJC_$_INSTANCE_VARIABLES_DJIImageCalibrateColorCPUConverter
+__OBJC_$_PROP_LIST_DJIImageCalibrateColorCPUConverter
+__OBJC_CLASS_RO_$_DJIImageCalibrateColorCPUConverter
+/Users/jonasbromo/Development/misc/DJIWidget/Carthage/Checkouts/DJIWidget/DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateColorCPUConverter.m
+DJIWidget/VideoPreviewer/Helper/ImageCalibrate/DJIImageCalibrateColorCPUConverter.m
